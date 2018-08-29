@@ -1,0 +1,21 @@
+<!-- post list -->
+{{ range $index, $element := $.Paginator.Pages }}
+    <div class="post">
+        <article class="post-entry">
+            <a class="image" href="{{ .Permalink }}" background-image="">
+            </a>
+            <div class="post-info">
+                <h3>
+                    <a href="{{ .Permalink }}">
+                         {{ .Title }}
+                    </a>
+                </h3>
+            </div>
+        </article>
+    </div>
+{{ end }}
+
+
+
+
+

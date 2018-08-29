@@ -1,0 +1,11 @@
+[{{ range $index, $page := .Pages }}
+{{- if ne $page.Type "json" -}}
+{{- if and $index (gt $index 0) -}},{{- end }}
+{
+    "uri": "{{ $page.Permalink }}",
+    "title": "{{ htmlEscape $page.Title}}",
+    "image": "{{  $page.Param "thumbnailImage"}}",
+    "tags": [{{ range $tindex, $tag := $page.Params.tags }}{{ if $tindex }}, {{ end }}"{{ $tag| htmlEscape }}"{{ end }}]
+}
+{{- end -}}
+{{- end -}}]

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Comics on Brainsation</title>
+    <link>http://brainsation.com.s3-website-us-west-2.amazonaws.com/tags/comics/</link>
+    <description>Recent content in Comics on Brainsation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Mar 2018 06:30:01 +0000</lastBuildDate>
+    
+	<atom:link href="http://brainsation.com.s3-website-us-west-2.amazonaws.com/tags/comics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>15 Marvel Actresses Who Sizzle On And Off The Screen</title>
+      <link>http://brainsation.com.s3-website-us-west-2.amazonaws.com/post/15-marvel-actresses/</link>
+      <pubDate>Mon, 05 Mar 2018 06:30:01 +0000</pubDate>
+      
+      <guid>http://brainsation.com.s3-website-us-west-2.amazonaws.com/post/15-marvel-actresses/</guid>
+      <description>All too often, the men of the Marvel universe take center stage. It makes sense on the surface of things, given that most superheroes are men. In the past few decades, however, our superheroine sisters have all been busy making names for themselves and changing the landscape of comic-inspired cinema. The Marvel-verse couldn&amp;rsquo;t survive without the women behind it, and those heroines wouldn&amp;rsquo;t exist without the indomitable actors who brought them to life on the big screen.</description>
+    </item>
+    
+  </channel>
+</rss>

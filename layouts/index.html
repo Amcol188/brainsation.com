@@ -1,0 +1,50 @@
+{{ partial "header.html" . }}
+
+
+<main class="main">
+
+	{{ partial "last_news.html" . }}
+	 <div class="content">
+	 	<div class="container">
+		 		<div class="content-block">
+		 			<div class="news-list">
+		 					<div class="grid">
+
+			
+
+		 						{{ range first 6 (where .Pages "Section" "post") }}
+		 							 <div class="post">
+								        <article class="post-entry">
+								            <a class="image" href="{{ .Permalink }}" style="background:url({{ .Params.thumbnailImage }}) no-repeat 50% 50% / cover"
+								            >
+								            </a>
+								            <div class="post-info">
+								                <h3>
+								                    <a href="{{ .Permalink }}">
+								                         {{ .Title }}
+								                    </a>
+								                </h3>
+								            </div>
+								        </article>
+								    </div>
+		 						{{ end }}
+
+			 				</div>
+		 			</div>
+			 			{{ partial "news_slider.html" . }}
+		 				{{ partial "posts-infinite.html" . }}
+								
+			 				
+		 		</div>
+		 		<div class="ad-block">
+		 			
+		 		</div>
+	 	</div>
+	 </div>
+</main>
+
+
+
+
+
+{{ partial "footer.html" . }}

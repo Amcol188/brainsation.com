@@ -1,0 +1,26 @@
+<section class="top-news">
+	 <div class="container">
+	 	<div class="top-news-holder">
+	 		<div class="one-news">
+	 			{{ $paginator := .Paginate (where .Data.Pages "Type" "post") }}
+				{{ range first 1 (where .Pages "Section" "post") }}
+					<article class="post-item post-large" style="background:url({{ .Params.thumbnailImage }}) no-repeat 50% 50% / cover">
+		 				<a href="{{ .Permalink }}">
+		 					<h1 class="post-title">{{ .Title }}</h1>
+		 					<span class="read-more">Read more <img class="ico-arrow" width="15px" src="/images/arrow-right.svg" alt=""></span>
+		 				</a>
+		 			</article>
+				{{ end }}
+	 		</div>
+	 		<div class="two-news">
+	 			{{ range first 2 ( after 1 (where .Pages "Section" "post"))}}
+		 			<article class="post-item post-medium" style="background:url({{ .Params.thumbnailImage }}) no-repeat 50% 50% / cover">
+		 				<a href="{{ .Permalink }}">
+		 					<h1 class="post-title">{{ .Title }}</h1>
+		 				</a>
+					</article>
+	 			{{ end }}
+	 		</div>
+	 	</div>
+	</div>
+</section>

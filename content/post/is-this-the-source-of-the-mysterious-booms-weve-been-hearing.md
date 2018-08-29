@@ -1,0 +1,29 @@
+---
+title: Is This the Source of the Mysterious Booms We've Been Hearing?
+date: Wed, 30 May 2018 21:40:57 +0000
+thumbnailImage: "/uploads/crowd-looking-up-fb-1-810x425.png"
+tags:
+- Uncategorized
+
+---
+To say that there have been several instances of mysterious "booms" reported around the US in the last 6 - 8 months is not a conpsiracy theory. Local news stations have reported on them as well as the National Weather Service. This alleged source of the booms, however, is a little more controversial and, if it's true, is actually quite disturbing. 
+
+![](http://newsattorneys.staging.wpengine.com/wp-content/uploads/2018/05/sky-with-clouds-pexels-1024x575.jpg) 
+
+[Pexels](https://www.pexels.com/photo/sky-sunny-clouds-cloudy-3768/) First a little backstory on the booms. This is from a [Newsweek](http://www.newsweek.com/mystery-booms-recorded-around-country-unclear-why-721533) article toward the end of last year: Loud, booming noises have startled people across the United States, and it was unclear what was actually happening or if the separate events were even related. Residents in Alabama, California, Idaho, Michigan and New Jersey reported hearing similar mysterious sounds. Most recently, the noises were heard in Colorado, CBS Denver reports. The Monday sounds left CBS Denver’s meteorologist Chris Spears baffled. The only possible conclusion he could offer was that meteors from the Leonid meteor shower were bursting in the sky, creating the loud noises. Ron Hranac, an astronomy expert, struck down that theory, saying that the meteors produced by the Leonids were way too small for that to happen, according to CBS Denver. 
+
+![](http://newsattorneys.staging.wpengine.com/wp-content/uploads/2018/05/crowd-looking-up-fb-1-1024x538.png) 
+
+[Flickr](https://www.flickr.com/photos/riot/6627365217) The Denver boom was explained away as an exploding tank at an oil and gas production company, but what about the dozens of other ones? One explanation may be a atmospheric phenomenon known as a skyquake. Here's more about them from [Accuweather.com](https://www.accuweather.com/en/weather-news/mysterious-skyquakes-continue-across-the-world-with-few-answers-to-their-origins/70003475): Across the world, the sky is quaking with mysterious, explosive booms leaving residents rattled and baffling experts trying to determine their origins. More than 64 different incidents involving loud, unexplained booms worldwide have been reported in 2017, according to a recent NY Post report. 
+
+![](http://newsattorneys.staging.wpengine.com/wp-content/uploads/2018/05/cloudy-sky-after-rain-14-1024x680.jpg) 
+
+[Public Domain Pictures](https://www.publicdomainpictures.net/en/view-image.php?image=154498&picture=cloudy-sky-after-rain-14) The most recently reported skyquake in the U.S. occurred near Daytona Beach, Florida, on Dec. 3, prompting nearby residents to search for answers on social media. Birmingham, Alabama, residents experienced a similar event last month, which local media dubbed the "Bama Boom." The "Bama Boom" occurred on Tuesday, Nov. 14, around 1:30 p.m. local time, according to Fox News. National Weather Service officials in Birmingham tweeted shortly after the boom was reported, stating: "Loud boom heard: we do not see anything indicating large fire/smoke on radar or satellite; nothing on USGS indicating an earthquake." Some of the possible explanations for loud booms could be lightning from distant thunderstorms, large meteors entering the atmosphere, earthquakes, mining operations such as blasting and super-sonic aircraft. 
+
+![](http://newsattorneys.staging.wpengine.com/wp-content/uploads/2018/05/myster-boom-tunnel-1024x571.jpg) 
+
+[YouTube](https://www.youtube.com/watch?v=JZSmsDvxKek) "Shallow, brittle earthquakes and underground mine bumps can do this, causing both shaking from below and sound in the air," AccuWeather Meteorologist Jim Andrews said. "Then there are both natural and man-made causes originating in the atmosphere." For window shaking events, a sonic boom is the most likely culprit, but as the Accuweather Meteorologist suggested, the could also be caused by below-ground actions, and that's where this next wild theory comes from. Is it just a far out conspiracy theory or do you think there could be some truth to it? Here's the story from the [Daily Star](https://www.dailystar.co.uk/news/weird-news/705994/Mystery-booms-US-linked-FEMA-disaster-preparation-tunnels-video): Conspiracy theorist Tyler Glockner believes the strange sounds are proof of a secret underground passageway. But he also revealed they are being dug to link supermarket stores together in preparation for an emergency situation. 
+
+![](http://newsattorneys.staging.wpengine.com/wp-content/uploads/2018/05/youtube-comment-1024x264.jpg) 
+
+[YouTube](https://www.youtube.com/watch?v=JZSmsDvxKek) In a video posted online, he said: "These massive booms are linked to an underground tunnelling system and your local Walmart store. "The theory is that these massive tunnels built underground are all connected to a store. "At some point, they will be used for housing areas for people. "Just think – if something ever did happen, you will have these massive tunnels below the surface which link to these stores that could easily be converted to camps." Since he uploaded the video on May 27, it has already racked up more than 350,000 hits. And viewers were quick to offer their own opinion on the topic. One comment read: "This is not a wild theory. "My local Walmart had construction going for nearly two years, but when they were done nothing changed." Another added: "FEMA are getting plastic coffins stacked up ready for something huge." And a third claimed: "FEMA camps are being prepared." What do you think is causing these loud booms? And, is it just a conspiracy theory or something far more sinister?

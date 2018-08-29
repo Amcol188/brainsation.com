@@ -1,0 +1,8 @@
+{{ if .Params.tags }}
+	<div class="post-tags">
+	    <span>Categories:</span> 
+	   	{{ range .Params.tags }}
+	    	<a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}" rel="category tag">{{ . }}</a>
+	    {{ end }}
+	</div>
+{{ end }}

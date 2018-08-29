@@ -1,0 +1,14 @@
+<div class="news-carousel">
+	<div class="owl-carousel owl-posts">
+		{{ range first 3 (where .Pages "Section" "post") }}
+			<div class="item">
+				<a class="post-item post-large" href="{{ .Permalink }}" style="background:url({{ .Params.thumbnailImage }}) no-repeat 50% 50% / cover">
+					<div class="holder-block">
+						<div class="post-title">{{ .Title }}</div>
+						<span class="read-more">Read more<img class="ico-arrow" width="15px" src="/images/arrow-right.svg" alt=""></span>
+					</div>
+				</a>
+			</div>
+		{{ end }}
+	</div>
+</div>

@@ -1,0 +1,61 @@
+{{ partial "header.html" . }}
+
+<main>
+	 {{ partial "last_news.html" . }}
+	 <div class="content">
+	 	<div class="container">
+		 		<div class="content-block">
+		 			<div class="news-list">
+		 					<div class="grid">
+
+			
+
+		 						{{ range first 6 (where .Pages "Section" "post") }}
+		 							 <div class="post">
+								        <article class="post-entry">
+								            <a class="image" href="{{ .Permalink }}" style="background:url({{ .Site.BaseURL }}{{ .Params.thumbnailImage }}) no-repeat 50% 50% / cover"
+								            >
+								            </a>
+								            <div class="post-info">
+								                <h3>
+								                    <a href="{{ .Permalink }}">
+								                         {{ .Title }}
+								                    </a>
+								                </h3>
+								            </div>
+								        </article>
+								    </div>
+		 						{{ end }}
+
+			 				</div>
+		 			</div>
+		 			<div class="news-carousel">
+		 				<div class="owl-carousel owl-posts">
+		 					{{ range first 3 (where .Pages "Section" "post") }}
+							    <div class="item">
+							    	<a class="post-item post-large" href="{{ .Permalink }}" style="background:url({{ .Site.BaseURL }}{{ .Params.thumbnailImage }}) no-repeat 50% 50% / cover">
+								      	<div class="holder-block">
+											<div class="post-title">{{ .Title }}</div>
+											<span class="read-more">Read more<img class="ico-arrow" width="15px" src="{{ .Site.BaseURL }}/images/arrow-right.svg" alt=""></span>
+										</div>
+								    </a>
+							    </div>
+							{{ end }}
+
+						</div>
+
+		 			</div>
+		 			
+
+								{{ partial "posts-infinite.html" . }}
+								
+			 				
+		 		</div>
+		 		<div class="ad-block">
+		 			
+		 		</div>
+	 	</div>
+	 </div>
+</main>
+
+{{ partial "footer.html" . }}

@@ -1,0 +1,41 @@
+<head>
+	<!-- Standard Metadata -->
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>{{ if .Title }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
+	<meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.SiteDescription }}{{ end }}">
+	<!-- Responsive meta tag -->
+	<meta charset="UTF-8" name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<!-- Open Graph Protocol http://ogp.me/ -->
+	<meta property="og:locale" content="en_US">
+	<meta property="og:title" content="{{ if .Title }}{{ .Title }}{{ else }}{{ .Site.Title }}{{ end }}">
+	<meta property="og:image" content="{{ if .Params.thumbnailImage }}{{.Site.BaseURL}}/{{.Params.thumbnailImage}}{{ else }}{{.Site.BaseURL}}/images/site-logo.png{{ end }}">
+	<meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.Description }}{{ end }}">
+	<meta property="og:site_name" content="{{ .Site.Title }}">
+	<!-- Facebook Open Graph -->
+	<!-- Google+ / Schema.org -->
+	<meta itemprop="name" content="{{ if .Title }}{{ .Title }}{{ else }}{{ .Site.Title }}{{ end }}">
+	<meta itemprop="headline" content="{{ if .Title }}{{ .Title }}{{ else }}{{ .Site.Title }}{{ end }}">
+	<meta itemprop="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.Description }}{{ end }}">
+	<meta itemprop="image" content="{{ if .Params.thumbnailImage }}{{.Site.BaseURL}}/{{.Params.thumbnailImage}}{{ else }}{{.Site.BaseURL}}/images/site-logo.png{{ end }}">	
+	<meta itemprop="datePublished" content="{{ .Params.date }}">
+	<!-- Twitter Cards -->
+	<meta name="twitter:title" content="{{ if .Title }}{{ .Title }}{{ else }}{{ .Site.Title }}{{ end }}">
+	<meta name="twitter:url" content=" {{ .Permalink }}">
+	<meta name="twitter:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.Description }}{{ end }}">
+	<meta name="twitter:image" content="{{ if .Params.thumbnailImage }}{{.Site.BaseURL}}/{{.Params.thumbnailImage}}{{ else }}{{.Site.BaseURL}}/images/site-logo.png{{ end }}">
+	<meta name="twitter:card" content="summary_large_image">
+
+
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.min.css">
+
+	<link rel="stylesheet" href="/libs/owlcarousel/assets/owl.carousel.min.css">
+	<link href="https://fonts.googleapis.com/css?family=Arimo:400,700" rel="stylesheet">
+
+	<link rel="stylesheet" href="/css/style.css">
+	<link rel="stylesheet" href="/css/media.css">
+
+
+
+</head>

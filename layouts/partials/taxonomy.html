@@ -1,0 +1,16 @@
+{{ partial "header.html" . }}
+
+	
+	
+<div class="row">
+	<h2>{{ .Title }}:</h2>
+	<div class="twelve columns">
+		{{ range .Data.Pages }}
+		<a href="{{ .Permalink }}" class="cat-list-link">{{ .Title }}</a>
+		<br>
+		{{ end }}
+	</div>
+</div>
+
+
+{{ partial "footer.html" . }}
