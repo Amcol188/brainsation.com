@@ -13,9 +13,8 @@
 		 		<div class="content-block">
 		 			<div class="news-list">
 		 					<div class="grid">
-						
-		 					{{ range first 6 (where .Pages "Section" "post") }}
-		 						
+							{{ if ne .Data.Pages "subpage" }}
+		 						{{ range first 6 (where .Pages "Section" "post") }}
 		 							 <div class="post">
 								        <article class="post-entry">
 								            <a class="image" href="{{ .Permalink }}" style="background:url({{ .Params.thumbnailImage }}) no-repeat 50% 50% / cover"
@@ -31,7 +30,7 @@
 								        </article>
 								    </div>
 		 						{{ end }}
-				
+							{{ end }}
 			 				</div>
 		 			</div>
 		 		</div>
