@@ -13,8 +13,8 @@
 		 		<div class="content-block">
 		 			<div class="news-list">
 		 					<div class="grid">
-							{{ if ne .Data.Pages "subpages" }}
-		 						{{ range first 6 (where .Pages "Section" "post") }}
+		 					{{ range where .Pages "Section" "post" }}
+		 						{{ range first 6 (where .Pages "Params.tags" "!=" "celebs") }}
 		 							 <div class="post">
 								        <article class="post-entry">
 								            <a class="image" href="{{ .Permalink }}" style="background:url({{ .Params.thumbnailImage }}) no-repeat 50% 50% / cover"
