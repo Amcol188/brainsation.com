@@ -74,10 +74,12 @@ ol li, ul li{
 .ad-top{
   padding-top: 30px;
   text-align: center;
-
+}
+.ad-slider{
+  padding: 30px 0;
 }
 .ad-side{
-  padding: 0 20px;
+  padding: 30px 20px;
 }
 header {
   background-color: #0074C7; }

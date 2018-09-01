@@ -155,7 +155,11 @@
   .title-section {
     margin-bottom: 15px; } 
   .twocolums{
-    flex-direction: column;
+    flex-direction: row;
+  }
+  .ad-side{
+    padding: 0 20px;
+    text-align: center;
   }
   }
 
