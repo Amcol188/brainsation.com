@@ -69,6 +69,7 @@ ol li, ul li{
 .twocolums{
   display: -ms-flexbox;
     display: flex;
+    flex-direction: column;
 }
 .ad-top{
   padding-top: 30px;
