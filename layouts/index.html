@@ -13,7 +13,6 @@
 		 		<div class="content-block">
 		 			<div class="news-list">
 		 					<div class="grid">
-
 		 						{{ range first 6 (where .Pages "Section" "post") }}
 		 							 <div class="post">
 								        <article class="post-entry">
@@ -30,9 +29,9 @@
 								        </article>
 								    </div>
 		 						{{ end }}
-
 			 				</div>
 		 			</div>
+		 		</div>
 		 		<div class="ad-side">
 		 			{{ partial "google/home_side_ad.html" . }}
 		 		</div>

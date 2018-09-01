@@ -76,7 +76,6 @@ ol li, ul li{
 
 }
 .ad-side{
-  width: 100%;
   padding: 0 20px;
 }
 header {
@@ -346,6 +345,7 @@ img.ico-arrow {
   padding-top: 30px; }
 
 .content-block {
+  width: 100%;
   max-width: 792px; }
 
 .post-entry .image {
