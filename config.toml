@@ -1,4 +1,4 @@
-baseURL = "http://brainsation.com.s3-website-us-west-2.amazonaws.com"
+baseURL = "http://st.brainsation.com/"
 canonifyURLs = true
 languageCode = "en-us"
 publishDir = "docs"
