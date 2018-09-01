@@ -333,7 +333,6 @@ main {
     float: left; }
     .post-item.post-medium .post-title {
       font-size: 14px;
-      max-height: 97px;
       overflow: hidden; }
       .post-item.post-medium .post-title:only-child {
         margin-bottom: 0; }
