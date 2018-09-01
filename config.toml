@@ -3,34 +3,43 @@ canonifyURLs = true
 languageCode = "en-us"
 publishDir = "docs"
 title = "Brainsation"
+
 [Params]
-description = "Brainsation"
-infinite_scroll = true
+
+	description = "Brainsation"
+	infinite_scroll = true
+
 [[menu.footer]]
-identifier = "termsofservice"
-name = "Terms of Service"
-url = "/terms-of-service/"
-weight = -110
+
+	identifier = "termsofservice"
+	name = "Terms of Service"
+	url = "/terms-of-service/"
+	weight = -110
+
 [[menu.footer]]
-name = "Privacy Policy"
-url = "/privacy-policy/"
-weight = -100
+	name = "Privacy Policy"
+	url = "/privacy-policy/"
+	weight = -100
+
 [[menu.main]]
-identifier = "CULTURE"
-name = "culture"
-url = "/tags/culture/"
-weight = -110
+	identifier = "CULTURE"
+	name = "culture"
+	url = "/tags/culture/"
+	weight = -110
+
 [[menu.main]]
-name = "entertainment"
-url = "/tags/entertainment/"
-weight = -100
+	name = "entertainment"
+	url = "/tags/entertainment/"
+	weight = -100
+
 [outputs]
-home = ["HTML", "RSS", "JSON"]
-[params]
-description = "Some description"
-infinite_scroll = true
+
+	home = ["HTML", "RSS", "JSON"]
+
+
 [premalinks]
-page = "/:title/"
+	page = "/:title/"
+
 [taxonomies]
-category = "categories"
-tag = "tags"
+	category = "categories"
+	tag = "tags"
