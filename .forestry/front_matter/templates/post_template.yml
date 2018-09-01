@@ -38,4 +38,5 @@ fields:
   name: specialpost
   description: specialpost
 pages:
+- content/post/test-post-page-2.md
 - content/post/test.md
