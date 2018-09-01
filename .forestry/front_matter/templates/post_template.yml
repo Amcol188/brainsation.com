@@ -33,5 +33,9 @@ fields:
   type: tag_list
   hidden: false
   default: ''
+- type: boolean
+  label: specialpost
+  name: specialpost
+  description: specialpost
 pages:
 - content/post/test.md
