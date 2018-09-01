@@ -33,18 +33,22 @@
 
 			 				</div>
 		 			</div>
+		 			<div class="ad-side">
+			 			{{ partial "google/home_side_ad.html" . }}
+			 		</div>
+		 		</div>
 			 			{{ partial "news_slider.html" . }}
-			 			<div class="ad-top">
+
+			 			<div class="ad-top ad-slider">
 			 			{{ partial "google/home_top_ad.html" . }}
 						</div>
+
 		 				{{ partial "posts-infinite.html" . }}
 								
 			 				
 		 		</div>
-		 		<div class="ad-side">
-		 			{{ partial "google/home_side_ad.html" . }}
-		 		</div>
-		 	</div>
+		 		
+		 	
 	 	</div>
 	 </div>
 </main>
