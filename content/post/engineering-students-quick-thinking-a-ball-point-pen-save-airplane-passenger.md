@@ -20,6 +20,4 @@ _![](http://newsattorneys.staging.wpengine.com/wp-content/uploads/2018/05/insuli
 
 [_Flickr_](https://www.flickr.com/photos/37996646802@N01/4773288007) _With the plane starting its decent but not able to land for another hour and a half, and the doctor concerned he didn't have that long, Karttikeya used the plane’s WiFi to download a PDF of the pen’s design schematic. It became apparent that a small spring just behind the cartridge was missing from the device. “Keeping a cool head, I instructed the air hostess to ask the passengers for any ballpoint pens, which usually have a spring in them. In a few minutes, I got 4-5 pens from the anxious passengers,” writes Karttikeya._
 
-{{< twitter _993452827128270850_ >}}
-
 _Remarkably, one passenger had a spring that was a perfect fit. They assembled the pen back together with the makeshift spring and the doctor injected Thomas with his own insulin cartridge. Within 15 minutes, his blood sugar levels stopped rising and then slowly ticked back down to normal, before he returned to consciousness. The day was saved._ Here's [Karttikeya's story](https://drive.google.com/file/d/1xQoITTUpwLAtr9QdibGOG5RrQJK46fFF/view) in his own words. What a great young man to keep a cool head and do everything he could to save a fellow human being! The world could definitely use more people like Karttikeya.
