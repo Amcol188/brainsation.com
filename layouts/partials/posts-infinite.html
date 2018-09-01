@@ -19,11 +19,11 @@
     {{ $infinite_scroll := $.Scratch.Get "infinite_scroll" }}
 
 
-
+{{ $paginator := .Paginate  (where (where .Pages "Section" "post") ".Params.specialpost" "==" nil) }}
 <div class="news-list">
 	<div class="grid {{ if $infinite_scroll }}infinite-scroll{{ end }}">
 		{{ if .IsNode }}
-                {{ range first 6 ( after 6 ( (.Paginator 6).Pages)) }}
+                {{ range first 6 ( after 6 ( (.Paginator 6).Pages) ) }}
 					<div class="post infinite-item">
 						<article class="post-entry">
 							<a class="image" href="{{ .Permalink }}" style="background:url({{ .Site.BaseURL }}{{ .Params.thumbnailImage }}) no-repeat 50% 50% / cover">
