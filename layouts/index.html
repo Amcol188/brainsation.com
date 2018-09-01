@@ -4,18 +4,15 @@
 <main class="main">
 
 	{{ partial "last_news.html" . }}
-	<div class="ad">
-		<div class="container">
-			{{ partial "google/home_top_ad.html" . }}
-		</div>
+	<div class="ad-top">
+		{{ partial "google/home_top_ad.html" . }}
 	</div>
 	 <div class="content">
 	 	<div class="container">
+	 		<div class="twocolums">
 		 		<div class="content-block">
 		 			<div class="news-list">
 		 					<div class="grid">
-
-			
 
 		 						{{ range first 6 (where .Pages "Section" "post") }}
 		 							 <div class="post">
@@ -37,13 +34,17 @@
 			 				</div>
 		 			</div>
 			 			{{ partial "news_slider.html" . }}
+			 			<div class="ad-top">
+			 			{	{ partial "google/home_top_ad.html" . }}
+						</div>
 		 				{{ partial "posts-infinite.html" . }}
 								
 			 				
 		 		</div>
-		 		<div class="ad-block">
+		 		<div class="ad-side">
 		 			{{ partial "google/home_side_ad.html" . }}
 		 		</div>
+		 	</div>
 	 	</div>
 	 </div>
 </main>
