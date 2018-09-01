@@ -36,7 +36,6 @@ title = "Brainsation"
 
 	home = ["HTML", "RSS", "JSON"]
 
-
 [premalinks]
 	page = "/:title/"
 
