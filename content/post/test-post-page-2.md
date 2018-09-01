@@ -2,7 +2,6 @@
 categories = []
 date = "2018-09-01T19:20:42-04:00"
 description = ""
-draft = true
 specialpost = true
 tags = []
 thumbnailImage = ""
