@@ -37,6 +37,14 @@ fields:
   label: specialpost
   name: specialpost
   description: specialpost
+- type: boolean
+  label: Has next page
+  name: hasnextpage
+  description: tern on if it has next page
+- type: boolean
+  label: Has prev page
+  name: hasprevpage
+  description: turn on if it has prev page
 pages:
 - content/post/test-post-page-3.md
 - content/post/test-post-page-2.md
