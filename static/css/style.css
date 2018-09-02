@@ -4,6 +4,10 @@
   margin: 0;
   padding: 0; }
 
+#related-posts > a:nth-of-type(n+3), #related-posts > h3:nth-of-type(n+1) {
+  display: none;
+}
+
 html {
   font-size: 10px; }
 

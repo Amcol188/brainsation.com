@@ -37,16 +37,16 @@
 							{{ else }}
 								Next page
 							{{ end }}
-								
-
 								<i class="fa fa-angle-right"></i></a>
 						{{end}}
 
 						</div>
 
+
 					</article>
 				</div>
 	</div>
+
 	{{ $page_link := .Permalink }}
 {{ $tags := .Params.tags }}
 	{{ range .Site.Pages }}
@@ -56,6 +56,8 @@
 <li><a href="{{ $page.Permalink }}">{{ $page.Title }}</a></li>
 {{ end }}
 {{ end }}
+
+
 </main>
 	
 {{ partial "footer.html" . }}
