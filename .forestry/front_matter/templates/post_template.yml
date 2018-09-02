@@ -46,6 +46,7 @@ fields:
   name: hasprevpage
   description: turn on if it has prev page
 pages:
+- content/post/single-post.md
 - content/post/test-post-page-3.md
 - content/post/test-post-page-2.md
 - content/post/test.md
