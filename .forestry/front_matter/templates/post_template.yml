@@ -38,13 +38,9 @@ fields:
   name: specialpost
   description: specialpost
 - type: boolean
-  label: Has next page
-  name: hasnextpage
-  description: tern on if it has next page
-- type: boolean
-  label: Has prev page
-  name: hasprevpage
-  description: turn on if it has prev page
+  name: haspagination
+  label: Pagination
+  description: Has pagination
 pages:
 - content/post/test-post-page-4.md
 - content/post/test.md
