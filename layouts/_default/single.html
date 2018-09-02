@@ -15,14 +15,32 @@
 							{{ .Content }}
 						</div>
 
-
 						<div class="post-paging">
 
+
+
+
 						{{if .PrevInSection}}
-							<a href="{{.PrevInSection.Permalink}}" title="{{.PrevInSection.Title}}" class="btn d-none d-md-block btn-prev disabled"><i class="fa fa-angle-left"></i>Prev post</a>
+							<a href="{{.PrevInSection.Permalink}}" title="{{.PrevInSection.Title}}" class="btn d-none d-md-block btn-prev disabled"><i class="fa fa-angle-left"></i>
+							{{ if not .Params.haveprevpage }}
+								Prev post
+							{{ else }}
+								Prev page
+							{{ end }}
+
+							</a>
 						{{end}}
 						{{if .NextInSection}}
-							<a href="{{.NextInSection.Permalink}}" title="{{.NextInSection.Title}}" class="btn btn-next">Next post<i class="fa fa-angle-right"></i></a>
+							<a href="{{.NextInSection.Permalink}}" title="{{.NextInSection.Title}}" class="btn btn-next">
+							{{ if not .Params.havenextpage }}
+								
+								Next post
+							{{ else }}
+								Next page
+							{{ end }}
+								
+
+								<i class="fa fa-angle-right"></i></a>
 						{{end}}
 
 						</div>
