@@ -4,7 +4,7 @@ date: Fri, 29 Dec 2017 21:27:22 +0000
 thumbnailImage: ''
 hasnextpage: false
 hasprevpage: true
-specialpost: true
+specialpost: false
 tags:
 - Celebs
 

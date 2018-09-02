@@ -2,6 +2,9 @@
 title: 20 Legendary Presidents Ranked Dumbest To Smartest
 date: Tue, 16 Jan 2018 21:25:50 +0000
 thumbnailImage: "/uploads/sp-president_george_w._bush_8003096992-533x300-810x469.jpg"
+hasnextpage: false
+hasprevpage: true
+specialpost: false
 tags:
 - America
 - history

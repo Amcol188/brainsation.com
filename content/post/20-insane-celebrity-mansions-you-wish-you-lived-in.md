@@ -2,6 +2,9 @@
 title: 20 Insane Celebrity Mansions You Wish You Lived In
 date: Fri, 10 Nov 2017 20:53:13 +0000
 thumbnailImage: ''
+hasnextpage: false
+hasprevpage: true
+specialpost: false
 tags:
 - Celebs
 

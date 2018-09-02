@@ -2,6 +2,9 @@
 title: 20 Horribly Awkward Wedding Fails
 date: Tue, 02 Jan 2018 21:43:31 +0000
 thumbnailImage: ''
+hasnextpage: false
+hasprevpage: true
+specialpost: false
 tags:
 - Entertainment
 

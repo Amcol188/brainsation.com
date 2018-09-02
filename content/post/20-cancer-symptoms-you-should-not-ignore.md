@@ -4,7 +4,7 @@ date: Thu, 16 Nov 2017 21:59:20 +0000
 thumbnailImage: "/uploads/Nicole-Richie-and-Kim-Kardashian-298x300.jpg"
 hasnextpage: false
 hasprevpage: true
-specialpost: true
+specialpost: false
 tags:
 - Culture
 

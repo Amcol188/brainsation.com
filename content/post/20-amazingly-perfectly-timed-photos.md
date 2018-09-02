@@ -4,7 +4,7 @@ date: Fri, 29 Dec 2017 06:30:20 +0000
 thumbnailImage: ''
 hasnextpage: false
 hasprevpage: true
-specialpost: true
+specialpost: false
 tags:
 - Entertainment
 

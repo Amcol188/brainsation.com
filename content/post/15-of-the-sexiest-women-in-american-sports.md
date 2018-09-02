@@ -4,7 +4,7 @@ date: Thu, 01 Mar 2018 09:28:14 +0000
 thumbnailImage: "/uploads/allison-1519525339909-810x540.jpg"
 hasnextpage: false
 hasprevpage: true
-specialpost: true
+specialpost: false
 tags:
 - american female athletes
 - Hot Athletes

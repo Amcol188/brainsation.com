@@ -4,7 +4,7 @@ date: Thu, 01 Mar 2018 10:06:13 +0000
 thumbnailImage: "/uploads/BREAKING-48-810x424.jpg"
 hasnextpage: false
 hasprevpage: true
-specialpost: true
+specialpost: false
 tags:
 - Hot Female Athletes
 - soccer

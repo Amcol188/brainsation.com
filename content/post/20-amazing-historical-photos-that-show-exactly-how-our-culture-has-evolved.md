@@ -4,7 +4,7 @@ date: Thu, 01 Mar 2018 22:20:44 +0000
 thumbnailImage: "/uploads/amazing-736885_960_720-810x504.jpg"
 hasnextpage: false
 hasprevpage: true
-specialpost: true
+specialpost: false
 tags:
 - Entertainment
 - fascinating photos
