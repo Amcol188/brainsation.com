@@ -2,6 +2,9 @@
 title: 20 Amazingly Perfectly Timed Photos
 date: Fri, 29 Dec 2017 06:30:20 +0000
 thumbnailImage: ''
+hasnextpage: false
+hasprevpage: true
+specialpost: true
 tags:
 - Entertainment
 

@@ -2,6 +2,9 @@
 title: 15 Marvel Actresses Who Sizzle On And Off The Screen
 date: Mon, 05 Mar 2018 06:30:01 +0000
 thumbnailImage: "/uploads/dfghdfghfghjgf.jpg"
+hasnextpage: false
+hasprevpage: true
+specialpost: true
 tags:
 - black panther
 - captain america

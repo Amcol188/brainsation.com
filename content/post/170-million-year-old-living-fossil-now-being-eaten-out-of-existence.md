@@ -2,6 +2,9 @@
 title: 170 Million Year Old Living Fossil Now Being Eaten Out of Existence
 date: Tue, 22 May 2018 14:58:24 +0000
 thumbnailImage: "/uploads/chinese-salamander-fb-810x425.png"
+hasnextpage: false
+hasprevpage: true
+specialpost: true
 tags:
 - Uncategorized
 

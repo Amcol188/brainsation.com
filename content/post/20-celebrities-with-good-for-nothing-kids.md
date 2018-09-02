@@ -2,6 +2,9 @@
 title: 20 Celebrities With Good For Nothing Kids
 date: Mon, 08 Jan 2018 20:48:47 +0000
 thumbnailImage: ''
+hasnextpage: false
+hasprevpage: true
+specialpost: true
 tags:
 - Celebs
 
