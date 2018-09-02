@@ -5,6 +5,7 @@ description = ""
 hasnextpage = true
 hasprevpage = false
 specialpost = false
+weight = 1
 tags = ["subpages"]
 thumbnailImage = ""
 title = "test new"

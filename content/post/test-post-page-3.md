@@ -5,6 +5,7 @@ description = "test"
 hasnextpage = false
 hasprevpage = true
 specialpost = true
+weight = 3
 tags = ["subpages"]
 thumbnailImage = ""
 title = "test post page 3"

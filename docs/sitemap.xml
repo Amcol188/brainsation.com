@@ -3,8 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://st.brainsation.com/post/test-post-page-3/</loc>
-    <lastmod>2018-09-01T19:21:11-04:00</lastmod>
+    <loc>http://st.brainsation.com/post/test/</loc>
+    <lastmod>2018-09-01T17:58:59-04:00</lastmod>
   </url>
   
   <url>
@@ -13,8 +13,13 @@
   </url>
   
   <url>
-    <loc>http://st.brainsation.com/post/test/</loc>
-    <lastmod>2018-09-01T17:58:59-04:00</lastmod>
+    <loc>http://st.brainsation.com/post/test-post-page-3/</loc>
+    <lastmod>2018-09-01T19:21:11-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://st.brainsation.com/post/test-post-page-4/</loc>
+    <lastmod>2018-09-02T04:59:44-04:00</lastmod>
   </url>
   
   <url>
@@ -1632,7 +1637,7 @@
   
   <url>
     <loc>http://st.brainsation.com/</loc>
-    <lastmod>2018-09-01T19:21:11-04:00</lastmod>
+    <lastmod>2018-09-01T17:58:59-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1965,7 +1970,7 @@
   
   <url>
     <loc>http://st.brainsation.com/post/</loc>
-    <lastmod>2018-09-01T19:21:11-04:00</lastmod>
+    <lastmod>2018-09-01T17:58:59-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -2042,13 +2047,13 @@
   </url>
   
   <url>
-    <loc>http://st.brainsation.com/tags/subpages/</loc>
+    <loc>http://st.brainsation.com/categories/subpages/</loc>
     <lastmod>2018-09-01T17:58:59-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://st.brainsation.com/categories/subpages/</loc>
+    <loc>http://st.brainsation.com/tags/subpages/</loc>
     <lastmod>2018-09-01T17:58:59-04:00</lastmod>
     <priority>0</priority>
   </url>

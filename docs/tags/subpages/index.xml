@@ -21,5 +21,32 @@
 dsds</description>
     </item>
     
+    <item>
+      <title>test post page 2</title>
+      <link>http://st.brainsation.com/post/test-post-page-2/</link>
+      <pubDate>Sat, 01 Sep 2018 19:20:42 -0400</pubDate>
+      
+      <guid>http://st.brainsation.com/post/test-post-page-2/</guid>
+      <description>test post page 2</description>
+    </item>
+    
+    <item>
+      <title>test post page 3</title>
+      <link>http://st.brainsation.com/post/test-post-page-3/</link>
+      <pubDate>Sat, 01 Sep 2018 19:21:11 -0400</pubDate>
+      
+      <guid>http://st.brainsation.com/post/test-post-page-3/</guid>
+      <description>test page 3</description>
+    </item>
+    
+    <item>
+      <title>test post page 4</title>
+      <link>http://st.brainsation.com/post/test-post-page-4/</link>
+      <pubDate>Sun, 02 Sep 2018 04:59:44 -0400</pubDate>
+      
+      <guid>http://st.brainsation.com/post/test-post-page-4/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

@@ -36,6 +36,13 @@ $('.owl-carousel').owlCarousel({
 });
 
 
+$(function() {
+    $('.category-page').hide();
+    $('.category-page.active').prev('.category-page').show().html("Prev page");
+    $('.category-page.active').next('.category-page').addClass("btn-next").show().html("Next page");
+});
+
+
 
 // $('.grid.infinite-scroll').infiniteScroll({
 //   // options
