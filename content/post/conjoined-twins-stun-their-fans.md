@@ -6,7 +6,7 @@ tags:
 - Science
 
 ---
-### [![](http://newsattorneys.staging.wpengine.com/wp-content/uploads/2018/06/Abby-and-Brittany.png)](http://newsattorneys.staging.wpengine.com/wp-content/uploads/2018/06/Abby-and-Brittany.png)
+### ![](/uploads/Abby-and-Brittany.png)
 
 ### "Of course we've thought about this long and hard," said Abby Hensel. "We've prayed about it and we're confident that this is the right decision for us." Her sister Brittany added, "You only live once and we just feel like it's time."
 
