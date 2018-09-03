@@ -2,7 +2,6 @@
 categories = ["Conjoined"]
 date = "2018-09-03T13:06:08-04:00"
 description = ""
-draft = true
 haspagination = true
 specialpost = false
 tags = []
