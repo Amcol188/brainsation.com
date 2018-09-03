@@ -42,6 +42,7 @@ fields:
   label: Pagination
   description: Has pagination
 pages:
+- content/post/single-page.md
 - content/post/test-post-page-4.md
 - content/post/test.md
 - content/post/single-post.md
