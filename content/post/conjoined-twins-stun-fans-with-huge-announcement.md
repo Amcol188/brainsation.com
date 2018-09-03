@@ -1,6 +1,6 @@
 +++
 categories = []
-date = "2018-09-03T14:16:50-04:00"
+date = "2018-09-03T14:17:31-04:00"
 description = ""
 draft = true
 haspagination = true
@@ -8,35 +8,37 @@ specialpost = true
 tags = []
 thumbnailImage = ""
 title = "Conjoined Twins Stun Fans With Huge Announcement"
-weight = 4
+weight = 5
 
 +++
-### The Hensel twins also respond differently to coffee. After a few cups Brittany’s heart rate increases, but Abby is not affected. They also have different body temperatures!
+### For obvious reasons, Abby and Brittany Hensel have had to live as a team. Each girl controls one half of their body, so even the simple act of walking has to be coordinated.
 
-“I can be a totally different temperature than Brittany,” said Abby. “A lot of times our hands are different temperatures and I get super hot way faster.”
+In fact, this is harder than it sounds because Brittany is a few inches shorter than Abby, requiring her to basically tip-toe.
 
-[![](http://brainsation.com/wp-content/uploads/2018/07/j-2-1-1.jpg =600x400)](http://brainsation.com/wp-content/uploads/2018/07/j-2-1-1.jpg)
+That’s not all the girls have to deal with as a team. Using the restroom, bathing, and personal hygiene issues have to be jointly dealt with.
 
-##### [_Image Credit_](https://goo.gl/images/8eZoyo)
+[![](http://brainsation.com/wp-content/uploads/2018/07/mn-1-1.jpg =600x400)](http://brainsation.com/wp-content/uploads/2018/07/mn-1-1.jpg)
 
-And despite the fact that the twins share an immune system, Brittany tends to get sick more often than Abby.
+##### [_Image Credit_](https://goo.gl/images/FwmpPW)
 
-“It’s because she’s sweeter and the germs are just more attracted to her,” said Abby, laughing at her sister. “She’s just unlucky she’s so nice!”
+“It’s a chore, sometimes,” Brittany said while Abby shook her head, agreeing.
 
-But there’s one thing the girls definitely agree on these days…
+Conjoined twins are exceedingly rare – it is thought one in every 200,000 births – and around 40-60% of these births are delivered stillborn. Female siblings tend to have a better survival rate than male siblings, though.
 
-### “We can’t imagine our lives separately,” said Brittany. “God made us just the way we are. We came into this world together, as a team, and we are just happy to have each other and our wonderful lives.”
+But the girls recently made a huge announcement that stunned their fans…
 
-When the twins were first born, their parents had to decide if they wanted doctors to attempt surgical separation. But because of the well-founded fear that at least one of them wouldn’t survive, they decided against it.
+### The twins recently announced that they had found work as part-time elementary school teachers.
 
-[![](http://brainsation.com/wp-content/uploads/2018/07/w-3-1-1-1.jpg =600x400)](http://brainsation.com/wp-content/uploads/2018/07/w-3-1-1-1.jpg)
+“We are fourth- and fifth-grade math specialists, so we’ll have two classes of math,” said Abby.
 
-##### [_Image Credit_](https://diply.com/abby-brittany-conjoined-twins-facts?config=20)
+“It’s part time, which is nice, so we’ll be kind of transitioning into the teaching world,” Brittany added.
 
-As the girls have aged, they have had to undergo several other surgeries, including one to stop the growth of Abby’s spine after Brittany stopped growing.
+[![](http://brainsation.com/wp-content/uploads/2018/07/ww-1-1-1.jpg =600x400)](http://brainsation.com/wp-content/uploads/2018/07/ww-1-1-1.jpg)
 
-“We’ve both been through a lot health-wise,” said Abby, laughing. “What doesn’t kill you, makes you stronger. Or at least more feisty.”
+##### [_Image Credit_](https://goo.gl/images/dgFm2J)
 
-And the girls have had a lot of experience working together, solving problems, and making due with “what God gave \[them\].”
+Patty said that she thinks her daughters made an excellent decision by working with children.
 
-Some of the most intimate, private experiences a person can have must be coordinated by the girls…
+“They’ve just always had a knack with kids, and kids have always been kind of drawn to them. Maybe it started by curiosity, but then once their simple questions are answered, they still are just drawn to Ab and Brit,” she said.
+
+But what’s their major concern about their new job?
