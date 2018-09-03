@@ -23,16 +23,17 @@ fields:
   type: file
   hidden: false
   default: ''
-- name: categories
-  label: Categories
-  type: tag_list
-  hidden: false
-  default: ''
 - name: tags
   label: Tags
   type: tag_list
   hidden: false
   default: ''
+- name: categories
+  label: Categories
+  type: tag_list
+  hidden: false
+  default: ''
+  description: Categories for multipage website. (unique)
 - type: boolean
   label: specialpost
   name: specialpost
