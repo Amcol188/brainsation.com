@@ -45,10 +45,10 @@
 				{{ else }}
 
 
-					<div class="post-paging bypage">
+					<div class="post-paging bypost">
 						{{ $page_link := .Permalink }}
 						{{ $categories := .Params.categories }}
-						{{ $pages := first 3 (where .Site.Pages "Params.specialpost" "==" false).ByDate.Reverse }}
+						{{ $pages := (where .Site.Pages "Params.specialpost" "==" false).ByDate.Reverse }}
 						{{ range $pages }}
 							{{ $page := . }}
 							{{ if (ne $page_link $page.Permalink) }}
@@ -61,14 +61,11 @@
 
 				
 						{{ end }}
-					</div>
+				</div>
 
+					
+						
 				{{ end }}
-
-				
-
-	
-
 					</article>
 				</div>
 	</div>

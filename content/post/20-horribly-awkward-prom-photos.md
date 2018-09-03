@@ -2,8 +2,6 @@
 title: 20 Horribly Awkward Prom Photos
 date: Mon, 25 Sep 2017 21:04:06 +0000
 thumbnailImage: ''
-hasnextpage: false
-hasprevpage: true
 specialpost: false
 tags:
 - Entertainment
