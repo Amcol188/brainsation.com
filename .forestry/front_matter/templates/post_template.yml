@@ -47,8 +47,8 @@ fields:
   name: weight
   description: place for page number
 pages:
-- content/post/conjoined-twins-differences.md
 - content/post/conjoined-twins-bethel-university.md
+- content/post/conjoined-twins-differences.md
 - content/post/conjoined-twins-tlc.md
 - content/post/conjoined-twins-stun-fans-with-huge-announcement.md
 - content/post/single-page.md
