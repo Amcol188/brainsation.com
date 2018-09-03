@@ -26,12 +26,12 @@
 					<div class="post-paging bypage">
 
 						{{ $page_link := .Permalink }}
-						{{ $tags := .Params.tags }}
+						{{ $categories := .Params.categories }}
 						
 						{{ range .Site.Pages }}
 							{{ $page := . }}
-							{{ $has_common_tags := intersect $tags .Params.tags | len | lt 0 }}
-							{{ if and $has_common_tags (or $page_link $page.Permalink) }}
+							{{ $has_common_categories := intersect $categories .Params.categories | len | lt 0 }}
+							{{ if and $has_common_categories (or $page_link $page.Permalink) }}
 
 							{{ if (ne $page_link $page.Permalink) }}
 								{{ $.Scratch.Set "classname" "category-post" }}

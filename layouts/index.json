@@ -1,11 +1,16 @@
-[{{ range $index, $page := .Pages }}
-{{- if ne $page.Type "json" -}}
-{{- if and $index (gt $index 0) -}},{{- end }}
+
+
+
+[
+
+{{ range where (where .Pages "Section" "post") ".Params.specialpost" "==" false  }}
 {
-    "uri": "{{ $page.Permalink }}",
-    "title": "{{ htmlEscape $page.Title}}",
-    "image": "{{  $page.Param "thumbnailImage"}}",
-    "tags": [{{ range $tindex, $tag := $page.Params.tags }}{{ if $tindex }}, {{ end }}"{{ $tag| htmlEscape }}"{{ end }}]
-}
+    "uri": "{{ .Permalink }}",
+    "title": "{{ htmlEscape .Title }}",
+    "image": "{{ .Params.thumbnailImage }}",
+    "tags": [{{ range .Params.tags }}"{{ . }}", {{ end }} ""]
+},
+
 {{- end -}}
-{{- end -}}]
+{}
+]
