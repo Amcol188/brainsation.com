@@ -14,11 +14,9 @@ weight = 1
 
 ### “Of course we’ve thought about this long and hard,” said Abby Hensel. “We’ve prayed about it and we’re confident that this is the right decision for us.” Her sister Brittany added, “You only live once and we just feel like it’s time.”
 
-Sisters Abby and Brittany Hensel are conjoined twins that have been defying expectations since the day they made their debut into this world. When they were born, they made international headlines for being one of the very few conjoined twins to survive the pregnancy and delivery processes.
+Sisters Abby and Brittany Hensel are conjoined twins that have been defying expectations since the day they made their debut into this world. When they were born, they made international headlines for being one of the very few conjoined twins to survive the pregnancy and delivery processes.!
 
-![](http://brainsation.com/wp-content/uploads/2018/07/b-21-1-1-1.jpg)
-
-[![](http://brainsation.com/wp-content/uploads/2018/07/a-23-1-1-1.jpg =600x400)](http://brainsation.com/wp-content/uploads/2018/07/a-23-1-1-1.jpg)
+![](http://brainsation.com/wp-content/uploads/2018/07/a-23-1-1-1.jpg)
 
 ##### [_Image Credit_](https://goo.gl/images/eqqMHf)
 
@@ -26,7 +24,7 @@ In the medical literature, Abby and Brittany are known as _dicephalic parapagus
 
 Out of the already minuscule number of conjoined twins in the world, only eleven percent are _dicephalic parapagus_ twins like the Hensels.
 
-[![](http://brainsation.com/wp-content/uploads/2018/07/b-21-1-1-1.jpg =600x400)](http://brainsation.com/wp-content/uploads/2018/07/b-21-1-1-1.jpg)
+[![](http://brainsation.com/wp-content/uploads/2018/07/b-21-1-1-1.jpg)](http://brainsation.com/wp-content/uploads/2018/07/b-21-1-1-1.jpg)
 
 ##### [_Image Credit_](https://goo.gl/images/Dj5STs)
 
@@ -34,7 +32,7 @@ The girls have two stomachs, two hearts, and four lungs. Because their lower tru
 
 Abby and Brittany have control of one arm and one leg each. They’ve had to overcome significant challenges in order to walk, swim, and even brush their hair.
 
-[![](http://brainsation.com/wp-content/uploads/2018/07/c-20-1-1-1.jpg =600x400)](http://brainsation.com/wp-content/uploads/2018/07/c-20-1-1-1.jpg)
+[![](http://brainsation.com/wp-content/uploads/2018/07/c-20-1-1-1.jpg)](http://brainsation.com/wp-content/uploads/2018/07/c-20-1-1-1.jpg)
 
 ##### [_Image Credit_](http://www.ntd.tv/inspiring/life/conjoined-twins-abigail-brittany-hensel-offer-share-glimpse-world.html)
 
@@ -50,7 +48,7 @@ The series followed them on many of their milestones. For example, on their 16th
 
 “That’s not true,” Abby retorted.
 
-[![](http://brainsation.com/wp-content/uploads/2018/07/a-3-1-1.jpg =600x400)](http://brainsation.com/wp-content/uploads/2018/07/a-3-1-1.jpg)
+[![](http://brainsation.com/wp-content/uploads/2018/07/a-3-1-1.jpg)](http://brainsation.com/wp-content/uploads/2018/07/a-3-1-1.jpg)
 
 ##### [_Image Credit_](https://goo.gl/images/ksKCs2)
 
@@ -68,7 +66,7 @@ Although the twins have been able to surmount so many challenges in their young 
 
 Their time at the University proved to be both rewarding and challenging as it is for most young people.
 
-[![](http://brainsation.com/wp-content/uploads/2018/07/g-5-1-1.jpg =600x400)](http://brainsation.com/wp-content/uploads/2018/07/g-5-1-1.jpg)
+[![](http://brainsation.com/wp-content/uploads/2018/07/g-5-1-1.jpg)](http://brainsation.com/wp-content/uploads/2018/07/g-5-1-1.jpg)
 
 ##### [_Image Credit_](https://diply.com/abby-brittany-conjoined-twins-facts?config=20)
 
@@ -82,7 +80,7 @@ While Abby is seen as the “outspoken” sister and will always win the argumen
 
 “She’s really sensitive,” said Brittany. “People don’t usually realize that.”
 
-[![](http://brainsation.com/wp-content/uploads/2018/07/gg-2-1-1.jpg =600x400)](http://brainsation.com/wp-content/uploads/2018/07/gg-2-1-1.jpg)
+[![](http://brainsation.com/wp-content/uploads/2018/07/gg-2-1-1.jpg)](http://brainsation.com/wp-content/uploads/2018/07/gg-2-1-1.jpg)
 
 ##### [_Image Credit_](https://diply.com/abby-brittany-conjoined-twins-facts?config=20)
 
@@ -94,7 +92,7 @@ But that’s not all that’s different between the girls…
 
 “I can be a totally different temperature than Brittany,” said Abby. “A lot of times our hands are different temperatures and I get super hot way faster.”
 
-[![](http://brainsation.com/wp-content/uploads/2018/07/j-2-1-1.jpg =600x400)](http://brainsation.com/wp-content/uploads/2018/07/j-2-1-1.jpg)
+[![](http://brainsation.com/wp-content/uploads/2018/07/j-2-1-1.jpg)](http://brainsation.com/wp-content/uploads/2018/07/j-2-1-1.jpg)
 
 ##### [_Image Credit_](https://goo.gl/images/8eZoyo)
 
@@ -108,7 +106,7 @@ But there’s one thing the girls definitely agree on these days…
 
 When the twins were first born, their parents had to decide if they wanted doctors to attempt surgical separation. But because of the well-founded fear that at least one of them wouldn’t survive, they decided against it.
 
-[![](http://brainsation.com/wp-content/uploads/2018/07/w-3-1-1-1.jpg =600x400)](http://brainsation.com/wp-content/uploads/2018/07/w-3-1-1-1.jpg)
+[![](http://brainsation.com/wp-content/uploads/2018/07/w-3-1-1-1.jpg)](http://brainsation.com/wp-content/uploads/2018/07/w-3-1-1-1.jpg)
 
 ##### [_Image Credit_](https://diply.com/abby-brittany-conjoined-twins-facts?config=20)
 
@@ -126,7 +124,7 @@ In fact, this is harder than it sounds because Brittany is a few inches shorter 
 
 That’s not all the girls have to deal with as a team. Using the restroom, bathing, and personal hygiene issues have to be jointly dealt with.
 
-[![](http://brainsation.com/wp-content/uploads/2018/07/mn-1-1.jpg =600x400)](http://brainsation.com/wp-content/uploads/2018/07/mn-1-1.jpg)
+[![](http://brainsation.com/wp-content/uploads/2018/07/mn-1-1.jpg)](http://brainsation.com/wp-content/uploads/2018/07/mn-1-1.jpg)
 
 ##### [_Image Credit_](https://goo.gl/images/FwmpPW)
 
@@ -142,7 +140,7 @@ But the girls recently made a huge announcement that stunned their fans…
 
 “It’s part time, which is nice, so we’ll be kind of transitioning into the teaching world,” Brittany added.
 
-[![](http://brainsation.com/wp-content/uploads/2018/07/ww-1-1-1.jpg =600x400)](http://brainsation.com/wp-content/uploads/2018/07/ww-1-1-1.jpg)
+[![](http://brainsation.com/wp-content/uploads/2018/07/ww-1-1-1.jpg)](http://brainsation.com/wp-content/uploads/2018/07/ww-1-1-1.jpg)
 
 ##### [_Image Credit_](https://goo.gl/images/dgFm2J)
 
@@ -156,7 +154,7 @@ But what’s their major concern about their new job?
 
 With their position as teachers, they have become role models for children academically, but also in their attitude to life.
 
-[![](http://brainsation.com/wp-content/uploads/2018/07/y-1-1-1.jpg =600x400)](http://brainsation.com/wp-content/uploads/2018/07/y-1-1-1.jpg)
+[![](http://brainsation.com/wp-content/uploads/2018/07/y-1-1-1.jpg)](http://brainsation.com/wp-content/uploads/2018/07/y-1-1-1.jpg)
 
 ##### [_Image Credit_](https://goo.gl/images/8QMx46)
 
@@ -168,7 +166,7 @@ But not everyone was quite so thrilled about the Hensel twins taking a teaching 
 
 Brittany was quick to add, “But sometimes they say hurtful things, and if you let it, it can get you down.”
 
-[![](http://brainsation.com/wp-content/uploads/2018/07/lj-1-1.jpg =600x400)](http://brainsation.com/wp-content/uploads/2018/07/lj-1-1.jpg)
+[![](http://brainsation.com/wp-content/uploads/2018/07/lj-1-1.jpg)](http://brainsation.com/wp-content/uploads/2018/07/lj-1-1.jpg)
 
 ##### [_Image Credit_](https://goo.gl/images/KiJgS7)
 
@@ -182,7 +180,7 @@ But despite the controversy, the girls are thankful that they have one special f
 
 “I want to make sure that they’re safe and that they’re not completely exposed, just always keeping an eye on what’s going on and just how the girls are reacting to the crowds,” says Junkans.
 
-[![](http://brainsation.com/wp-content/uploads/2018/07/yy-1-1.jpg =600x400)](http://brainsation.com/wp-content/uploads/2018/07/yy-1-1.jpg)
+[![](http://brainsation.com/wp-content/uploads/2018/07/yy-1-1.jpg)](http://brainsation.com/wp-content/uploads/2018/07/yy-1-1.jpg)
 
 “Sometimes if they get more overwhelmed then… we just need to get away from the area for a little bit, but they amaze me at their ability to just shake it off and keep seeing what we are there to see.”
 
@@ -192,7 +190,7 @@ But what about the girl’s romantic lives? Do either of them have a boyfriend?
 
 Obviously, the subject inspires a lot of curiosity among strangers, which is perhaps why they don’t like to talk about it. And of course, it would raise a number of different ethical issues.
 
-[![](http://brainsation.com/wp-content/uploads/2018/07/tyu-1-1-1.jpg =600x400)](http://brainsation.com/wp-content/uploads/2018/07/tyu-1-1-1.jpg)
+[![](http://brainsation.com/wp-content/uploads/2018/07/tyu-1-1-1.jpg)](http://brainsation.com/wp-content/uploads/2018/07/tyu-1-1-1.jpg)
 
 ##### [_Image Credit_](https://goo.gl/images/JVVSEs)
 
@@ -208,7 +206,7 @@ Even if marriage isn’t in the cards in the near future, the one thing Abby and
 
 “If God sees fit that one or both us are to be married, then that’s how it will go,” said Abby matter-of-factly. “Same goes for having children. We just leave it up to our father in heaven. Life is so much easier that way.”
 
-[![](http://brainsation.com/wp-content/uploads/2018/07/p-1-1-1.jpg =600x400)](http://brainsation.com/wp-content/uploads/2018/07/p-1-1-1.jpg)
+[![](http://brainsation.com/wp-content/uploads/2018/07/p-1-1-1.jpg)](http://brainsation.com/wp-content/uploads/2018/07/p-1-1-1.jpg)
 
 ##### [_Image Credit_](https://goo.gl/images/nt6TYg)
 
@@ -220,7 +218,7 @@ What’s the craziest thing that’s been said about the girls that’s absolute
 
 These amazing women have overcome so many challenges to build the life that they enjoy today. It’s truly inspiring to witness their fortitude, grace, and humor!
 
-[![](http://brainsation.com/wp-content/uploads/2018/07/d-3-1-1.jpg =600x400)](http://brainsation.com/wp-content/uploads/2018/07/d-3-1-1.jpg)
+[![](http://brainsation.com/wp-content/uploads/2018/07/d-3-1-1.jpg)](http://brainsation.com/wp-content/uploads/2018/07/d-3-1-1.jpg)
 
 ##### [_Image Credit_](https://goo.gl/images/gVcppu)
 
@@ -234,7 +232,7 @@ But you have to wonder, has anything like that ever happened?
 
 “Let’s just say that we’ve both had our fair share of kisses over the years,” said Brittany. “There’s no need to fight over something there’s plenty of in the first place.”
 
-[![](http://brainsation.com/wp-content/uploads/2018/07/r-2-1-1.jpg =600x400)](http://brainsation.com/wp-content/uploads/2018/07/r-2-1-1.jpg)
+[![](http://brainsation.com/wp-content/uploads/2018/07/r-2-1-1.jpg)](http://brainsation.com/wp-content/uploads/2018/07/r-2-1-1.jpg)
 
 ##### [_Image Credit_](https://goo.gl/images/be9gcn)
 
