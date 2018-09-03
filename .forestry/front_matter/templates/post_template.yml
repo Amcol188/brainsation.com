@@ -33,11 +33,11 @@ fields:
   type: tag_list
   hidden: false
   default: ''
-  description: Categories for multipage website. (unique)
+  description: Categories for multipage. (unique)
 - type: boolean
   label: specialpost
   name: specialpost
-  description: specialpost
+  description: Hide post everywhere. It's for an article with pages.
 - type: boolean
   name: haspagination
   label: Pagination
