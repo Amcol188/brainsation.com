@@ -47,9 +47,9 @@ fields:
   name: weight
   description: place for page number
 pages:
+- content/post/test.md
 - content/post/single-page.md
 - content/post/test-post-page-4.md
-- content/post/test.md
 - content/post/single-post.md
 - content/post/test-post-page-3.md
 - content/post/test-post-page-2.md
