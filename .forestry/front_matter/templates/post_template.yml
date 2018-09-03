@@ -47,16 +47,15 @@ fields:
   name: weight
   description: place for page number
 pages:
+- content/post/conjoined-twins-shared-experiences.md
+- content/post/conjoined-twins-new-job.md
+- content/post/conjoined-twins-team-work.md
+- content/post/conjoined-twins-romance.md
 - content/post/conjoined-twins-crazy-gossip.md
 - content/post/conjoined-twins-bethel-university.md
 - content/post/conjoined-twins-differences.md
 - content/post/conjoined-twins-stun-fans-with-huge-announcement.md
 - content/post/conjoined-twins-love-lives.md
-- content/post/conjoined-twins-shared-experiences.md
-- content/post/conjoined-twins-new-job.md
 - content/post/conjoined-twins-trouble-at-the-work.md
-- content/post/conjoined-twins-romance.md
-- content/post/conjoined-twins-team-work.md
 - content/post/conjoined-twins-tlc.md
 - content/post/single-page.md
-- content/post/single-post.md
