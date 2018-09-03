@@ -1,6 +1,3 @@
-
-
-
 [
 
 {{ range where (where .Pages "Section" "post") ".Params.specialpost" "==" false  }}
