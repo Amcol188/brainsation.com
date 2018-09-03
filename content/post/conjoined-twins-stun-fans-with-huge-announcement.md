@@ -32,6 +32,8 @@ Out of the already minuscule number of conjoined twins in the world, only eleven
 
 The girls have two stomachs, two hearts, and four lungs. Because their lower trunk is shared, they only have one reproductive system.
 
+Conjoined Twins: TLC
+
 Abby and Brittany have control of one arm and one leg each. They've had to overcome significant challenges in order to walk, swim, and even brush their hair.
 
 [![](http://brainsation.com/wp-content/uploads/2018/07/c-20-1-1-1.jpg)](http://brainsation.com/wp-content/uploads/2018/07/c-20-1-1-1.jpg)
@@ -62,6 +64,8 @@ That's a fair question!
 
 Although the twins have been able to surmount so many challenges in their young lives, nothing had prepared them for what came next...
 
+Conjoined Twins: Bethel University
+
 ### In 2008, Abby and Brittany began college at Bethel University, majoring in education. At first, the girls wanted to specialize in different fields, but upon learning about the additional coursework, they decided against it.
 
 "What's funny, is that when we were little, I wanted to be a pilot," said Abby. "And Brittany wanted to be a dentist. That didn't last long."
@@ -75,6 +79,8 @@ Their time at the University proved to be both rewarding and challenging as it i
 "Of course, at first people would stare because they weren't familiar with us yet," said Brittany with a smile. "But pretty much everyone adapted really quick. We always got invited to parties and social things. Abby is really more of a home body than me, but that's okay, we compromised."
 
 But there's one thing that they weren't prepared to compromise on...
+
+Conjoined Twins: Differences
 
 ### "We definitely have different styles," says Abby. "Brittany's a lot more into neutrals and pearls, stuff like that. But I would rather have it be more fun and bright and colorful!"
 
@@ -104,6 +110,8 @@ And despite the fact that the twins share an immune system, Brittany tends to ge
 
 But there's one thing the girls definitely agree on these days...
 
+Conjoined Twins: Team Work
+
 ### "We can't imagine our lives separately," said Brittany. "God made us just the way we are. We came into this world together, as a team, and we are just happy to have each other and our wonderful lives."
 
 When the twins were first born, their parents had to decide if they wanted doctors to attempt surgical separation. But because of the well-founded fear that at least one of them wouldn’t survive, they decided against it.
@@ -120,6 +128,8 @@ And the girls have had a lot of experience working together, solving problems, a
 
 Some of the most intimate, private experiences a person can have must be coordinated by the girls...
 
+Conjoined Twins: Shared Experiences
+
 ### For obvious reasons, Abby and Brittany Hensel have had to live as a team. Each girl controls one half of their body, so even the simple act of walking has to be coordinated.
 
 In fact, this is harder than it sounds because Brittany is a few inches shorter than Abby, requiring her to basically tip-toe.
@@ -135,6 +145,8 @@ That's not all the girls have to deal with as a team. Using the restroom, bathin
 Conjoined twins are exceedingly rare - it is thought one in every 200,000 births - and around 40-60% of these births are delivered stillborn. Female siblings tend to have a better survival rate than male siblings, though.
 
 But the girls recently made a huge announcement that stunned their fans...
+
+Conjoined Twins: New Job
 
 ### The twins recently announced that they had found work as part-time elementary school teachers.
 
@@ -164,6 +176,8 @@ With their position as teachers, they have become role models for children acade
 
 But not everyone was quite so thrilled about the Hensel twins taking a teaching gig...
 
+Conjoined Twins: Trouble At The Work
+
 ### "People are not always so nice," said Abby. "Human beings, by their very nature, are curious. So it's understandable when people stare or ask to have their picture taken with us. That's fine for the most part."
 
 Brittany was quick to add, "But sometimes they say hurtful things, and if you let it, it can get you down."
@@ -187,6 +201,8 @@ But despite the controversy, the girls are thankful that they have one special f
 "Sometimes if they get more overwhelmed then… we just need to get away from the area for a little bit, but they amaze me at their ability to just shake it off and keep seeing what we are there to see."
 
 But what about the girl's romantic lives? Do either of them have a boyfriend?
+
+Conjoined Twins: Romance
 
 ### Though both have expressed a desire to one day get married and have children, they have been reluctant to discuss this issue publicly.
 
@@ -216,6 +232,8 @@ And according to the girls, you can't believe everything you read on the interne
 
 What's the craziest thing that's been said about the girls that's absolutely not true?
 
+Conjoined Twins: Crazy Gossip!
+
 ### "If we each had a quarter for every untrue thing written about us online, believe me, we wouldn't be doing the TLC show. We'd have already retired," Abby said, laughing.
 
 These amazing women have overcome so many challenges to build the life that they enjoy today. It's truly inspiring to witness their fortitude, grace, and humor!
@@ -229,6 +247,8 @@ These amazing women have overcome so many challenges to build the life that they
 "Or the thing about us fighting over a guy," Brittany added. "This one story had us fighting with each other at a McDonald's over this guy that we both liked. The story said I was 'insanely jealous.'"
 
 But you have to wonder, has anything like that ever happened?
+
+Conjoined Twins: Love Lives
 
 ### The Hensel twins have always been notoriously coy about discussing details of their love lives with the public. However, Brittany did share one detail recently that ruffled her sister Abby's feathers.
 
