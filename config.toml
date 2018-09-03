@@ -7,7 +7,6 @@ title = "Brainsation"
 
  
 [Params]
-
 	description = "Brainsation"
 	infinite_scroll = true
 
