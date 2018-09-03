@@ -12,8 +12,6 @@ tags:
 
 Sisters Abby and Brittany Hensel are conjoined twins that have been defying expectations since the day they made their debut into this world. When they were born, they made international headlines for being one of the very few conjoined twins to survive the pregnancy and delivery processes.
 
-![](https://images.pexels.com/photos/326055/pexels-photo-326055.jpeg?cs=srgb&dl=light-landscape-nature-326055.jpg)
-
 [![](http://newsattorneys.staging.wpengine.com/wp-content/uploads/2018/06/a-23-1-1.jpg)](http://brainsation.com/wp-content/uploads/2018/07/a-23-1-1-1.jpg)
 
 ##### [_Image Credit_](https://goo.gl/images/eqqMHf)
