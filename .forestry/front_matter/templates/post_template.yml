@@ -46,10 +46,6 @@ fields:
   label: Page number
   name: weight
   description: place for page number
-- type: text
-  name: slug
-  label: Slug
-  description: file-name
 pages:
 - content/post/test.md
 - content/post/conjoined-twins-stun-fans-with-huge-announcement.md
