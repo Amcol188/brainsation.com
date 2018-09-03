@@ -5,6 +5,7 @@ description = ""
 hasnextpage = true
 haspagination = true
 hasprevpage = false
+slug = "my-file_name here"
 specialpost = false
 tags = ["subpages"]
 thumbnailImage = ""

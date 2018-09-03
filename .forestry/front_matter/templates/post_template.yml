@@ -51,10 +51,10 @@ fields:
   label: Slug
   description: file-name
 pages:
+- content/post/test.md
 - content/post/conjoined-twins-stun-fans-with-huge-announcement.md
 - content/post/conjoined.md
 - content/post/test-post-page-3.md
-- content/post/test.md
 - content/post/test-post-page-2.md
 - content/post/single-page.md
 - content/post/test-post-page-4.md
