@@ -1,39 +1,42 @@
 +++
 categories = []
-date = "2018-09-03T14:16:05-04:00"
+date = "2018-09-03T14:16:50-04:00"
 description = ""
+draft = true
 haspagination = true
 specialpost = true
 tags = []
 thumbnailImage = ""
 title = "Conjoined Twins Stun Fans With Huge Announcement"
-weight = 3
+weight = 4
 
 +++
-### In 2008, Abby and Brittany began college at Bethel University, majoring in education. At first, the girls wanted to specialize in different fields, but upon learning about the additional coursework, they decided against it.
+### The Hensel twins also respond differently to coffee. After a few cups Brittany’s heart rate increases, but Abby is not affected. They also have different body temperatures!
 
-“What’s funny, is that when we were little, I wanted to be a pilot,” said Abby. “And Brittany wanted to be a dentist. That didn’t last long.”
+“I can be a totally different temperature than Brittany,” said Abby. “A lot of times our hands are different temperatures and I get super hot way faster.”
 
-Their time at the University proved to be both rewarding and challenging as it is for most young people.
+[![](http://brainsation.com/wp-content/uploads/2018/07/j-2-1-1.jpg =600x400)](http://brainsation.com/wp-content/uploads/2018/07/j-2-1-1.jpg)
 
-[![](http://brainsation.com/wp-content/uploads/2018/07/g-5-1-1.jpg =600x400)](http://brainsation.com/wp-content/uploads/2018/07/g-5-1-1.jpg)
+##### [_Image Credit_](https://goo.gl/images/8eZoyo)
 
-##### [_Image Credit_](https://diply.com/abby-brittany-conjoined-twins-facts?config=20)
+And despite the fact that the twins share an immune system, Brittany tends to get sick more often than Abby.
 
-“Of course, at first people would stare because they weren’t familiar with us yet,” said Brittany with a smile. “But pretty much everyone adapted really quick. We always got invited to parties and social things. Abby is really more of a home body than me, but that’s okay, we compromised.”
+“It’s because she’s sweeter and the germs are just more attracted to her,” said Abby, laughing at her sister. “She’s just unlucky she’s so nice!”
 
-But there’s one thing that they weren’t prepared to compromise on…
+But there’s one thing the girls definitely agree on these days…
 
-### “We definitely have different styles,” says Abby. “Brittany’s a lot more into neutrals and pearls, stuff like that. But I would rather have it be more fun and bright and colorful!”
+### “We can’t imagine our lives separately,” said Brittany. “God made us just the way we are. We came into this world together, as a team, and we are just happy to have each other and our wonderful lives.”
 
-While Abby is seen as the “outspoken” sister and will always win the argument about what they are going to wear, Brittany says her twin also has a softer side.
+When the twins were first born, their parents had to decide if they wanted doctors to attempt surgical separation. But because of the well-founded fear that at least one of them wouldn’t survive, they decided against it.
 
-“She’s really sensitive,” said Brittany. “People don’t usually realize that.”
-
-[![](http://brainsation.com/wp-content/uploads/2018/07/gg-2-1-1.jpg =600x400)](http://brainsation.com/wp-content/uploads/2018/07/gg-2-1-1.jpg)
+[![](http://brainsation.com/wp-content/uploads/2018/07/w-3-1-1-1.jpg =600x400)](http://brainsation.com/wp-content/uploads/2018/07/w-3-1-1-1.jpg)
 
 ##### [_Image Credit_](https://diply.com/abby-brittany-conjoined-twins-facts?config=20)
 
-There are other differences too. Brittany is scared of heights, whereas Abby is not. Abby is interested in math and science, while Brittany prefers the arts.
+As the girls have aged, they have had to undergo several other surgeries, including one to stop the growth of Abby’s spine after Brittany stopped growing.
 
-But that’s not all that’s different between the girls…
+“We’ve both been through a lot health-wise,” said Abby, laughing. “What doesn’t kill you, makes you stronger. Or at least more feisty.”
+
+And the girls have had a lot of experience working together, solving problems, and making due with “what God gave \[them\].”
+
+Some of the most intimate, private experiences a person can have must be coordinated by the girls…
