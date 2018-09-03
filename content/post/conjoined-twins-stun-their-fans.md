@@ -10,7 +10,7 @@ tags:
 
 ### "Of course we've thought about this long and hard," said Abby Hensel. "We've prayed about it and we're confident that this is the right decision for us." Her sister Brittany added, "You only live once and we just feel like it's time."
 
-Sisters Abby and Brittany Hensel are conjoined twins that have been defying expectations since the day they made their debut into this world. When they were born, they made international headlines for being one of the very few conjoined twins to survive the pregnancy and delivery processes. 
+Sisters Abby and Brittany Hensel are conjoined twins that have been defying expectations since the day they made their debut into this world. When they were born, they made international headlines for being one of the very few conjoined twins to survive the pregnancy and delivery processes.
 
 [![](http://newsattorneys.staging.wpengine.com/wp-content/uploads/2018/06/a-23-1-1.jpg)](http://newsattorneys.staging.wpengine.com/wp-content/uploads/2018/06/a-23-1-1.jpg)
 
@@ -18,13 +18,13 @@ Sisters Abby and Brittany Hensel are conjoined twins that have been defying expe
 
 In the medical literature, Abby and Brittany are known as _dicephalic parapagus_ twins. In layman's terms, this means that the girls each have a head, but their bodies are "unified."
 
- Out of the already minuscule number of conjoined twins in the world, only eleven percent are _dicephalic parapagus_ twins like the Hensels. 
+Out of the already minuscule number of conjoined twins in the world, only eleven percent are _dicephalic parapagus_ twins like the Hensels.
 
 [![](http://newsattorneys.staging.wpengine.com/wp-content/uploads/2018/06/b-21-1-1.jpg)](http://newsattorneys.staging.wpengine.com/wp-content/uploads/2018/06/b-21-1-1.jpg)
 
 ##### [_Image Credit_](https://goo.gl/images/Dj5STs)
 
-The girls have two stomachs, two hearts, and four lungs. Because their lower trunk is shared, they only have one reproductive system. Abby and Brittany have control of one arm and one leg each. They've had to overcome significant challenges in order to walk, swim, and even brush their hair. 
+The girls have two stomachs, two hearts, and four lungs. Because their lower trunk is shared, they only have one reproductive system. Abby and Brittany have control of one arm and one leg each. They've had to overcome significant challenges in order to walk, swim, and even brush their hair.
 
 [![](http://newsattorneys.staging.wpengine.com/wp-content/uploads/2018/06/c-20-1-1.jpg)](http://newsattorneys.staging.wpengine.com/wp-content/uploads/2018/06/c-20-1-1.jpg)
 
@@ -36,7 +36,7 @@ The girls first drew the attention of mainstream media in 1996 when they appeare
 
 The series followed them on many of their milestones. For example, on their 16th birthday, Abigail and Brittany passed their driving test with a mind-boggling feat of teamwork.
 
-"Yeah, learning to drive was crazy. Abby gets road rage," said Brittany, laughing at her sister. "That's not true," Abby retorted. 
+"Yeah, learning to drive was crazy. Abby gets road rage," said Brittany, laughing at her sister. "That's not true," Abby retorted.
 
 [![](http://newsattorneys.staging.wpengine.com/wp-content/uploads/2018/06/a-3-1.jpg)](http://newsattorneys.staging.wpengine.com/wp-content/uploads/2018/06/a-3-1.jpg)
 
@@ -46,7 +46,7 @@ Their mother, Patty, conceded that driving could have been a problem for the gi
 
 ### In 2008, Abby and Brittany began college at Bethel University, majoring in education. At first, the girls wanted to specialize in different fields, but upon learning about the additional coursework, they decided against it.
 
-"What's funny, is that when we were little, I wanted to be a pilot," said Abby. "And Brittany wanted to be a dentist. That didn't last long." Their time at the University proved to be both rewarding and challenging as it is for most young people. 
+"What's funny, is that when we were little, I wanted to be a pilot," said Abby. "And Brittany wanted to be a dentist. That didn't last long." Their time at the University proved to be both rewarding and challenging as it is for most young people.
 
 [![](http://newsattorneys.staging.wpengine.com/wp-content/uploads/2018/06/g-5-1.jpg)](http://newsattorneys.staging.wpengine.com/wp-content/uploads/2018/06/g-5-1.jpg)
 
@@ -56,7 +56,7 @@ Their mother, Patty, conceded that driving could have been a problem for the gi
 
 ### "We definitely have different styles," says Abby. "Brittany's a lot more into neutrals and pearls, stuff like that. But I would rather have it be more fun and bright and colorful!"
 
-While Abby is seen as the "outspoken" sister and will always win the argument about what they are going to wear, Brittany says her twin also has a softer side. "She's really sensitive," said Brittany. "People don't usually realize that." 
+While Abby is seen as the "outspoken" sister and will always win the argument about what they are going to wear, Brittany says her twin also has a softer side. "She's really sensitive," said Brittany. "People don't usually realize that."
 
 [![](http://newsattorneys.staging.wpengine.com/wp-content/uploads/2018/06/gg-2-1.jpg)](http://newsattorneys.staging.wpengine.com/wp-content/uploads/2018/06/gg-2-1.jpg)
 
@@ -66,7 +66,7 @@ There are other differences too. Brittany is scared of heights, whereas Abby is 
 
 ### The Hensel twins also respond differently to coffee. After a few cups Brittany's heart rate increases, but Abby is not affected. They also have different body temperatures!
 
-"I can be a totally different temperature than Brittany," said Abby. "A lot of times our hands are different temperatures and I get super hot way faster." 
+"I can be a totally different temperature than Brittany," said Abby. "A lot of times our hands are different temperatures and I get super hot way faster."
 
 [![](http://newsattorneys.staging.wpengine.com/wp-content/uploads/2018/06/j-2-1.jpg)](http://newsattorneys.staging.wpengine.com/wp-content/uploads/2018/06/j-2-1.jpg)
 
@@ -76,7 +76,7 @@ And despite the fact that the twins share an immune system, Brittany tends to ge
 
 ### "We can't imagine our lives separately," said Brittany. "God made us just the way we are. We came into this world together, as a team, and we are just happy to have each other and our wonderful lives."
 
-When the twins were first born, their parents had to decide if they wanted doctors to attempt surgical separation. But because of the well-founded fear that at least one of them wouldn’t survive, they decided against it. 
+When the twins were first born, their parents had to decide if they wanted doctors to attempt surgical separation. But because of the well-founded fear that at least one of them wouldn’t survive, they decided against it.
 
 [![](http://newsattorneys.staging.wpengine.com/wp-content/uploads/2018/06/w-3-1-1.jpg)](http://newsattorneys.staging.wpengine.com/wp-content/uploads/2018/06/w-3-1-1.jpg)
 
@@ -86,7 +86,7 @@ As the girls have aged, they have had to undergo several other surgeries, includ
 
 ### For obvious reasons, Abby and Brittany Hensel have had to live as a team. Each girl controls one half of their body, so even the simple act of walking has to be coordinated.
 
-In fact, this is harder than it sounds because Brittany is a few inches shorter than Abby, requiring her to basically tip-toe. That's not all the girls have to deal with as a team. Using the restroom, bathing, and personal hygiene issues have to be jointly dealt with. 
+In fact, this is harder than it sounds because Brittany is a few inches shorter than Abby, requiring her to basically tip-toe. That's not all the girls have to deal with as a team. Using the restroom, bathing, and personal hygiene issues have to be jointly dealt with.
 
 [![](http://newsattorneys.staging.wpengine.com/wp-content/uploads/2018/06/mn-1.jpg)](http://newsattorneys.staging.wpengine.com/wp-content/uploads/2018/06/mn-1.jpg)
 
@@ -110,7 +110,7 @@ But what's their major concern about their new job?
 
 ### As they embark on their working life together, the twins aim to take things day by day and keep their expectations to a minimum.
 
-With their position as teachers, they have become role models for children academically, but also in their attitude to life. 
+With their position as teachers, they have become role models for children academically, but also in their attitude to life.
 
 [![](http://newsattorneys.staging.wpengine.com/wp-content/uploads/2018/06/y-1-1.jpg)](http://newsattorneys.staging.wpengine.com/wp-content/uploads/2018/06/y-1-1.jpg)
 
@@ -120,7 +120,7 @@ With their position as teachers, they have become role models for children acade
 
 ### "People are not always so nice," said Abby. "Human beings, by their very nature, are curious. So it's understandable when people stare or ask to have their picture taken with us. That's fine for the most part."
 
-Brittany was quick to add, "But sometimes they say hurtful things, and if you let it, it can get you down." 
+Brittany was quick to add, "But sometimes they say hurtful things, and if you let it, it can get you down."
 
 [![](http://newsattorneys.staging.wpengine.com/wp-content/uploads/2018/06/lj-1.jpg)](http://newsattorneys.staging.wpengine.com/wp-content/uploads/2018/06/lj-1.jpg)
 
@@ -130,7 +130,7 @@ After the Hensel twins accepted their part-time position teaching elementary sch
 
 ### As a close friend of the twins, Erin Junkans says you always need to be alert because you never quite know how people are going to react or what they are going to say.
 
-"I want to make sure that they're safe and that they're not completely exposed, just always keeping an eye on what's going on and just how the girls are reacting to the crowds," says Junkans. 
+"I want to make sure that they're safe and that they're not completely exposed, just always keeping an eye on what's going on and just how the girls are reacting to the crowds," says Junkans.
 
 [![](http://newsattorneys.staging.wpengine.com/wp-content/uploads/2018/06/yy-1.jpg)](http://newsattorneys.staging.wpengine.com/wp-content/uploads/2018/06/yy-1.jpg) "Sometimes if they get more overwhelmed then… we just need to get away from the area for a little bit, but they amaze me at their ability to just shake it off and keep seeing what we are there to see." But what about the girl's romantic lives? Do either of them have a boyfriend?
 
@@ -138,7 +138,7 @@ After the Hensel twins accepted their part-time position teaching elementary sch
 
 Obviously, the subject inspires a lot of curiosity among strangers, which is perhaps why they don’t like to talk about it. And of course, it would raise a number of different ethical issues.
 
- [![](http://newsattorneys.staging.wpengine.com/wp-content/uploads/2018/06/tyu-1-1.jpg)](http://newsattorneys.staging.wpengine.com/wp-content/uploads/2018/06/tyu-1-1.jpg)
+[![](http://newsattorneys.staging.wpengine.com/wp-content/uploads/2018/06/tyu-1-1.jpg)](http://newsattorneys.staging.wpengine.com/wp-content/uploads/2018/06/tyu-1-1.jpg)
 
 ##### [_Image Credit_](https://goo.gl/images/JVVSEs)
 
@@ -146,7 +146,7 @@ Obviously, the subject inspires a lot of curiosity among strangers, which is per
 
 ### "I was never engaged," said Brittany. "And both of us are single at this time."
 
-Even if marriage isn’t in the cards in the near future, the one thing Abby and Brittany Hensel never lack is companionship. And both seem to be happy living their lives together the way they always have. "If God sees fit that one or both us are to be married, then that's how it will go," said Abby matter-of-factly. "Same goes for having children. We just leave it up to our father in heaven. Life is so much easier that way." 
+Even if marriage isn’t in the cards in the near future, the one thing Abby and Brittany Hensel never lack is companionship. And both seem to be happy living their lives together the way they always have. "If God sees fit that one or both us are to be married, then that's how it will go," said Abby matter-of-factly. "Same goes for having children. We just leave it up to our father in heaven. Life is so much easier that way."
 
 [![](http://newsattorneys.staging.wpengine.com/wp-content/uploads/2018/06/p-1-1.jpg)](http://newsattorneys.staging.wpengine.com/wp-content/uploads/2018/06/p-1-1.jpg)
 
@@ -156,7 +156,7 @@ And according to the girls, you can't believe everything you read on the interne
 
 ### "If we each had a quarter for every untrue thing written about us online, believe me, we wouldn't be doing the TLC show. We'd have already retired," Abby said, laughing.
 
-These amazing women have overcome so many challenges to build the life that they enjoy today. It's truly inspiring to witness their fortitude, grace, and humor! 
+These amazing women have overcome so many challenges to build the life that they enjoy today. It's truly inspiring to witness their fortitude, grace, and humor!
 
 [![](http://newsattorneys.staging.wpengine.com/wp-content/uploads/2018/06/d-3-1.jpg)](http://newsattorneys.staging.wpengine.com/wp-content/uploads/2018/06/d-3-1.jpg)
 
