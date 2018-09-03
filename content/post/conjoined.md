@@ -24,7 +24,7 @@ In the medical literature, Abby and Brittany are known as _dicephalic parapagus
 
 Out of the already minuscule number of conjoined twins in the world, only eleven percent are _dicephalic parapagus_ twins like the Hensels.
 
-[![](http://brainsation.com/wp-content/uploads/2018/07/b-21-1-1-1.jpg =600x400)](http://brainsation.com/wp-content/uploads/2018/07/b-21-1-1-1.jpg)
+![](http://brainsation.com/wp-content/uploads/2018/07/b-21-1-1-1.jpg)
 
 ##### [_Image Credit_](https://goo.gl/images/Dj5STs)
 
