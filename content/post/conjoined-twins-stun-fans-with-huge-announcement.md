@@ -1,6 +1,6 @@
 +++
 categories = []
-date = "2018-09-03T14:17:31-04:00"
+date = "2018-09-03T14:18:57-04:00"
 description = ""
 draft = true
 haspagination = true
@@ -8,37 +8,41 @@ specialpost = true
 tags = []
 thumbnailImage = ""
 title = "Conjoined Twins Stun Fans With Huge Announcement"
-weight = 5
+weight = 6
 
 +++
-### For obvious reasons, Abby and Brittany Hensel have had to live as a team. Each girl controls one half of their body, so even the simple act of walking has to be coordinated.
+### As they embark on their working life together, the twins aim to take things day by day and keep their expectations to a minimum.
 
-In fact, this is harder than it sounds because Brittany is a few inches shorter than Abby, requiring her to basically tip-toe.
+With their position as teachers, they have become role models for children academically, but also in their attitude to life.
 
-That’s not all the girls have to deal with as a team. Using the restroom, bathing, and personal hygiene issues have to be jointly dealt with.
+[![](http://brainsation.com/wp-content/uploads/2018/07/y-1-1-1.jpg =600x400)](http://brainsation.com/wp-content/uploads/2018/07/y-1-1-1.jpg)
 
-[![](http://brainsation.com/wp-content/uploads/2018/07/mn-1-1.jpg =600x400)](http://brainsation.com/wp-content/uploads/2018/07/mn-1-1.jpg)
+##### [_Image Credit_](https://goo.gl/images/8QMx46)
 
-##### [_Image Credit_](https://goo.gl/images/FwmpPW)
+“I don’t think there’s anything that they won’t try or something that they couldn’t be able to do if they really wanted to,” says Paul Good, principal of the school where Abby and Brittany work.
 
-“It’s a chore, sometimes,” Brittany said while Abby shook her head, agreeing.
+But not everyone was quite so thrilled about the Hensel twins taking a teaching gig…
 
-Conjoined twins are exceedingly rare – it is thought one in every 200,000 births – and around 40-60% of these births are delivered stillborn. Female siblings tend to have a better survival rate than male siblings, though.
+### “People are not always so nice,” said Abby. “Human beings, by their very nature, are curious. So it’s understandable when people stare or ask to have their picture taken with us. That’s fine for the most part.”
 
-But the girls recently made a huge announcement that stunned their fans…
+Brittany was quick to add, “But sometimes they say hurtful things, and if you let it, it can get you down.”
 
-### The twins recently announced that they had found work as part-time elementary school teachers.
+[![](http://brainsation.com/wp-content/uploads/2018/07/lj-1-1.jpg =600x400)](http://brainsation.com/wp-content/uploads/2018/07/lj-1-1.jpg)
 
-“We are fourth- and fifth-grade math specialists, so we’ll have two classes of math,” said Abby.
+##### [_Image Credit_](https://goo.gl/images/KiJgS7)
 
-“It’s part time, which is nice, so we’ll be kind of transitioning into the teaching world,” Brittany added.
+After the Hensel twins accepted their part-time position teaching elementary school, some parents made disparaging comments on the school’s Facebook page.
 
-[![](http://brainsation.com/wp-content/uploads/2018/07/ww-1-1-1.jpg =600x400)](http://brainsation.com/wp-content/uploads/2018/07/ww-1-1-1.jpg)
+“How are you going to let these freaks teach our children,” one woman posted. “Why couldn’t the district just have hired a regular teacher and been done with it?”
 
-##### [_Image Credit_](https://goo.gl/images/dgFm2J)
+But despite the controversy, the girls are thankful that they have one special friend to look out for them…
 
-Patty said that she thinks her daughters made an excellent decision by working with children.
+### As a close friend of the twins, Erin Junkans says you always need to be alert because you never quite know how people are going to react or what they are going to say.
 
-“They’ve just always had a knack with kids, and kids have always been kind of drawn to them. Maybe it started by curiosity, but then once their simple questions are answered, they still are just drawn to Ab and Brit,” she said.
+“I want to make sure that they’re safe and that they’re not completely exposed, just always keeping an eye on what’s going on and just how the girls are reacting to the crowds,” says Junkans.
 
-But what’s their major concern about their new job?
+[![](http://brainsation.com/wp-content/uploads/2018/07/yy-1-1.jpg =600x400)](http://brainsation.com/wp-content/uploads/2018/07/yy-1-1.jpg)
+
+“Sometimes if they get more overwhelmed then… we just need to get away from the area for a little bit, but they amaze me at their ability to just shake it off and keep seeing what we are there to see.”
+
+But what about the girl’s romantic lives? Do either of them have a boyfriend?
