@@ -49,28 +49,3 @@ $(function() {
 
 
 
-// $('.grid.infinite-scroll').infiniteScroll({
-//   // options
-//   path: '.pagination__item--next',
-//   append: '..infinite-scroll'
-// });
-
-
-
-    // // Provide infinite scroll if enabled
-    // var $infiniteContainer = $(".grid.infinite-scroll").infinitescroll({
-    //     navSelector: "ul.pagination",
-    //     nextSelector: ".pagination__item--next",
-    //     itemSelector: ".infinite-scroll .post",
-    //     loadingImg: "/img/loader.gif",
-    //     loading: {
-    //         finishedMsg: "",
-    //         msgText: "",
-    //         img: "/img/loader.gif"
-    //     }
-    // }, function(elements) {
-    //     var $elements = $(elements);
-    //     $elements.imagesLoaded(function() {
-    //         $infiniteContainer.masonry("appended", $elements);
-    //     });
-    // });
