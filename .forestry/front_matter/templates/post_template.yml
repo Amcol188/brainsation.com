@@ -47,6 +47,7 @@ fields:
   name: weight
   description: place for page number
 pages:
+- content/post/my_post_name.md
 - content/post/test.md
 - content/post/conjoined-twins-stun-fans-with-huge-announcement.md
 - content/post/conjoined.md
