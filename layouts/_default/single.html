@@ -16,8 +16,6 @@
 						</div>
 
 
-					
-
 
 
 		{{ if .Params.haspagination }}
@@ -44,26 +42,32 @@
 							{{ end }}
 						{{ end }}
 					</div>
-
-
-
-						
 				{{ else }}
-					<div class="post-paging bypost">
-						{{if .PrevInSection}}
-							<a href="{{.PrevInSection.Permalink}}" title="{{.PrevInSection.Title}}" class="btn d-none d-md-block btn-prev disabled"><i class="fa fa-angle-left"></i>
-								Prev post
-							</a>
-						{{end}}
-						{{if .NextInSection}}
-							<a href="{{.NextInSection.Permalink}}" title="{{.NextInSection.Title}}" class="btn btn-next">
-								Next post
-								<i class="fa fa-angle-right"></i></a>
-						{{end}}
 
-						</div>
-						
-		{{ end }}
+
+					<div class="post-paging bypage">
+						{{ $page_link := .Permalink }}
+						{{ $categories := .Params.categories }}
+						{{ $pages := first 3 (where .Site.Pages "Params.specialpost" "==" false).ByDate.Reverse }}
+						{{ range $pages }}
+							{{ $page := . }}
+							{{ if (ne $page_link $page.Permalink) }}
+								{{ $.Scratch.Set "classname" "category-post" }}
+								{{ else }}
+								{{ $.Scratch.Set "classname" "active" }}
+							{{ end }}
+
+						<a class="btn d-none d-md-block btn-prev disabled category-page {{ $.Scratch.Get "classname" | safeHTML }}"  href="{{ $page.Permalink }}" style="display:none;">{{ $page.Title }} <i class="fa fa-angle-right"></i></a>
+
+				
+						{{ end }}
+					</div>
+
+				{{ end }}
+
+				
+
+	
 
 					</article>
 				</div>

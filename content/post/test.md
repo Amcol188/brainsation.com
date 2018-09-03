@@ -9,7 +9,7 @@ specialpost = false
 tags = ["subpages"]
 thumbnailImage = ""
 title = "test new"
-weight = ""
+weight = "1"
 
 +++
 test pages for subpages

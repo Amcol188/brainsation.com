@@ -2,7 +2,7 @@
 	 <div class="container">
 	 	<div class="top-news-holder">
 	 		<div class="one-news">
-				{{ range first 1  (where (where .Pages "Section" "post") ".Params.specialpost" "==" false)  }}
+				{{ range first 1  (where (where .Pages "Section" "post") ".Params.specialpost" "==" false).ByDate.Reverse  }}
 					<article class="post-item post-large" style="background:url({{ .Params.thumbnailImage }}) no-repeat 50% 50% / cover">
 		 				<a href="{{ .Permalink }}">
 		 					<h1 class="post-title">{{ .Title }}</h1>
@@ -12,7 +12,7 @@
 				{{ end }}
 	 		</div>
 	 		<div class="two-news">
-	 			{{ range first 2 ( after 1  (where (where .Pages "Section" "post") ".Params.specialpost" "==" false) )}}
+	 			{{ range first 2 ( after 1  (where (where .Pages "Section" "post") ".Params.specialpost" "==" false).ByDate.Reverse )}}
 		 			<article class="post-item post-medium" style="background:url({{ .Params.thumbnailImage }}) no-repeat 50% 50% / cover">
 		 				<a href="{{ .Permalink }}">
 		 					<h1 class="post-title">{{ .Title }}</h1>

@@ -14,7 +14,7 @@
 		 			<div class="news-list">
 		 					<div class="grid">
 		 				
-		 						{{ range first 6 (where (where .Pages "Section" "post") ".Params.specialpost" "==" false)  }}
+		 						{{ range first 6 (where (where .Pages "Section" "post") ".Params.specialpost" "==" false).ByDate.Reverse  }}
 		 							 <div class="post">
 								        <article class="post-entry">
 								            <a class="image" href="{{ .Permalink }}" style="background:url({{ .Params.thumbnailImage }}) no-repeat 50% 50% / cover"

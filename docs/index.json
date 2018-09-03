@@ -1,6 +1,3 @@
-
-
-
 [
 
 
@@ -9,6 +6,12 @@
     "title": "test new",
     "image": "",
     "tags": ["subpages",  ""]
+},
+{
+    "uri": "http://st.brainsation.com/post/single-page/",
+    "title": "Single page",
+    "image": "",
+    "tags": [ ""]
 },
 {
     "uri": "http://st.brainsation.com/post/170-million-year-old-living-fossil-now-being-eaten-out-of-existence/",

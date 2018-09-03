@@ -9,7 +9,7 @@
 		 					<div class="grid">
 
 			
-		 						{{ range first 6 (where .Pages "Section" "post") }}
+		 						{{ range first 6  (where (where .Pages "Section" "post") ".Params.specialpost" "==" false).ByDate.Reverse  }}
 		 							 <div class="post">
 								        <article class="post-entry">
 								            <a class="image" href="{{ .Permalink }}" style="background:url({{ .Site.BaseURL }}{{ .Params.thumbnailImage }}) no-repeat 50% 50% / cover"
@@ -29,7 +29,7 @@
 		 			</div>
 		 			<div class="news-carousel">
 		 				<div class="owl-carousel owl-posts">
-		 					{{ range first 3 (where .Pages "Section" "post") }}
+		 					{{ range first 3  (where (where .Pages "Section" "post") ".Params.specialpost" "==" false).ByDate.Reverse  }}
 							    <div class="item">
 							    	<a class="post-item post-large" href="{{ .Permalink }}" style="background:url({{ .Site.BaseURL }}{{ .Params.thumbnailImage }}) no-repeat 50% 50% / cover">
 								      	<div class="holder-block">

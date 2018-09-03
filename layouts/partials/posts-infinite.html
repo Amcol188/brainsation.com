@@ -19,7 +19,7 @@
     {{ $infinite_scroll := $.Scratch.Get "infinite_scroll" }}
 
 
-{{ $paginator := .Paginate  (where (where .Pages "Section" "post") ".Params.specialpost" "==" false) }}
+{{ $paginator := .Paginate  (where (where .Pages "Section" "post") ".Params.specialpost" "==" false).ByDate.Reverse }}
 <div class="news-list">
 	<div class="grid {{ if $infinite_scroll }}infinite-scroll{{ end }}">
 		{{ if .IsNode }}

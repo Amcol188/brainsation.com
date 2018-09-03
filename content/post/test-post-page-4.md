@@ -9,6 +9,6 @@ specialpost = true
 tags = ["subpages"]
 thumbnailImage = ""
 title = "test post page 4"
-weight = 4
+weight = "4"
 
 +++

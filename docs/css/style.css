@@ -529,6 +529,9 @@ article.article img {
     left: -1px;
     border-color: transparent transparent transparent #fff;
 }
+.btn-next{
+  margin-left: auto;
+}
 .btn-prev .fa, .btn-next .fa {
   margin-left: 10px; }
 
