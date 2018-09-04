@@ -11,9 +11,13 @@ title = "Conjoined Twins: Romance"
 weight = 9
 
 +++
+{{< post_ad >}}
+
 ### Though both have expressed a desire to one day get married and have children, they have been reluctant to discuss this issue publicly.
 
 Obviously, the subject inspires a lot of curiosity among strangers, which is perhaps why they don’t like to talk about it. And of course, it would raise a number of different ethical issues.
+
+{{< post_ad >}}
 
 [![](http://brainsation.com/wp-content/uploads/2018/07/tyu-1-1-1.jpg)](http://brainsation.com/wp-content/uploads/2018/07/tyu-1-1-1.jpg)
 
@@ -25,11 +29,15 @@ Obviously, the subject inspires a lot of curiosity among strangers, which is per
 
 But what about rumors that Brittany got engaged and has been planning a secret wedding?
 
+{{< post_ad >}}
+
 ### "I was never engaged," said Brittany. "And both of us are single at this time."
 
 Even if marriage isn’t in the cards in the near future, the one thing Abby and Brittany Hensel never lack is companionship. And both seem to be happy living their lives together the way they always have.
 
 "If God sees fit that one or both us are to be married, then that's how it will go," said Abby matter-of-factly. "Same goes for having children. We just leave it up to our father in heaven. Life is so much easier that way."
+
+{{< post_ad >}}
 
 [![](http://brainsation.com/wp-content/uploads/2018/07/p-1-1-1.jpg)](http://brainsation.com/wp-content/uploads/2018/07/p-1-1-1.jpg)
 
@@ -38,3 +46,5 @@ Even if marriage isn’t in the cards in the near future, the one thing Abby and
 And according to the girls, you can't believe everything you read on the internet.
 
 What's the craziest thing that's been said about the girls that's absolutely not true?
+
+{{< post_ad >}}
