@@ -11,9 +11,13 @@ title = "Conjoined Twins: Crazy Gossip!"
 weight = 10
 
 +++
+{{< post_ad >}}
+
 ### "If we each had a quarter for every untrue thing written about us online, believe me, we wouldn't be doing the TLC show. We'd have already retired," Abby said, laughing.
 
 These amazing women have overcome so many challenges to build the life that they enjoy today. It's truly inspiring to witness their fortitude, grace, and humor!
+
+{{< post_ad >}}
 
 [![](http://brainsation.com/wp-content/uploads/2018/07/d-3-1-1.jpg)](http://brainsation.com/wp-content/uploads/2018/07/d-3-1-1.jpg)
 
@@ -24,3 +28,5 @@ These amazing women have overcome so many challenges to build the life that they
 "Or the thing about us fighting over a guy," Brittany added. "This one story had us fighting with each other at a McDonald's over this guy that we both liked. The story said I was 'insanely jealous.'"
 
 But you have to wonder, has anything like that ever happened?
+
+{{< post_ad >}}
