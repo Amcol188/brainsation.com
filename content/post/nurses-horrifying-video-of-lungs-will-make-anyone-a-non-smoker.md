@@ -2,6 +2,7 @@
 title: Nurse's Horrifying Video of Lungs Will Make Anyone a Non-Smoker
 date: Thu, 03 May 2018 19:23:01 +0000
 thumbnailImage: "/uploads/lungs-epic-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

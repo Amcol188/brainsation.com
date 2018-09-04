@@ -2,6 +2,7 @@
 title: What Does Ivanka Trump Do For The White House? Her 'Unprecedented' Role
 date: Tue, 13 Jun 2017 03:42:30 +0000
 thumbnailImage: ''
+specialpost: false
 tags:
 - det
 - Politics

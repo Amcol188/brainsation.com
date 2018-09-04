@@ -2,6 +2,7 @@
 title: Is This the Source of the Mysterious Booms We've Been Hearing?
 date: Wed, 30 May 2018 21:40:57 +0000
 thumbnailImage: "/uploads/crowd-looking-up-fb-1-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

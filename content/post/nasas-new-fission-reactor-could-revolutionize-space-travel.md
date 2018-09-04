@@ -2,6 +2,7 @@
 title: NASA's New Fission Reactor Could Revolutionize Space Travel
 date: Fri, 04 May 2018 14:37:59 +0000
 thumbnailImage: "/uploads/nasa-krusty-fission-moon-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

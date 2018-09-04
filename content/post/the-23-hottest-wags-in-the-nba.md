@@ -2,6 +2,7 @@
 title: The Most Shocking Wives and Girlfriends of NBA Stars
 date: Wed, 27 Sep 2017 20:05:22 +0000
 thumbnailImage: ''
+specialpost: false
 tags:
 - Celebs
 - Entertainment

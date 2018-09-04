@@ -2,6 +2,7 @@
 title: Utah Dinosaur Footprints Survived the Ages, But Not Humans
 date: Wed, 09 May 2018 13:37:28 +0000
 thumbnailImage: "/uploads/dinosaur-track-utah-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

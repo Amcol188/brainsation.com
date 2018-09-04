@@ -2,6 +2,7 @@
 title: Elon Musk Just Fired His Robots and Hired Humans to Take Their Places
 date: Mon, 30 Apr 2018 20:50:46 +0000
 thumbnailImage: "/uploads/elon-musk-robots-1-810x425.png"
+specialpost: false
 tags:
 - Healthcare
 - Science

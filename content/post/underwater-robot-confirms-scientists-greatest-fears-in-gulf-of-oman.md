@@ -2,6 +2,7 @@
 title: Underwater Robot Confirms Scientists Greatest Fears in Gulf of Oman
 date: Tue, 01 May 2018 15:34:06 +0000
 thumbnailImage: "/uploads/gulf-of-oman-fb-810x425.png"
+specialpost: false
 tags:
 - Science
 

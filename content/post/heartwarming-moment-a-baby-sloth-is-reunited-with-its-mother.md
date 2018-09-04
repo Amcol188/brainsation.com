@@ -2,6 +2,7 @@
 title: Heartwarming Moment a Baby Sloth is Reunited With It's Mother
 date: Thu, 24 May 2018 21:26:22 +0000
 thumbnailImage: "/uploads/baby-sloth-fb-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

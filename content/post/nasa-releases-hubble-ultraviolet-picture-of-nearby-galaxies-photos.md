@@ -2,6 +2,7 @@
 title: NASA Releases Hubble Ultraviolet Picture of Nearby Galaxies [Photos]
 date: Sat, 19 May 2018 18:16:09 +0000
 thumbnailImage: "/uploads/hubble-telescope-1.png"
+specialpost: false
 tags:
 - Uncategorized
 

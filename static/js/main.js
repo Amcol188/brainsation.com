@@ -38,13 +38,16 @@ $('.owl-carousel').owlCarousel({
 
 $(function() {
     $('.bypage .category-page').hide();
-    $('.bypage .category-page.active').prev('.category-page').show().html("Prev page");
+    $('.bypage .category-page.active').prev('.category-page').show().addClass("btn-show").html("Prev page");
     $('.bypage .category-page.active').next('.category-page').addClass("btn-next").show().html("Next page");
+   
+
 
     $('.bypost .category-page').hide();
     $('.bypost .category-page.active').prev('.category-page').removeClass('category-page').show().html("Prev post");
     $('.bypost .category-page.active').next('.category-page').removeClass('category-page').addClass("btn-next").show().html("Next post");
     $('.bypost .category-page').remove();
+     $( ".btn-next" ).clone().appendTo( ".next-page-btn" );
 });
 
 

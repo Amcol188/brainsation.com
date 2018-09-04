@@ -2,6 +2,7 @@
 title: The Ridiculous People of Walmart
 date: Tue, 09 Jan 2018 22:53:12 +0000
 thumbnailImage: ''
+specialpost: false
 tags:
 - Entertainment
 

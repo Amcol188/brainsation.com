@@ -2,8 +2,6 @@
 title: 20 Hilarious Photos of Bad Dogs
 date: Wed, 03 Jan 2018 19:34:42 +0000
 thumbnailImage: ''
-hasnextpage: false
-hasprevpage: true
 specialpost: false
 tags:
 - Animal

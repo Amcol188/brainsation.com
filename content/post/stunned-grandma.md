@@ -3,6 +3,7 @@ title: Stunned Grandma Learns 'Puppy' That Never Barked and Hated Dog Food Is Ac
   a...
 date: Wed, 11 Jul 2018 20:13:35 +0000
 thumbnailImage: "/uploads/Untitled-design-1-810x425.jpg"
+specialpost: false
 tags:
 - Animal
 

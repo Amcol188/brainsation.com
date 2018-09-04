@@ -2,6 +2,7 @@
 title: 20 Amazingly Perfectly Timed Photos
 date: Fri, 05 Jan 2018 20:04:12 +0000
 thumbnailImage: ''
+specialpost: false
 tags:
 - Culture
 

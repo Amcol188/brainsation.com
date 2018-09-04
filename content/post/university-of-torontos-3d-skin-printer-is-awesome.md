@@ -2,6 +2,7 @@
 title: University of Toronto's 3D Skin Printer is AWESOME
 date: Thu, 10 May 2018 22:20:18 +0000
 thumbnailImage: "/uploads/3d-skin-printer-fb-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

@@ -2,6 +2,7 @@
 title: Researchers Study Love Lives of Senior Citizens - Here are the Results
 date: Mon, 07 May 2018 21:46:14 +0000
 thumbnailImage: "/uploads/older-couple-fb-810x425.png"
+specialpost: false
 tags:
 - Healthcare
 - Science

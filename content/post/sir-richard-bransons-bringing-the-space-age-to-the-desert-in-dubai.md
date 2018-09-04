@@ -2,6 +2,7 @@
 title: Sir Richard Branson's Bringing the Space Age to the Desert in Dubai
 date: Tue, 08 May 2018 23:13:05 +0000
 thumbnailImage: "/uploads/hyperloop-tech-810x425.png"
+specialpost: false
 tags:
 - Economics
 - Science

@@ -2,6 +2,7 @@
 title: Recent US Solar Eclipse Set Off Atmospheric Wave Measured Around the Globe
 date: Tue, 01 May 2018 19:01:34 +0000
 thumbnailImage: "/uploads/solar-eclipse2-max-pixel-810x456.jpg"
+specialpost: false
 tags:
 - Science
 

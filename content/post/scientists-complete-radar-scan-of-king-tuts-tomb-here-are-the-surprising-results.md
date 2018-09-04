@@ -3,6 +3,7 @@ title: Scientists Complete Radar Scan of King Tut's Tomb - Here are the Surprisi
   Results
 date: Mon, 07 May 2018 21:31:51 +0000
 thumbnailImage: "/uploads/king-tut-howard-carter-fb-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

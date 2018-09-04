@@ -2,6 +2,7 @@
 title: Robots Gain Incredible New Skills - Should Humans Be Worried?
 date: Fri, 11 May 2018 16:12:57 +0000
 thumbnailImage: "/uploads/boston-dynamics-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

@@ -2,6 +2,7 @@
 title: Scientists Think They Might Have Found Another Planet Like Earth
 date: Fri, 11 May 2018 21:37:36 +0000
 thumbnailImage: "/uploads/trappist-planet-earth-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

@@ -2,6 +2,7 @@
 title: NASA Just Took 3D Printing to Whole New Level with Rocket Engine
 date: Fri, 11 May 2018 19:57:34 +0000
 thumbnailImage: "/uploads/3d-nasa-rocket-engine-810x425.png"
+specialpost: false
 tags:
 - Science
 

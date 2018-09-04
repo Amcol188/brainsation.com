@@ -2,6 +2,7 @@
 title: 'Scientist: $180 Kit Can Help Criminals Avoid Prosecution'
 date: Thu, 10 May 2018 18:21:47 +0000
 thumbnailImage: "/uploads/bad-guy-fog-fb-810x425.png"
+specialpost: false
 tags:
 - Crime
 - Science

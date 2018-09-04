@@ -2,6 +2,7 @@
 title: Internet Nerd Cracks the Yanny and Laurel Riddle
 date: Thu, 17 May 2018 19:13:47 +0000
 thumbnailImage: "/uploads/yanny-laurel-nerd-it-up-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

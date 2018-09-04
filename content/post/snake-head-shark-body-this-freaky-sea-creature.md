@@ -2,6 +2,7 @@
 title: Snake Head + Shark Body = This Freaky Sea Creature
 date: Thu, 24 May 2018 22:29:02 +0000
 thumbnailImage: "/uploads/frilled-shark-fb-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

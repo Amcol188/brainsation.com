@@ -2,6 +2,7 @@
 title: Here are the Warning Signs Super Volcanos Give Before They Blow
 date: Thu, 03 May 2018 16:17:31 +0000
 thumbnailImage: "/uploads/volcano-epic.png"
+specialpost: false
 tags:
 - Science
 

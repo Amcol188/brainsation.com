@@ -2,8 +2,6 @@
 title: 15 Hottest Female Soccer Players On The Planet
 date: Thu, 01 Mar 2018 10:06:13 +0000
 thumbnailImage: "/uploads/BREAKING-48-810x424.jpg"
-hasnextpage: false
-hasprevpage: true
 specialpost: false
 tags:
 - Hot Female Athletes

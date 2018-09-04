@@ -3,6 +3,7 @@ title: Kate Middleton Refuses To Make Same Mistake With Prince Louis That She Di
   With Charlotte -- She’s Not Backing Down…
 date: Tue, 17 Jul 2018 05:30:18 +0000
 thumbnailImage: "/uploads/featured1-810x425.jpg"
+specialpost: false
 tags:
 - Celebs
 

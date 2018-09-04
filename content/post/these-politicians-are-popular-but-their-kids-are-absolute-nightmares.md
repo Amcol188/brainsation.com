@@ -2,6 +2,7 @@
 title: These Politicians Are Popular, But Their Kids Are Absolute Nightmares
 date: Fri, 12 Jan 2018 01:55:33 +0000
 thumbnailImage: ''
+specialpost: false
 tags:
 - celebrities
 - Culture

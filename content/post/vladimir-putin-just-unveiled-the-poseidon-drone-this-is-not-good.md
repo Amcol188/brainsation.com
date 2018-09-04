@@ -2,6 +2,7 @@
 title: Vladimir Putin Just Unveiled the Poseidon Drone -- This is NOT Good
 date: Fri, 18 May 2018 19:27:40 +0000
 thumbnailImage: "/uploads/putin-poseidon-drone-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

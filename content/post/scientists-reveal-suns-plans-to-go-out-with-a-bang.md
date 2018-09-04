@@ -2,6 +2,7 @@
 title: Scientists Reveal Sun's Plans to Go Out with a Bang
 date: Tue, 08 May 2018 22:28:52 +0000
 thumbnailImage: "/uploads/sunset-fb-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

@@ -2,6 +2,7 @@
 title: It Blew - Deadly Eruption Kills 25, But It's Not Kilauea
 date: Mon, 04 Jun 2018 13:55:22 +0000
 thumbnailImage: "/uploads/fuego-volcano-erupting-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

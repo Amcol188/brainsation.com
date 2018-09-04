@@ -2,6 +2,7 @@
 title: Chocolate Fans Are Going to Love This
 date: Tue, 01 May 2018 20:52:56 +0000
 thumbnailImage: "/uploads/dark-chocolate-pxhere-810x540.jpg"
+specialpost: false
 tags:
 - Uncategorized
 

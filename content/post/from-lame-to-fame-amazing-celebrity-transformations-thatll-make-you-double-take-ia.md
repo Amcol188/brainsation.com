@@ -2,6 +2,7 @@
 title: 'From Lame To Fame: Amazing Celebrity Transformations That''ll Make You Double-Take!'
 date: Sun, 01 Oct 2017 05:58:42 +0000
 thumbnailImage: ''
+specialpost: false
 tags:
 - Featured
 

@@ -2,6 +2,7 @@
 title: Scientists Just Detected a Particle That Shouldn't Even Exist
 date: Mon, 04 Jun 2018 17:20:47 +0000
 thumbnailImage: "/uploads/ice-cube-observatory-fb-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

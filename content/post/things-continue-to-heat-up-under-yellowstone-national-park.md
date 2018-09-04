@@ -2,6 +2,7 @@
 title: Things Continue to Heat Up Under Yellowstone National Park
 date: Wed, 02 May 2018 20:03:33 +0000
 thumbnailImage: "/uploads/yellowstone-sign.png"
+specialpost: false
 tags:
 - Science
 

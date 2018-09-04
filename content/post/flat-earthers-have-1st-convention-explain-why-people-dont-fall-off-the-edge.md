@@ -2,6 +2,7 @@
 title: Flat Earthers Have 1st Convention - Explain Why People Don't Fall Off the Edge
 date: Wed, 02 May 2018 19:37:26 +0000
 thumbnailImage: "/uploads/earth-from-space-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

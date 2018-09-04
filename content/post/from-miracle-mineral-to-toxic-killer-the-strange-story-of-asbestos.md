@@ -2,6 +2,7 @@
 title: From Miracle Mineral to Toxic Killer, The Strange Story of Asbestos
 date: Sat, 02 Jun 2018 21:13:17 +0000
 thumbnailImage: "/uploads/asbestos-810x540.jpg"
+specialpost: false
 tags:
 - Uncategorized
 

@@ -2,6 +2,7 @@
 title: Abandoned, Slowly Decaying Cruise Ship Given New Life With These Amazing Photos
 date: Tue, 11 Jul 2017 18:26:19 +0000
 thumbnailImage: ''
+specialpost: false
 tags:
 - Culture
 - det

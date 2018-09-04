@@ -2,6 +2,7 @@
 title: Insane Pictures Of The Most Flexible Girls In The World
 date: Fri, 19 Jan 2018 04:24:01 +0000
 thumbnailImage: "/uploads/3855793A00000578-3789528-image-a-55_1473875308045-810x541.jpg"
+specialpost: false
 tags:
 - contortion
 - Culture

@@ -3,7 +3,6 @@ categories = ["conjoined"]
 date = "2018-09-03T18:32:01-04:00"
 description = ""
 haspagination = true
-slug = ""
 specialpost = true
 tags = []
 thumbnailImage = ""

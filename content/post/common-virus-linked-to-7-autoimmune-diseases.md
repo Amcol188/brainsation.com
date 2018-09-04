@@ -2,6 +2,7 @@
 title: Common Virus Linked to 7 Autoimmune Diseases
 date: Tue, 01 May 2018 16:42:08 +0000
 thumbnailImage: "/uploads/researcher-1.png"
+specialpost: false
 tags:
 - Healthcare
 - Science

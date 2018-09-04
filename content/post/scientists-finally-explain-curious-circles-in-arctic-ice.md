@@ -2,6 +2,7 @@
 title: Scientists Finally Explain Curious Circles in Arctic Ice
 date: Sat, 21 Apr 2018 16:23:31 +0000
 thumbnailImage: ''
+specialpost: false
 tags:
 - Economics
 - Healthcare

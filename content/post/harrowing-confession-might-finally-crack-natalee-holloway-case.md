@@ -2,6 +2,7 @@
 title: Harrowing Confession Might Finally Crack Natalee Holloway Case
 date: Mon, 17 Jul 2017 15:28:54 +0000
 thumbnailImage: ''
+specialpost: false
 tags:
 - Crime
 - Culture

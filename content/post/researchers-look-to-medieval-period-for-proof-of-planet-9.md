@@ -2,6 +2,7 @@
 title: Researchers Look to Medieval Period for Proof of Planet 9
 date: Mon, 07 May 2018 19:17:10 +0000
 thumbnailImage: "/uploads/Planet_nine_artistic_plain-1-810x540-1.png"
+specialpost: false
 tags:
 - Science
 

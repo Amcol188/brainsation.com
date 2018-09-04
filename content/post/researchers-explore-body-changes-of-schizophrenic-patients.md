@@ -2,6 +2,7 @@
 title: Researchers Explore Body Changes of Schizophrenic Patients
 date: Mon, 14 May 2018 16:45:34 +0000
 thumbnailImage: "/uploads/depressed-person-fb-810x425.png"
+specialpost: false
 tags:
 - Science
 

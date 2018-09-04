@@ -2,6 +2,7 @@
 title: 'New Study: Octopuses Came From Outer Space'
 date: Thu, 17 May 2018 13:24:03 +0000
 thumbnailImage: "/uploads/octopus-wikipedia-810x486.jpg"
+specialpost: false
 tags:
 - Uncategorized
 

@@ -2,6 +2,7 @@
 title: WintOGreen Lifesaver Effect May Be Responsible for Strange Light Over Arkansas
 date: Thu, 03 May 2018 15:58:37 +0000
 thumbnailImage: "/uploads/gurdon-light-lifesavers-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

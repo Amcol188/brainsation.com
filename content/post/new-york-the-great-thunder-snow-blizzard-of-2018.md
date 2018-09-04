@@ -2,6 +2,7 @@
 title: New York & The Great Thunder Snow Blizzard of 2018
 date: Wed, 25 Apr 2018 19:54:58 +0000
 thumbnailImage: "/uploads/thunder-snow-umbrella.jpg"
+specialpost: false
 tags:
 - Economics
 - Healthcare

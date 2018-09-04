@@ -2,6 +2,7 @@
 title: Tired of Sitting in Traffic? Elon Musk Has a Solution & It's a Beauty
 date: Fri, 11 May 2018 19:35:25 +0000
 thumbnailImage: "/uploads/la-traffic-fb-810x425.png"
+specialpost: false
 tags:
 - Science
 

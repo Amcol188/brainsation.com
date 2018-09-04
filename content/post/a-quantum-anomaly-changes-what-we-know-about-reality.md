@@ -2,6 +2,7 @@
 title: A Quantum Anomaly Changes What We Know About Reality
 date: Mon, 07 May 2018 19:33:50 +0000
 thumbnailImage: "/uploads/Milky_Way_IR_Spitzer-810x584.jpg"
+specialpost: false
 tags:
 - Science
 

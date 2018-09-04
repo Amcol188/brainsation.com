@@ -2,6 +2,7 @@
 title: How the Gemini Astronauts Took the Best UFO Picture Ever
 date: Fri, 18 May 2018 22:41:25 +0000
 thumbnailImage: "/uploads/mcdivitt-white-in-capsule-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

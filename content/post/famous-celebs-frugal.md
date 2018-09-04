@@ -2,6 +2,7 @@
 title: Famous Celebs Who Are Frugal And Clip Coupons Just Like You
 date: ''
 thumbnailImage: ''
+specialpost: false
 tags:
 - Celebs
 - det

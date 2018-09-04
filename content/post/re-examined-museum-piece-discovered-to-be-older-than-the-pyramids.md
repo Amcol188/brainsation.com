@@ -2,6 +2,7 @@
 title: Re-Examined Museum Piece Discovered to Be Older Than the Pyramids
 date: Thu, 26 Apr 2018 15:29:01 +0000
 thumbnailImage: "/uploads/pyramids-1024x681-810x539.jpg"
+specialpost: false
 tags:
 - Economics
 - Healthcare

@@ -2,6 +2,7 @@
 title: Texas Scientist Solves Two Ansel Adams Mysteries
 date: Fri, 27 Apr 2018 17:52:37 +0000
 thumbnailImage: "/uploads/Don-Olson-5634-DETAIL-810x540.jpg"
+specialpost: false
 tags:
 - Economics
 - Healthcare

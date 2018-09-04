@@ -2,6 +2,7 @@
 title: New Zealand Farmer Wakes Up to 200 Yd Wide Sink Hole
 date: Thu, 10 May 2018 23:54:04 +0000
 thumbnailImage: "/uploads/new-zealand-sink-hole-810x425.png"
+specialpost: false
 tags:
 - Science
 

@@ -2,8 +2,6 @@
 title: 20 Actors You didn't Realize Passed Away in 2017
 date: Mon, 21 Aug 2017 19:07:53 +0000
 thumbnailImage: "/uploads/nicoledehuff-starswhodied-300x214.jpg"
-hasnextpage: false
-hasprevpage: true
 specialpost: false
 tags:
 - Celebs

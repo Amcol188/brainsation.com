@@ -2,6 +2,7 @@
 title: The Shocking Net Worth Of These Celebs Will Completely Boggle Your Mind
 date: Thu, 27 Jul 2017 17:31:20 +0000
 thumbnailImage: "/uploads/celeb_richardbranson-1501114075012-1-1.jpg"
+specialpost: false
 tags:
 - Celebs
 - det

@@ -3,6 +3,7 @@ title: 23 Yr Old Dutch Inventor's Bold Plan to Clean Up the Pacific - It Just Mi
   Work
 date: Tue, 05 Jun 2018 15:55:11 +0000
 thumbnailImage: "/uploads/boyan-slat-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

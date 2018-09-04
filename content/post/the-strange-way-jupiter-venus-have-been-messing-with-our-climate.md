@@ -2,6 +2,7 @@
 title: The Strange Way Jupiter & Venus Have Been Messing With Our Climate
 date: Mon, 14 May 2018 22:23:45 +0000
 thumbnailImage: "/uploads/jupiter-529812_960_720-810x405.jpg"
+specialpost: false
 tags:
 - Uncategorized
 

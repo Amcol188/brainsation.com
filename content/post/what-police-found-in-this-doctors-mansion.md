@@ -3,6 +3,7 @@ title: What Police Found in This Doctor's Mansion Has San Antonio Residents Frea
   Out!
 date: Mon, 30 Apr 2018 21:28:24 +0000
 thumbnailImage: "/uploads/1qa-810x426.jpg"
+specialpost: false
 tags:
 - Animal
 

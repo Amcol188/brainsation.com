@@ -2,8 +2,6 @@
 title: 20 Most Insane Animal Attacks
 date: Tue, 09 Jan 2018 20:25:08 +0000
 thumbnailImage: ''
-hasnextpage: false
-hasprevpage: true
 specialpost: false
 tags:
 - Animal

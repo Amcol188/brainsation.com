@@ -2,6 +2,7 @@
 title: Snails Help Researcher Crack Memory Workings of the Brain
 date: Mon, 14 May 2018 22:34:26 +0000
 thumbnailImage: "/uploads/snail-810x478.jpg"
+specialpost: false
 tags:
 - Uncategorized
 

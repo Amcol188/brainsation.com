@@ -2,6 +2,7 @@
 title: Could You Follow This Flapper Diet From 100 Years Ago?
 date: Fri, 27 Apr 2018 20:31:18 +0000
 thumbnailImage: "/uploads/Barbara-La-Marr2.jpg"
+specialpost: false
 tags:
 - Economics
 - Healthcare

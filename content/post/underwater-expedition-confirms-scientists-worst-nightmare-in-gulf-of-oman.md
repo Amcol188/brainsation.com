@@ -2,6 +2,7 @@
 title: Underwater Expedition Confirms Scientists' Worst Nightmare in Gulf of Oman
 date: Wed, 16 May 2018 22:16:55 +0000
 thumbnailImage: "/uploads/gulf-of-oman2-fb-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

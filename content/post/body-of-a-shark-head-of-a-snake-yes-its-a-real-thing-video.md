@@ -2,6 +2,7 @@
 title: Body of a Shark, Head of a Snake? Yes, It's a Real Thing [VIDEO]
 date: Mon, 21 May 2018 13:46:08 +0000
 thumbnailImage: "/uploads/frilled-shark-screenshot-fb-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

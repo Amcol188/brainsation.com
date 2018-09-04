@@ -2,6 +2,7 @@
 title: 'Disney Just Got Dark: The Hidden Island Park They Want To Keep Secret'
 date: Tue, 15 May 2018 18:04:29 +0000
 thumbnailImage: "/uploads/Untitled-design-1-4.47.25-PM-810x425.jpg"
+specialpost: false
 tags:
 - abandoned island
 - Culture

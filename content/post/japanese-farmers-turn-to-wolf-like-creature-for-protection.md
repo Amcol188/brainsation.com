@@ -2,6 +2,7 @@
 title: Japanese Farmers Turn to Wolf-Like Creature for Protection
 date: Wed, 25 Apr 2018 20:51:14 +0000
 thumbnailImage: "/uploads/robowolf1.png"
+specialpost: false
 tags:
 - Economics
 - Healthcare

@@ -2,6 +2,7 @@
 title: Guests at 'The Shining' Hotel Accidentally Take Picture of Ghost
 date: Sun, 22 Apr 2018 17:14:22 +0000
 thumbnailImage: ''
+specialpost: false
 tags:
 - Economics
 - Healthcare

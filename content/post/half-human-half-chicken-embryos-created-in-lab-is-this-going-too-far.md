@@ -2,6 +2,7 @@
 title: Half Human, Half Chicken Embryos Created in Lab - Is This Going Too Far?
 date: Fri, 25 May 2018 16:37:36 +0000
 thumbnailImage: "/uploads/chicken-lab-researcher-fb-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

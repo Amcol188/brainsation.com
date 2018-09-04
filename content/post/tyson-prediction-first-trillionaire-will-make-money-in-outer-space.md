@@ -2,6 +2,7 @@
 title: 'Tyson Prediction: First Trillionaire Will Make Money in Outer Space'
 date: Mon, 23 Apr 2018 21:20:31 +0000
 thumbnailImage: "/uploads/gates-zuck-bezos.jpg"
+specialpost: false
 tags:
 - Science
 

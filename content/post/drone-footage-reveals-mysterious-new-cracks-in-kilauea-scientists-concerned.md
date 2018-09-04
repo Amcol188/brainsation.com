@@ -2,6 +2,7 @@
 title: Drone Footage Reveals Mysterious New Cracks in Kilauea - Scientists Concerned
 date: Sun, 03 Jun 2018 19:40:22 +0000
 thumbnailImage: "/uploads/kilauea-drone-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

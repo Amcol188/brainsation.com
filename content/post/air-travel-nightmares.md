@@ -2,6 +2,7 @@
 title: Check Out These Latest Air Travel Nightmares!
 date: Tue, 15 May 2018 18:10:56 +0000
 thumbnailImage: ''
+specialpost: false
 tags:
 - Culture
 

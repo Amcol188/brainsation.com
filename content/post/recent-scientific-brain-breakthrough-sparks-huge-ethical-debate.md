@@ -2,6 +2,7 @@
 title: Recent Scientific Brain Breakthrough Sparks Huge Ethical Debate
 date: Mon, 07 May 2018 15:46:00 +0000
 thumbnailImage: "/uploads/human-brain-nerve-inset-1-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

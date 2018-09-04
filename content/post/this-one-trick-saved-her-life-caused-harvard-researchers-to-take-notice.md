@@ -2,6 +2,7 @@
 title: This One Trick Saved Her Life & Caused Harvard Researchers to Take Notice
 date: Sun, 03 Jun 2018 18:54:45 +0000
 thumbnailImage: "/uploads/kathy-bero-food-fb-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

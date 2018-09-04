@@ -2,6 +2,7 @@
 title: Do You Know This Heimlich Maneuver for Dogs?
 date: Tue, 05 Jun 2018 20:25:55 +0000
 thumbnailImage: "/uploads/jrt-ball-fb-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

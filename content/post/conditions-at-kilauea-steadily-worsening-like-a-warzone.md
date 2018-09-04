@@ -2,6 +2,7 @@
 title: Conditions at Kilauea Steadily Worsening - "Like a Warzone"
 date: Sun, 20 May 2018 16:40:19 +0000
 thumbnailImage: "/uploads/kilauea-eruption-usgs-dailymail-1-810x457.jpg"
+specialpost: false
 tags:
 - Uncategorized
 

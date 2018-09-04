@@ -3,6 +3,7 @@ title: Scientists Create First Synthetic Embryos in Lab - Here's What it Means f
   Humans
 date: Wed, 09 May 2018 13:17:14 +0000
 thumbnailImage: "/uploads/researcher-3.png"
+specialpost: false
 tags:
 - Science
 

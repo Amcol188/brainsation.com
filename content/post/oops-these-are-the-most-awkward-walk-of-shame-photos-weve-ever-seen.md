@@ -2,6 +2,7 @@
 title: Oops! These Are The Most Awkward 'Walk Of Shame' Photos We've Ever Seen
 date: Fri, 12 Jan 2018 06:56:49 +0000
 thumbnailImage: ''
+specialpost: false
 tags:
 - Culture
 - dance

@@ -2,6 +2,7 @@
 title: This Ancient Temple Was Carved Top-Down Out of a Single, Massive Rock [Photos]
 date: Sun, 20 May 2018 16:51:09 +0000
 thumbnailImage: "/uploads/kaisha-temple-front-fb-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

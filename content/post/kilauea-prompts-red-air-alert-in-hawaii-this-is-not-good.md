@@ -2,6 +2,7 @@
 title: Kilauea Prompts Red Air Alert in Hawaii - This is NOT Good
 date: Thu, 17 May 2018 19:41:17 +0000
 thumbnailImage: "/uploads/kilauea-ash-red-fb-810x425.png"
+specialpost: false
 tags:
 - Science
 

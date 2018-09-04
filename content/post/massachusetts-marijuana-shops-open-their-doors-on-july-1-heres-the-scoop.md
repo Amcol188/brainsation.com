@@ -2,6 +2,7 @@
 title: Massachusetts Marijuana Shops Open Their Doors on July 1 - Here's the Scoop
 date: Thu, 31 May 2018 19:36:52 +0000
 thumbnailImage: "/uploads/marijuana-shop-fb-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

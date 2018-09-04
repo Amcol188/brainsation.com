@@ -2,6 +2,7 @@
 title: Major Cancer Breakthrough - Blood Test Detects Disease Years Before It Occurs
 date: Tue, 05 Jun 2018 21:42:18 +0000
 thumbnailImage: "/uploads/blood-test-tubes2-rosie-fb-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

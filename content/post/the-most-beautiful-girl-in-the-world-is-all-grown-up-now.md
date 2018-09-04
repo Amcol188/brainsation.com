@@ -2,6 +2,7 @@
 title: The 'Most Beautiful Girl in the World' Is All Grown Up Now...
 date: Mon, 16 Jul 2018 21:30:08 +0000
 thumbnailImage: "/uploads/a-14-300x200.jpg"
+specialpost: false
 tags:
 - Culture
 

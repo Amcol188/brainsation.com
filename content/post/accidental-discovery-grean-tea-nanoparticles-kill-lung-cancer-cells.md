@@ -2,6 +2,7 @@
 title: 'Accidental Discovery:  Grean Tea Nanoparticles Kill Lung Cancer Cells'
 date: Thu, 24 May 2018 19:10:58 +0000
 thumbnailImage: "/uploads/green-tea-latte-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

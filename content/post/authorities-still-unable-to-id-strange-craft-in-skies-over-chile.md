@@ -2,6 +2,7 @@
 title: Authorities Still Unable to ID Strange Craft in Skies Over Chile
 date: Mon, 23 Apr 2018 16:21:10 +0000
 thumbnailImage: ''
+specialpost: false
 tags:
 - Healthcare
 - Science

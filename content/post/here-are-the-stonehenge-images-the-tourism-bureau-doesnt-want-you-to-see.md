@@ -2,6 +2,7 @@
 title: Here are the Stonehenge Images the Tourism Bureau Doesn't Want You to See
 date: Fri, 18 May 2018 21:04:06 +0000
 thumbnailImage: "/uploads/stonehenge-drawing-fb-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

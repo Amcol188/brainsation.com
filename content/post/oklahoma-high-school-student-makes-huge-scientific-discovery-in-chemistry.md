@@ -2,6 +2,7 @@
 title: Oklahoma High School Student Makes Huge Scientific Discovery in Chemistry
 date: Mon, 21 May 2018 14:43:55 +0000
 thumbnailImage: "/uploads/student-desk-writing-fb-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

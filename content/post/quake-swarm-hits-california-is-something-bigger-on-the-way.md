@@ -2,6 +2,7 @@
 title: Quake Swarm Hits California - Is Something Bigger on the Way?
 date: Wed, 16 May 2018 20:28:06 +0000
 thumbnailImage: "/uploads/san-andreas-fault-1-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

@@ -2,6 +2,7 @@
 title: 20 GIFs That Show Live News Reporting Isn't Always A Great Idea
 date: Sun, 04 Mar 2018 06:54:41 +0000
 thumbnailImage: "/uploads/news-bloopers.jpg"
+specialpost: false
 tags:
 - funny gifs
 - funny news

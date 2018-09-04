@@ -2,6 +2,7 @@
 title: Astronomers Discover Hidden Galaxy Orbiting Around Milky Way
 date: Wed, 02 May 2018 17:02:44 +0000
 thumbnailImage: "/uploads/Milky-way-galaxy-810x584.jpg"
+specialpost: false
 tags:
 - Uncategorized
 

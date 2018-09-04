@@ -2,6 +2,7 @@
 title: Is Yellowstone About to Blow? Recent Geyser Eruptions Have Some People Worried
 date: Mon, 30 Apr 2018 15:58:38 +0000
 thumbnailImage: "/uploads/yellowstone-crested-pool-810x593.jpg"
+specialpost: false
 tags:
 - Science
 

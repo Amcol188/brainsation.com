@@ -2,6 +2,7 @@
 title: Swiss Scientists Observe Einstein's "Spooky Tale" in Action
 date: Mon, 30 Apr 2018 21:27:58 +0000
 thumbnailImage: "/uploads/einstein-fb-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

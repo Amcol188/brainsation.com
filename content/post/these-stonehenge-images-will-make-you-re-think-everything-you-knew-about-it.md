@@ -2,6 +2,7 @@
 title: These Stonehenge Images Will Make You Re-Think Everything You Knew About It
 date: Tue, 22 May 2018 21:56:16 +0000
 thumbnailImage: "/uploads/stonehenge-rosie-fb-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

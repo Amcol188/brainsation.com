@@ -2,6 +2,7 @@
 title: 'Kardashians: The Unknown Early Years'
 date: Thu, 05 Oct 2017 20:21:36 +0000
 thumbnailImage: "/uploads/7c2fbe6f0d9883d4c6ef7135c43e2148-1.jpg"
+specialpost: false
 tags:
 - Celebs
 - Entertainment

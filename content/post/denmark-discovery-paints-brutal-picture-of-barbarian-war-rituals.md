@@ -2,6 +2,7 @@
 title: Denmark Discovery Paints Brutal Picture of Barbarian War Rituals
 date: Wed, 23 May 2018 16:19:13 +0000
 thumbnailImage: "/uploads/barbarian-bones-fb-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

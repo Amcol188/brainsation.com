@@ -3,6 +3,7 @@ title: California's Recent Quake Storm Has Some People Worried - Is Something Bi
   Around the Corner
 date: Mon, 21 May 2018 21:30:27 +0000
 thumbnailImage: "/uploads/seismograph-drama-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

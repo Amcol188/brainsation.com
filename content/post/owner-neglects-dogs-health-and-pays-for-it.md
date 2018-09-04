@@ -2,6 +2,7 @@
 title: This Wolfeboro Millionaire Sobbed When the Judge Read the Verdict
 date: Sat, 26 May 2018 03:15:08 +0000
 thumbnailImage: "/uploads/Screen-Shot-2018-05-25-at-9.54.58-PM.png"
+specialpost: false
 tags:
 - Animal
 - Pet Care

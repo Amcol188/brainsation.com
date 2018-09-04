@@ -2,8 +2,6 @@
 title: 20 Celebrities You Had No Idea Are Atheist
 date: Mon, 08 Jan 2018 22:47:30 +0000
 thumbnailImage: ''
-hasnextpage: false
-hasprevpage: true
 specialpost: false
 tags:
 - Celebs

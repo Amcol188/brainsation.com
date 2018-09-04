@@ -2,6 +2,7 @@
 title: Wildlife Photographer Captures Battle Between Eagle & a Fox Over Dinner [Photos]
 date: Wed, 23 May 2018 21:08:16 +0000
 thumbnailImage: "/uploads/eagle-in-flight-fb-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

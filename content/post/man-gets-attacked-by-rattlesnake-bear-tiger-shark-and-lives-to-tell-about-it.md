@@ -3,6 +3,7 @@ title: Man Gets Attacked by Rattlesnake, Bear, & Tiger Shark - And Lives to Tell
   It
 date: Mon, 23 Apr 2018 17:32:19 +0000
 thumbnailImage: ''
+specialpost: false
 tags:
 - Economics
 - Healthcare

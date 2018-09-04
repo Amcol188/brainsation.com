@@ -2,6 +2,7 @@
 title: Archaeologists Find Rare Roman Statue... in Egypt
 date: Mon, 23 Apr 2018 22:26:52 +0000
 thumbnailImage: "/uploads/egypt-marcus-aurelius.jpg"
+specialpost: false
 tags:
 - Science
 

@@ -2,6 +2,7 @@
 title: Mesothelioma Patient is Alive Today Thanks to This North American Frog
 date: Fri, 01 Jun 2018 16:12:50 +0000
 thumbnailImage: "/uploads/northern-leopard-frog-fb-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

@@ -3,6 +3,7 @@ title: Wisconsin Woman Take Cancer Treatment Into Her Own Hands, Now Harvard is 
   Attention
 date: Thu, 31 May 2018 14:49:21 +0000
 thumbnailImage: "/uploads/kathy-bero-fb-810x425-1.png"
+specialpost: false
 tags:
 - Uncategorized
 

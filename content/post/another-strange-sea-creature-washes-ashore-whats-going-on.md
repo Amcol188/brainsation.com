@@ -2,6 +2,7 @@
 title: Another Strange Sea Creature Washes Ashore - What's Going On?
 date: Tue, 22 May 2018 21:31:32 +0000
 thumbnailImage: "/uploads/globster-philippines-epic-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

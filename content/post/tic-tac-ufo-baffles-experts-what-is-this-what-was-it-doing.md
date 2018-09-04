@@ -2,6 +2,7 @@
 title: '"Tic Tac" UFO Baffles Experts - What Is This & What Was It Doing?'
 date: Fri, 01 Jun 2018 21:42:04 +0000
 thumbnailImage: "/uploads/tic-tac-ufo-navy-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

@@ -2,8 +2,6 @@
 title: 10 Celebrity Children All Grown Up
 date: Fri, 18 Aug 2017 23:23:43 +0000
 thumbnailImage: ''
-hasnextpage: false
-hasprevpage: true
 specialpost: true
 tags:
 - Celebs

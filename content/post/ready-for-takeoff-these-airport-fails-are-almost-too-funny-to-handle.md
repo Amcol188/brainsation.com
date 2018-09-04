@@ -2,6 +2,7 @@
 title: Ready For Takeoff! These Airport Fails Are Almost Too Funny To Handle
 date: Fri, 19 Jan 2018 19:27:21 +0000
 thumbnailImage: "/uploads/11884ca6a446c3bb3a82c841dc47af4f (1).jpg"
+specialpost: false
 tags:
 - airports
 - Entertainment

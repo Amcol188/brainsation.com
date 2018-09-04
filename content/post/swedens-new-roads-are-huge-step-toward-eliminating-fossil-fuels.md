@@ -2,6 +2,7 @@
 title: Sweden's New Roads are Huge Step Toward Eliminating Fossil Fuels
 date: Thu, 03 May 2018 14:25:17 +0000
 thumbnailImage: "/uploads/sweden-electrid-road-fb-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

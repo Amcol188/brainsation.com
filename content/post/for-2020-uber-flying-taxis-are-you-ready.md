@@ -2,6 +2,7 @@
 title: 'For 2020: Uber Flying Taxis - Are You Ready?'
 date: Thu, 10 May 2018 19:36:47 +0000
 thumbnailImage: "/uploads/uber-flyiing-taxi-fb-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

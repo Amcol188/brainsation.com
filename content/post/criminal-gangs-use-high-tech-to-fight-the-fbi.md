@@ -2,6 +2,7 @@
 title: Criminal Gangs Use High Tech to Fight the FBI
 date: Wed, 09 May 2018 02:48:31 +0000
 thumbnailImage: "/uploads/drone-controller-810x425.png"
+specialpost: false
 tags:
 - Crime
 - Science

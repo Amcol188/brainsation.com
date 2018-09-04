@@ -2,6 +2,7 @@
 title: Ancient Clay Tablets Reveal Location of Lost City
 date: Fri, 25 May 2018 21:19:22 +0000
 thumbnailImage: "/uploads/clay-tablets-lost-city-fb-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

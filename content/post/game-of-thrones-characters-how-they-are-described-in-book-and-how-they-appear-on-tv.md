@@ -3,6 +3,7 @@ title: Game of Thrones Characters - How They Are Described in Book and How They 
   on TV
 date: Mon, 21 Aug 2017 19:36:33 +0000
 thumbnailImage: ''
+specialpost: false
 tags:
 - Culture
 - Entertainment

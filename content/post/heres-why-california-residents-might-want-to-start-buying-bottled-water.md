@@ -2,6 +2,7 @@
 title: Here's Why California Residents Might Want to Start Buying Bottled Water
 date: Wed, 25 Apr 2018 18:59:02 +0000
 thumbnailImage: "/uploads/ca-water-drinking2.jpg"
+specialpost: false
 tags:
 - Economics
 - Healthcare

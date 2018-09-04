@@ -2,6 +2,7 @@
 title: NASA Probe's Up Close Pictures of Jupiter
 date: Tue, 24 Apr 2018 21:21:25 +0000
 thumbnailImage: "/uploads/jupiter3-1024x614-810x486.jpg"
+specialpost: false
 tags:
 - Healthcare
 - Science

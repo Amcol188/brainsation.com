@@ -2,6 +2,7 @@
 title: NASA Just Took a Giant Leap Forward in It's Mission to Find Habitable Planets
 date: Sun, 22 Apr 2018 19:41:53 +0000
 thumbnailImage: ''
+specialpost: false
 tags:
 - Economics
 - Healthcare

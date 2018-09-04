@@ -2,6 +2,7 @@
 title: Utah Family Digging in Backyard Uncovers Ancient Horse
 date: Thu, 03 May 2018 21:00:53 +0000
 thumbnailImage: "/uploads/utah-horse-skeleton-epic-cbsdenver-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

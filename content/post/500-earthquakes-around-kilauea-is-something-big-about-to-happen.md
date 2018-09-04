@@ -2,6 +2,7 @@
 title: 500+ Earthquakes Around Kilauea - Is Something Big About to Happen?
 date: Mon, 04 Jun 2018 14:43:14 +0000
 thumbnailImage: "/uploads/kilauea-daytime-fb-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

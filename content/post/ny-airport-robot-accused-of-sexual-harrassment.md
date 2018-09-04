@@ -2,6 +2,7 @@
 title: NY Airport Robot Accused of Sexual Harrassment
 date: Fri, 04 May 2018 13:37:01 +0000
 thumbnailImage: "/uploads/laguardia-robot-fb-810x425.png"
+specialpost: false
 tags:
 - Science
 

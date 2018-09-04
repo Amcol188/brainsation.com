@@ -2,6 +2,7 @@
 title: Deep Sea Divers Encounter Bizarre Sea Creature
 date: Tue, 08 May 2018 19:12:41 +0000
 thumbnailImage: "/uploads/siphonore-fb-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

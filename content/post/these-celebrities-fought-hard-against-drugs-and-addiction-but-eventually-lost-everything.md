@@ -3,6 +3,7 @@ title: These Celebrities Fought Hard Against Drugs And Addiction, But Eventually
   Everything
 date: Mon, 15 Jan 2018 18:47:43 +0000
 thumbnailImage: "/uploads/recovering_drug_addict_celebrities_content.jpg"
+specialpost: false
 tags:
 - addiction
 - celebrities

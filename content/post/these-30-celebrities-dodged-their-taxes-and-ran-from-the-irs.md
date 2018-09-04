@@ -2,6 +2,7 @@
 title: 30 Celebrities Who Went Broke and Have To Work Normal Jobs
 date: Sat, 29 Jul 2017 20:12:15 +0000
 thumbnailImage: "/uploads/Celebs-Working-Normal-Jobs-1.jpg"
+specialpost: false
 tags:
 - Celebs
 - det

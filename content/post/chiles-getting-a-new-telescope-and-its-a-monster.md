@@ -2,6 +2,7 @@
 title: Chile's Getting a New Telescope -- And It's a Monster
 date: Wed, 09 May 2018 19:01:59 +0000
 thumbnailImage: "/uploads/elt-fb-810x425.png"
+specialpost: false
 tags:
 - Science
 

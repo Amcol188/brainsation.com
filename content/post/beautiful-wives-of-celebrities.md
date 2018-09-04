@@ -2,6 +2,7 @@
 title: 'Beautiful Wives of Celebrities: Then and Now'
 date: Mon, 27 Nov 2017 19:41:14 +0000
 thumbnailImage: "/uploads/Screen-Shot-2017-03-22-at-3.04.40-PM-2-810x544.png"
+specialpost: false
 tags:
 - Celebs
 

@@ -2,6 +2,7 @@
 title: Multiverse Dark Matter Findings Have Scientists Looking for New Law of Physics
 date: Wed, 16 May 2018 16:53:46 +0000
 thumbnailImage: "/uploads/Multiverse-possible-orig-810x540.jpg"
+specialpost: false
 tags:
 - Science
 

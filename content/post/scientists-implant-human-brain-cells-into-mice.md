@@ -3,6 +3,7 @@ title: Scientists Implant Human Brain Cells into Mice - You Won't Believe What H
   Next
 date: Thu, 19 Apr 2018 18:55:06 +0000
 thumbnailImage: "/uploads/lab-mouse-810x540.jpg"
+specialpost: false
 tags:
 - Science
 

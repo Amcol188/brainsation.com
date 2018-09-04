@@ -2,6 +2,7 @@
 title: Top 20 Smartest Presidents of All Time (And Where Trump Ranks Among Them)
 date: Mon, 23 Oct 2017 04:00:00 +0000
 thumbnailImage: ''
+specialpost: false
 tags:
 - Culture
 

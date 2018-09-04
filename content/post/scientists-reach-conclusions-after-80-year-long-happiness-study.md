@@ -2,6 +2,7 @@
 title: Scientists Reach Conclusions After 80 Year Long Happiness Study
 date: Tue, 24 Apr 2018 18:41:06 +0000
 thumbnailImage: "/uploads/relationship-810x540.jpg"
+specialpost: false
 tags:
 - Healthcare
 - Science

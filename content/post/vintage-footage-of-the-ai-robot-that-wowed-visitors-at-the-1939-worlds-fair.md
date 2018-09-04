@@ -2,6 +2,7 @@
 title: Vintage Footage of the AI Robot That Wowed Visitors at the 1939 World's Fair
 date: Thu, 24 May 2018 16:04:44 +0000
 thumbnailImage: "/uploads/electro-robot-man-fb-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

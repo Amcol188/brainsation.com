@@ -2,6 +2,7 @@
 title: Lava Closing in on Hawaiian Power Plant - This is NOT Good
 date: Wed, 23 May 2018 15:12:34 +0000
 thumbnailImage: "/uploads/kilauea-lava-flow-2.jpg"
+specialpost: false
 tags:
 - Uncategorized
 

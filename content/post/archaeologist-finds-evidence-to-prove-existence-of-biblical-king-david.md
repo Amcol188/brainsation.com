@@ -2,6 +2,7 @@
 title: Archaeologist Finds Evidence to Prove Existence of Biblical King David
 date: Wed, 02 May 2018 15:01:45 +0000
 thumbnailImage: "/uploads/king-david-city-eglon-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

@@ -2,6 +2,7 @@
 title: Rare Tasmanian Tiger Could Soon Be Brought Back from Extinction
 date: Thu, 03 May 2018 19:20:50 +0000
 thumbnailImage: "/uploads/tasmanian-tigers-fb-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

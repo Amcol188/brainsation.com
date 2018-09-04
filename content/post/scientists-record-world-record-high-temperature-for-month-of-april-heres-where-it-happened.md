@@ -3,6 +3,7 @@ title: Scientists Record World Record High Temperature for Month of April - Here
   Where It Happened
 date: Fri, 04 May 2018 15:09:25 +0000
 thumbnailImage: "/uploads/afghan-nomads-fb-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

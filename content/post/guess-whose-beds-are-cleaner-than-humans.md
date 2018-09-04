@@ -2,6 +2,7 @@
 title: Guess Whose Beds are Cleaner Than Humans'?
 date: Thu, 17 May 2018 18:24:48 +0000
 thumbnailImage: "/uploads/chimpanzees-sitting-fb-810x425.png"
+specialpost: false
 tags:
 - Science
 

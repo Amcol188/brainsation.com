@@ -2,6 +2,7 @@
 title: 'Yale Educated Psychiatrist Stuns Colleagues: "Demonic Possession is Real"'
 date: Sun, 03 Jun 2018 20:32:45 +0000
 thumbnailImage: "/uploads/exorcism-richard-gallagher-fb-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

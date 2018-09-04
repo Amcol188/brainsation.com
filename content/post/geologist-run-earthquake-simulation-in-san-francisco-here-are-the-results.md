@@ -2,6 +2,7 @@
 title: Geologist Run Earthquake Simulation in San Francisco, Here are the Results
 date: Tue, 24 Apr 2018 18:30:47 +0000
 thumbnailImage: "/uploads/quake1.jpg"
+specialpost: false
 tags:
 - Economics
 - Healthcare

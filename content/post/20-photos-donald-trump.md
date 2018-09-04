@@ -2,8 +2,6 @@
 title: 20 Photos Donald Trump Doesn't Want You To See
 date: Wed, 22 Nov 2017 00:22:17 +0000
 thumbnailImage: ''
-hasnextpage: false
-hasprevpage: true
 specialpost: false
 tags:
 - Politics

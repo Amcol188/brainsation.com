@@ -2,6 +2,7 @@
 title: Top 20 Celebs You Didn't Know Were Gay
 date: Wed, 30 Aug 2017 18:31:34 +0000
 thumbnailImage: ''
+specialpost: false
 tags:
 - Celebs
 - Culture

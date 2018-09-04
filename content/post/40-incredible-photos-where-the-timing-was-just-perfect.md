@@ -2,6 +2,7 @@
 title: 40 Incredible Photos Where The Timing Was Just Perfect
 date: Tue, 26 Jun 2018 17:02:53 +0000
 thumbnailImage: "/uploads/35-1517394261412.jpg"
+specialpost: false
 tags:
 - Culture
 - rc

@@ -2,6 +2,7 @@
 title: 'Bezos'' Latest Brainstorm: A Walking, Talking Alexa in Every Home'
 date: Tue, 24 Apr 2018 18:46:07 +0000
 thumbnailImage: "/uploads/jeff-bezos-creepy-810x661.jpg"
+specialpost: false
 tags:
 - Economics
 - Healthcare

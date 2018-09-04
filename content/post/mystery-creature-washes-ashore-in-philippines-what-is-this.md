@@ -2,6 +2,7 @@
 title: Mystery Creature Washes Ashore in Philippines - What IS This?
 date: Thu, 17 May 2018 14:16:32 +0000
 thumbnailImage: "/uploads/mystery-fish-philippines-fb-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

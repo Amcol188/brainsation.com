@@ -2,6 +2,7 @@
 title: Yes, There Used to Be Giant Sloths and Humans Used to Hunt Them
 date: Thu, 26 Apr 2018 20:37:40 +0000
 thumbnailImage: "/uploads/giant-sloth-humans-810x328.jpg"
+specialpost: false
 tags:
 - Healthcare
 - Science

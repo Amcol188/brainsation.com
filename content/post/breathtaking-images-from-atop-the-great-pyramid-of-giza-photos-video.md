@@ -2,6 +2,7 @@
 title: Breathtaking Images from Atop the Great Pyramid of Giza [Photos & Video]
 date: Tue, 05 Jun 2018 14:55:08 +0000
 thumbnailImage: "/uploads/great-pyramids-festive.png"
+specialpost: false
 tags:
 - Uncategorized
 

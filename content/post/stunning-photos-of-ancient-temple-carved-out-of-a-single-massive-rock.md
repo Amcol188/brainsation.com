@@ -2,6 +2,7 @@
 title: Stunning Photos of Ancient Temple Carved Out of a Single, Massive Rock
 date: Thu, 17 May 2018 15:51:08 +0000
 thumbnailImage: "/uploads/kaisha-temple-front-fb-810x425-1.png"
+specialpost: false
 tags:
 - Uncategorized
 

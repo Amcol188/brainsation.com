@@ -2,6 +2,7 @@
 title: Real Life 'Lassie' Leads Rescuers to Little Girl Lost in Wilderness
 date: Mon, 23 Apr 2018 19:03:25 +0000
 thumbnailImage: "/uploads/max.jpg"
+specialpost: false
 tags:
 - Animal
 

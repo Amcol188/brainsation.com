@@ -2,6 +2,7 @@
 title: Latest Update from Kilauea - Volcano-Created Glass Blowing in the Wind
 date: Thu, 31 May 2018 13:21:44 +0000
 thumbnailImage: "/uploads/peles-hair-fb-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

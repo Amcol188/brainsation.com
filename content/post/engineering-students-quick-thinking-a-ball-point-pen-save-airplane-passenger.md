@@ -2,6 +2,7 @@
 title: Engineering Student's Quick Thinking & a Ball Point Pen Save Airplane Passenger
 date: Fri, 18 May 2018 20:36:08 +0000
 thumbnailImage: "/uploads/plane-engineering-student-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

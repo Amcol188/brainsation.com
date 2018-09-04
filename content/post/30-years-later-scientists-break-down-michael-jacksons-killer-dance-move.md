@@ -2,6 +2,7 @@
 title: 30 Years Later Scientists Break Down Michael Jackson's Killer Dance Move
 date: Wed, 23 May 2018 19:03:18 +0000
 thumbnailImage: "/uploads/michael-jackson-lean-statue-810x537.jpg"
+specialpost: false
 tags:
 - Uncategorized
 

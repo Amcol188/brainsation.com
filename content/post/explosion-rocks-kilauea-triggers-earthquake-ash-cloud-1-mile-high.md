@@ -2,6 +2,7 @@
 title: Explosion Rocks Kilauea - Triggers Earthquake & Ash Cloud 1 Mile High
 date: Tue, 05 Jun 2018 21:27:15 +0000
 thumbnailImage: "/uploads/kilauea-erupting-rosie-fb-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

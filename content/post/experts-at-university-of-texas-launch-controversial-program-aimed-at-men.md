@@ -2,6 +2,7 @@
 title: Experts at University of Texas Launch Controversial Program Aimed at Men
 date: Mon, 30 Apr 2018 17:24:04 +0000
 thumbnailImage: "/uploads/john-wayne-810x608.jpg"
+specialpost: false
 tags:
 - Economics
 - Healthcare

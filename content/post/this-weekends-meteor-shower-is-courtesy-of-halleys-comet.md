@@ -2,6 +2,7 @@
 title: This Weekend's Meteor Shower is Courtesy of Halley's Comet
 date: Thu, 03 May 2018 20:46:10 +0000
 thumbnailImage: "/uploads/halleys-comet-epic-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

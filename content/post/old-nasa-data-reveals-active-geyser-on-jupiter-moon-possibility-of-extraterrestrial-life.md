@@ -3,6 +3,7 @@ title: Old NASA Data Reveals Active Geyser on Jupiter Moon - Possibility of Extr
   Life
 date: Wed, 16 May 2018 14:58:30 +0000
 thumbnailImage: "/uploads/europa-full2-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

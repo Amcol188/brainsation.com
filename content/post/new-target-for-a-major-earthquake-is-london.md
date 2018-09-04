@@ -2,6 +2,7 @@
 title: New Target for a Major Earthquake is... London?
 date: Fri, 01 Jun 2018 16:42:07 +0000
 thumbnailImage: "/uploads/london-westminster-palace-810x319 (1).jpg"
+specialpost: false
 tags:
 - Uncategorized
 

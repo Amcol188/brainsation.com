@@ -2,6 +2,7 @@
 title: Plant Full of Dangerous Chemicals Now Threatened By Kilauea
 date: Wed, 16 May 2018 12:52:09 +0000
 thumbnailImage: "/uploads/kilauea-lava-crater-night-pixabay-810x543.jpg"
+specialpost: false
 tags:
 - Uncategorized
 

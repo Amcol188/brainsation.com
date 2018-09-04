@@ -2,6 +2,7 @@
 title: Asteroid Discovered Saturday Morning Entered Atmosphere Later That Night
 date: Mon, 04 Jun 2018 16:20:55 +0000
 thumbnailImage: "/uploads/south-africa-asteroid-fb-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

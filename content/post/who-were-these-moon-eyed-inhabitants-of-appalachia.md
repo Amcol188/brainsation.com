@@ -2,6 +2,7 @@
 title: Who Were These "Moon-Eyed" Inhabitants of Appalachia?
 date: Mon, 21 May 2018 16:54:26 +0000
 thumbnailImage: "/uploads/moon-eyed-fb-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

@@ -2,6 +2,7 @@
 title: Man Emerges As Vietnam War Soldier Missing For 40 Years
 date: Tue, 27 Mar 2018 17:46:12 +0000
 thumbnailImage: "/uploads/untitled-design-21-1521150865679.jpg"
+specialpost: false
 tags:
 - army
 - Culture

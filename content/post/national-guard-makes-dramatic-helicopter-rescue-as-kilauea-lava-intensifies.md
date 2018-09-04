@@ -2,6 +2,7 @@
 title: National Guard Makes Dramatic Helicopter Rescue as Kilauea Lava Intensifies
 date: Sat, 19 May 2018 19:12:00 +0000
 thumbnailImage: "/uploads/national-guard-fb-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

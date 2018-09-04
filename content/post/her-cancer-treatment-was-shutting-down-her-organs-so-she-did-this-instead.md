@@ -2,6 +2,7 @@
 title: Her Cancer Treatment Was Shutting Down Her Organs, So She Did This Instead
 date: Sat, 02 Jun 2018 19:31:37 +0000
 thumbnailImage: "/uploads/kathy-bero-fb-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

@@ -2,6 +2,7 @@
 title: Blood Test Can Detect Cancer Years Before Diagnosis - Hailed as Major Breakthrough
 date: Fri, 01 Jun 2018 18:51:14 +0000
 thumbnailImage: "/uploads/blood-samples-fb-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

@@ -2,6 +2,7 @@
 title: After Losing Ear in Tragic Accident, Doctors Grow Her a Replacement
 date: Fri, 11 May 2018 15:39:14 +0000
 thumbnailImage: "/uploads/womans-ear-fb-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

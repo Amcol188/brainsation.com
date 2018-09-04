@@ -2,6 +2,7 @@
 title: Jupiter at It's Closest in Years - Here's How to See It
 date: Wed, 16 May 2018 14:31:59 +0000
 thumbnailImage: "/uploads/jupiter-close-fb-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

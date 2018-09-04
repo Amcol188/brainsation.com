@@ -2,8 +2,6 @@
 title: 20 Celebs You Didn't Realize Were Transgender
 date: Fri, 29 Dec 2017 21:27:22 +0000
 thumbnailImage: ''
-hasnextpage: false
-hasprevpage: true
 specialpost: false
 tags:
 - Celebs

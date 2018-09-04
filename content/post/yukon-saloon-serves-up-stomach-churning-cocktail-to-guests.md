@@ -2,6 +2,7 @@
 title: Yukon Saloon Serves Up Stomach Churning Cocktail to Guests
 date: Mon, 23 Apr 2018 17:50:40 +0000
 thumbnailImage: ''
+specialpost: false
 tags:
 - Healthcare
 - Science

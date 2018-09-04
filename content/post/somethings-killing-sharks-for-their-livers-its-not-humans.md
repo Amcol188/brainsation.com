@@ -2,6 +2,7 @@
 title: Something's Killing Sharks for Their Livers & It's Not Humans
 date: Fri, 25 May 2018 21:07:29 +0000
 thumbnailImage: "/uploads/Lemonshark-1-810x442.jpg"
+specialpost: false
 tags:
 - Uncategorized
 

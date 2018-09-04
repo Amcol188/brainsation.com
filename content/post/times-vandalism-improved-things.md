@@ -2,6 +2,7 @@
 title: Artsy, Clever Vandalism That'll Make You Look At Your Dull World Differently
 date: Tue, 13 Jun 2017 03:12:43 +0000
 thumbnailImage: ''
+specialpost: false
 tags:
 - Culture
 - det

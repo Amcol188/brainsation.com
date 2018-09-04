@@ -2,6 +2,7 @@
 title: It Took 45 Years For 'The Keepers' Investigators To Rule This Out
 date: Tue, 11 Jul 2017 18:14:32 +0000
 thumbnailImage: ''
+specialpost: false
 tags:
 - Crime
 - det

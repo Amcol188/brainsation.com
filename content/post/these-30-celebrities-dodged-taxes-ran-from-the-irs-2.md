@@ -2,6 +2,7 @@
 title: These 30 Celebrities Dodged Their Taxes And Ran From The IRS
 date: Sat, 29 Jul 2017 20:43:49 +0000
 thumbnailImage: "/uploads/Celebs-Working-Normal-Jobs-1.jpg"
+specialpost: false
 tags:
 - Celebs
 - dtmob

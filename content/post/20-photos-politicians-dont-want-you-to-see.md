@@ -2,6 +2,7 @@
 title: 20 Photos Politicians Don't Want You to See
 date: Mon, 06 Nov 2017 21:15:22 +0000
 thumbnailImage: ''
+specialpost: false
 tags:
 - Politics
 

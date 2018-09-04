@@ -2,6 +2,7 @@
 title: The Details Behind NASA's Latest Mission to Mars
 date: Thu, 03 May 2018 14:43:20 +0000
 thumbnailImage: "/uploads/mars-insight-artist-810x425.png"
+specialpost: false
 tags:
 - Science
 

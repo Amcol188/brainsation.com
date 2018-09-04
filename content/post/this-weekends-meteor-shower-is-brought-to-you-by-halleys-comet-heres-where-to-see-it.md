@@ -3,6 +3,7 @@ title: This Weekend's Meteor Shower is Brought to You By Halley's Comet - Here's
   to See It
 date: Fri, 04 May 2018 17:57:51 +0000
 thumbnailImage: "/uploads/halleys-comet-red-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

@@ -2,6 +2,7 @@
 title: Tiny Ancient Bird Mummy Turns Out to Be a Human
 date: Mon, 04 Jun 2018 21:10:34 +0000
 thumbnailImage: "/uploads/bird-mummy-fb-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

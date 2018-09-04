@@ -2,6 +2,7 @@
 title: NASA Hacked a Workaround for Mars Rover's Broken Drill -- And It's Brilliant
 date: Tue, 05 Jun 2018 18:32:02 +0000
 thumbnailImage: "/uploads/curiosity-rover-fb-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

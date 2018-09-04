@@ -2,6 +2,7 @@
 title: Yes, There Really Are Exploding Ants
 date: Mon, 30 Apr 2018 22:23:31 +0000
 thumbnailImage: "/uploads/suicide-ants2-1-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

@@ -3,6 +3,7 @@ title: Google Announces Project with Defense Dept, Then Strikes "Don't Be Evil" 
   Code of Conduct
 date: Mon, 21 May 2018 20:23:51 +0000
 thumbnailImage: "/uploads/google-epic-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

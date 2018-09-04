@@ -2,6 +2,7 @@
 title: Hawaii Mayor Issues Stern Warning in Lieu of Latest Kilauea Developments
 date: Fri, 01 Jun 2018 20:41:27 +0000
 thumbnailImage: "/uploads/hawaii-mayor-kilauea-1-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

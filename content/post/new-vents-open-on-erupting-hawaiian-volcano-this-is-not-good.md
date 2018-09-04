@@ -2,6 +2,7 @@
 title: New Vents Open on Erupting Hawaiian Volcano - This is NOT Good
 date: Sun, 06 May 2018 17:32:14 +0000
 thumbnailImage: "/uploads/kilauea-lava-fb-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

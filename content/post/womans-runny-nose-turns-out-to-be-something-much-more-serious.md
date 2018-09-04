@@ -2,6 +2,7 @@
 title: Woman's Runny Nose Turns Out to Be Something Much More Serious
 date: Thu, 10 May 2018 18:57:16 +0000
 thumbnailImage: "/uploads/woman-hay-fever-fb-810x425.png"
+specialpost: false
 tags:
 - Healthcare
 - Science

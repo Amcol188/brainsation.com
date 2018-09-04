@@ -2,6 +2,7 @@
 title: Experts Issue Dire Warning for Hawaiians as Kilauea Continues to Rumble
 date: Fri, 11 May 2018 21:29:50 +0000
 thumbnailImage: "/uploads/kilauea-fissures-2-fb-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

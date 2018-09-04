@@ -2,6 +2,7 @@
 title: Wolf-Like Creature Killed on Montana Ranch - What is This?
 date: Fri, 25 May 2018 13:20:19 +0000
 thumbnailImage: "/uploads/wolf-creature-fb-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

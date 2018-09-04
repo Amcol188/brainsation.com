@@ -2,6 +2,7 @@
 title: Half Mammal Half Reptile? Yep, & One's Skeleton Was Just Discovered in Utah
 date: Wed, 30 May 2018 22:20:32 +0000
 thumbnailImage: "/uploads/archaeologist-dig-1-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

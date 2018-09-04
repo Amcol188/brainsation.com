@@ -3,6 +3,7 @@ title: Fly from LA to NY in Half the Time with No Sonic Boom? NASA Says They Can
   It
 date: Mon, 14 May 2018 20:35:24 +0000
 thumbnailImage: "/uploads/nasa-plane-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

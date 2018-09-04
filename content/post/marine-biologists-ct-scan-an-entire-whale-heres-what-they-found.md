@@ -2,6 +2,7 @@
 title: Marine Biologists CT Scan an Entire Whale - Here's What They Found
 date: Wed, 25 Apr 2018 16:51:36 +0000
 thumbnailImage: "/uploads/minke-whale.jpg"
+specialpost: false
 tags:
 - Healthcare
 - Science

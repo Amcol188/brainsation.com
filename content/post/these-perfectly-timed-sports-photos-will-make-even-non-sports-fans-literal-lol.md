@@ -3,6 +3,7 @@ title: These Perfectly-Timed Sports Photos Will Make Even Non-Sports Fans Litera
   LOL
 date: Fri, 12 Jan 2018 01:44:51 +0000
 thumbnailImage: ''
+specialpost: false
 tags:
 - Entertainment
 - funny photos

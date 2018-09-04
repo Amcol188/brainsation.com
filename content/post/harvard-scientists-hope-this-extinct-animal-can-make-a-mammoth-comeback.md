@@ -2,6 +2,7 @@
 title: Harvard Scientists Hope This Extinct Animal Can Make a 'Mammoth' Comeback
 date: Tue, 01 May 2018 18:13:42 +0000
 thumbnailImage: "/uploads/woolly-mammoth-waco-wikim-810x540.jpg"
+specialpost: false
 tags:
 - Animal
 - Science

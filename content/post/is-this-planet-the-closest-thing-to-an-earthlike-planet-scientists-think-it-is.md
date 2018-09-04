@@ -3,6 +3,7 @@ title: Is This Planet the Closest Thing to an Earthlike Planet?  Scientists Thin
   It Is
 date: Tue, 08 May 2018 23:42:41 +0000
 thumbnailImage: "/uploads/trappist1-system-artist-810x539.jpg"
+specialpost: false
 tags:
 - Science
 

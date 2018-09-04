@@ -2,6 +2,7 @@
 title: Tiffany Is Not The “Forgotten Trump” And Here's Why
 date: Tue, 13 Jun 2017 03:27:24 +0000
 thumbnailImage: ''
+specialpost: false
 tags:
 - det
 - Politics

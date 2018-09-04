@@ -2,6 +2,7 @@
 title: Journalist Accidentally Given Files to Secret Government Project
 date: Sat, 21 Apr 2018 21:36:02 +0000
 thumbnailImage: ''
+specialpost: false
 tags:
 - Economics
 - Healthcare

@@ -2,6 +2,7 @@
 title: Court Hands Down Verdict in 'Monkey See, Monkey Selfie' Case
 date: Tue, 24 Apr 2018 18:03:42 +0000
 thumbnailImage: "/uploads/SFQuake.jpg"
+specialpost: false
 tags:
 - Economics
 - Healthcare

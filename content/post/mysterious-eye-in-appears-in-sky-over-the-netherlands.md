@@ -2,6 +2,7 @@
 title: Mysterious Eye in Appears in Sky Over the Netherlands
 date: Wed, 02 May 2018 21:44:19 +0000
 thumbnailImage: "/uploads/crowd-looking-up-fb-810x425.png"
+specialpost: false
 tags:
 - Science
 

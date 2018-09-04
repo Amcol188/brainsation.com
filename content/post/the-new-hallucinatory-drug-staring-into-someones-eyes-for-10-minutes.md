@@ -2,6 +2,7 @@
 title: 'The New Hallucinatory Drug: Staring Into Someone''s Eyes for 10 Minutes'
 date: Thu, 31 May 2018 17:57:14 +0000
 thumbnailImage: "/uploads/redhair-eyes-scarf-fb-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

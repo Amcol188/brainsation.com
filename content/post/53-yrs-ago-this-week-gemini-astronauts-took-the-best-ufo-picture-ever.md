@@ -2,6 +2,7 @@
 title: 53 Yrs Ago This Week, Gemini Astronauts Took the Best UFO Picture Ever
 date: Tue, 05 Jun 2018 20:38:46 +0000
 thumbnailImage: "/uploads/gemini-astronauts-fb-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

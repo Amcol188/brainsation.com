@@ -2,6 +2,7 @@
 title: Just Some Pics Of Girls Wearing Yoga Pants To Help Brighten Your Day
 date: Wed, 17 Jan 2018 19:44:19 +0000
 thumbnailImage: "/uploads/15-the-best-yoga-pants-ever-to-see-humor-boss-3-600x560.jpg"
+specialpost: false
 tags:
 - Culture
 - Fitness

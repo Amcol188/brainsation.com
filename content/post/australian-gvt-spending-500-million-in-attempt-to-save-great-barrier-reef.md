@@ -2,6 +2,7 @@
 title: Australian Gvt Spending $500 Million in Attempt to Save Great Barrier Reef
 date: Wed, 02 May 2018 21:13:23 +0000
 thumbnailImage: "/uploads/great-barrier-reef-fb-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

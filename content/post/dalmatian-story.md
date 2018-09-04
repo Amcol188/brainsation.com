@@ -3,6 +3,7 @@ title: Entire Family Gathers Around Dalmatian To Witness Something Spectacular..
   Keep You Eyes On The Dog
 date: Wed, 15 Nov 2017 07:05:50 +0000
 thumbnailImage: "/uploads/Nicole-Richie-and-Kim-Kardashian-298x300.jpg"
+specialpost: false
 tags:
 - Uncategorized
 

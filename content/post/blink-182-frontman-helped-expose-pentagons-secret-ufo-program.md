@@ -2,6 +2,7 @@
 title: Blink 182 Frontman Helped Expose Pentagon's Secret UFO Program
 date: Thu, 31 May 2018 16:09:16 +0000
 thumbnailImage: "/uploads/tom-delonge-ufo-fb-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

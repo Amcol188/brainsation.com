@@ -2,6 +2,7 @@
 title: Ridiculous Celebrity Impulse Buys That Will Blow Your Socks Off
 date: Tue, 13 Jun 2017 02:52:05 +0000
 thumbnailImage: ''
+specialpost: false
 tags:
 - Celebs
 - det

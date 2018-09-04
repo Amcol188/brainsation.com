@@ -2,6 +2,7 @@
 title: New Jersey Beach Gets Visit from Sea Monster
 date: Tue, 08 May 2018 15:19:19 +0000
 thumbnailImage: "/uploads/dinosaur-sturgeon-beach-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

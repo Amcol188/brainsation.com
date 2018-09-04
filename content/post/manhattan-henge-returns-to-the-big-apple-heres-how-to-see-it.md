@@ -2,6 +2,7 @@
 title: '"Manhattan-henge" Returns to the Big Apple -- Here''s How to See It'
 date: Wed, 30 May 2018 20:15:58 +0000
 thumbnailImage: "/uploads/manhattanhenge-fb-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

@@ -2,6 +2,7 @@
 title: Google Employees Resign En Masse Over Government Project
 date: Thu, 17 May 2018 20:21:25 +0000
 thumbnailImage: "/uploads/google-offices-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

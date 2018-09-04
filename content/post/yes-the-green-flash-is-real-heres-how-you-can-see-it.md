@@ -2,6 +2,7 @@
 title: Yes, the "Green Flash" is Real - Here's How You Can See It
 date: Thu, 24 May 2018 20:09:21 +0000
 thumbnailImage: "/uploads/green-flash-arrow-1-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

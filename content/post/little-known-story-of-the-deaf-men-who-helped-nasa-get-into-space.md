@@ -2,6 +2,7 @@
 title: Little Known Story of the Deaf Men Who Helped NASA Get Into Space
 date: Wed, 25 Apr 2018 17:25:27 +0000
 thumbnailImage: "/uploads/hidden-figures-810x456.jpg"
+specialpost: false
 tags:
 - Economics
 - Healthcare

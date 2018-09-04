@@ -3,6 +3,7 @@ title: Observation from Space Could Change Everything We Know About the History 
   North America
 date: Thu, 24 May 2018 17:39:03 +0000
 thumbnailImage: "/uploads/vikings-slavs-fb-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

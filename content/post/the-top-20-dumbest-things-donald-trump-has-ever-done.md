@@ -2,6 +2,7 @@
 title: The Top 20 Dumbest Things Donald Trump Has Ever Done
 date: Wed, 25 Oct 2017 04:00:00 +0000
 thumbnailImage: ''
+specialpost: false
 tags:
 - Politics
 

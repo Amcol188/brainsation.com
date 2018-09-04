@@ -3,6 +3,7 @@ title: Houston Company Creates Underwater "Transformer" - With a Submarine Inste
   of a Car
 date: Fri, 11 May 2018 17:00:59 +0000
 thumbnailImage: "/uploads/aquanut-fb-810x425.png"
+specialpost: false
 tags:
 - Science
 

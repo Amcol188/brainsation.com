@@ -2,6 +2,7 @@
 title: Welsh Scientist Thinks He's Solved One of Stonehenge's Most Baffling Mysteries
 date: Wed, 16 May 2018 21:42:49 +0000
 thumbnailImage: "/uploads/stonehenge-epic-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

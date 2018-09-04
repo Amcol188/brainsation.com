@@ -2,6 +2,7 @@
 title: Nerdy & Creepy Cuff Links of 1900 Pay Homage to Louis Pasteur
 date: Thu, 03 May 2018 19:48:19 +0000
 thumbnailImage: "/uploads/plague-cufflinks-sciencemuseum-fb-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

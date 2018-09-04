@@ -2,6 +2,7 @@
 title: What the Heck Just Happened at Yellowstone?
 date: Wed, 25 Apr 2018 15:33:29 +0000
 thumbnailImage: "/uploads/yellowstone-crested-pool-1024x749-810x592.jpg"
+specialpost: false
 tags:
 - Science
 

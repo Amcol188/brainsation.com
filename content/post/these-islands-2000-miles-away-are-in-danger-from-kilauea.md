@@ -2,6 +2,7 @@
 title: These Islands 2,000 Miles Away are in Danger from Kilauea
 date: Tue, 29 May 2018 16:46:53 +0000
 thumbnailImage: "/uploads/marshall-islands-fb-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

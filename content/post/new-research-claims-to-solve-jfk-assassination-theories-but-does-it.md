@@ -2,6 +2,7 @@
 title: New Research Claims to Solve JFK Assassination Theories, But Does It?
 date: Sun, 29 Apr 2018 17:56:39 +0000
 thumbnailImage: "/uploads/jfk-costner-810x508.jpg"
+specialpost: false
 tags:
 - Economics
 - Healthcare

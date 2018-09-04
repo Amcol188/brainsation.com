@@ -2,6 +2,7 @@
 title: The 20 Richest Politicians in the World
 date: Thu, 16 Nov 2017 22:36:22 +0000
 thumbnailImage: ''
+specialpost: false
 tags:
 - Politics
 

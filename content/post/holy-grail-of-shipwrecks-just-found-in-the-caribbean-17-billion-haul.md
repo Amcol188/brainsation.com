@@ -2,6 +2,7 @@
 title: '"Holy Grail" of Shipwrecks Just Found in the Caribbean - $17 Billion Haul'
 date: Thu, 24 May 2018 14:39:21 +0000
 thumbnailImage: "/uploads/spanish-treasure-fb-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

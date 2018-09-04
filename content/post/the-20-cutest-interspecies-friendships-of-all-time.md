@@ -2,6 +2,7 @@
 title: The 20 Cutest Interspecies Friendships of All Time!
 date: Wed, 03 Jan 2018 20:22:10 +0000
 thumbnailImage: ''
+specialpost: false
 tags:
 - Animal
 

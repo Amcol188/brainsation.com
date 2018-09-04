@@ -2,6 +2,7 @@
 title: Scientists Discover Surprising Hidden Benefit of Fasting
 date: Mon, 07 May 2018 20:12:25 +0000
 thumbnailImage: "/uploads/researcher-lab-woman-back-epic-1-810x425-1.png"
+specialpost: false
 tags:
 - Healthcare
 

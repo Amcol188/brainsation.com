@@ -2,6 +2,7 @@
 title: Science Detectives Explain Secret of Ancient Oracle at Delphi
 date: Fri, 18 May 2018 16:59:49 +0000
 thumbnailImage: "/uploads/delphi-temple-fb-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

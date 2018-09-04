@@ -2,6 +2,7 @@
 title: Startup Company Aims to Reverse Aging in Dogs - Humans are Next
 date: Thu, 17 May 2018 20:06:17 +0000
 thumbnailImage: "/uploads/happy-puppy-fb-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

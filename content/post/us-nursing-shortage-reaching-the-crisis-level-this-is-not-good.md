@@ -2,6 +2,7 @@
 title: US Nursing Shortage Reaching the Crisis Level - This is Not Good
 date: Tue, 05 Jun 2018 17:35:52 +0000
 thumbnailImage: "/uploads/nurses-patient-epic-810x425 (1).png"
+specialpost: false
 tags:
 - Uncategorized
 

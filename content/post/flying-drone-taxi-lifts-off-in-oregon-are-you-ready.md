@@ -2,6 +2,7 @@
 title: Flying Drone Taxi Lifts Off in Oregon - Are You Ready?
 date: Fri, 27 Apr 2018 19:52:50 +0000
 thumbnailImage: "/uploads/the-verge-flying-car-810x540.jpg"
+specialpost: false
 tags:
 - Economics
 - Healthcare

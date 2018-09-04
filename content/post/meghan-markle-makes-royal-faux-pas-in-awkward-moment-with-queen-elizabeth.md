@@ -2,6 +2,7 @@
 title: Meghan Markle Makes Royal Faux Pas In Awkward Moment With Queen Elizabeth
 date: Tue, 17 Jul 2018 05:56:06 +0000
 thumbnailImage: "/uploads/featured2-810x425.jpg"
+specialpost: false
 tags:
 - Celebs
 

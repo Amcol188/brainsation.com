@@ -2,6 +2,7 @@
 title: Russia’s ‘Floating Chernobyl’ Alarms Officials
 date: Mon, 30 Apr 2018 15:41:07 +0000
 thumbnailImage: "/uploads/floating-nuke-plant-artist.jpg"
+specialpost: false
 tags:
 - Economics
 - Healthcare

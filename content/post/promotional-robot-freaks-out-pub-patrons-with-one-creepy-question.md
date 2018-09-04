@@ -2,6 +2,7 @@
 title: Promotional Robot Freaks Out Pub Patrons with One Creepy Question
 date: Thu, 19 Apr 2018 20:17:45 +0000
 thumbnailImage: ''
+specialpost: false
 tags:
 - Economics
 - Healthcare

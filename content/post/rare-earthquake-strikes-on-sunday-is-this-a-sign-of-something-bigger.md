@@ -2,6 +2,7 @@
 title: Rare Earthquake Strikes on Sunday - Is This a Sign of Something Bigger?
 date: Mon, 07 May 2018 14:53:12 +0000
 thumbnailImage: "/uploads/gulf-of-mexico-map-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

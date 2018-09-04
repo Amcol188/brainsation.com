@@ -2,6 +2,7 @@
 title: Breakthrough Brain Technology Could Restore Sight to the Blind
 date: Tue, 01 May 2018 19:56:16 +0000
 thumbnailImage: "/uploads/human-brain-nerve-inset-1-810x425-1.png"
+specialpost: false
 tags:
 - Science
 

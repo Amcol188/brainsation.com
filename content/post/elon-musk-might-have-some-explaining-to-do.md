@@ -2,6 +2,7 @@
 title: Elon Musk Might Have Some Explaining to Do
 date: Sat, 21 Apr 2018 20:15:41 +0000
 thumbnailImage: ''
+specialpost: false
 tags:
 - Economics
 - Healthcare

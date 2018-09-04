@@ -2,6 +2,7 @@
 title: Crime Researcher Releases Shocking Fact About Number of Serial Killers in US
 date: Tue, 01 May 2018 16:01:57 +0000
 thumbnailImage: "/uploads/crime-scene-810x542.jpg"
+specialpost: false
 tags:
 - Culture
 - Science

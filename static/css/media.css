@@ -5,8 +5,14 @@
 @media only screen and (max-width: 768px) {
   .owl-carousel.owl-posts .post-large .post-title {
     font-size: 14px;
-    line-height: 18px; } }
+    line-height: 18px; } 
 
+  }
+@media only screen and (max-width: 360px) {
+    header .logo{
+    min-width: 112px;
+  }
+}
 /* Extra Small Devices, Phones */
 /* Custom, iPhone Retina */
 /*==========  Mobile First Method  ==========*/
@@ -112,8 +118,30 @@
     max-width: 33.333333%; }
   .owl-carousel.owl-posts .post-large {
     padding: 20px 33px; }
-  .btn-prev {
-    display: block; } }
+
+  .btn-show {
+    display: inline!important; } 
+
+  .btn-prev:before {
+    left: auto;
+    right: -1px;
+    border-width: 31px 10px 31px 0;
+    border-color: transparent #fff transparent transparent; 
+  }
+  .btn-next:before {
+      border-width: 31px 0 31px 10px!important;
+      top: 4px!important;
+      bottom: 4px!important;
+      left: -1px;
+      border-color: transparent transparent transparent #fff;
+  }
+.next-page-btn{
+  display: none;
+  }
+  header .navbar-toggler{
+    margin-left: auto;
+}
+}
 
 /* Medium Devices, Desktops */
 @media only screen and (min-width: 992px) {

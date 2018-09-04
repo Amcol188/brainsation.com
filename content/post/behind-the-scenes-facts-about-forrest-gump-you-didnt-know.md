@@ -2,6 +2,7 @@
 title: Behind The Scenes Facts About Forrest Gump You Didn't Know
 date: Tue, 31 Oct 2017 20:05:36 +0000
 thumbnailImage: "/uploads/Forrest-gump-original-810x396.jpg"
+specialpost: false
 tags:
 - Entertainment
 

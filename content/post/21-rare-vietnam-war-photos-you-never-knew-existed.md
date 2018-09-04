@@ -2,6 +2,7 @@
 title: 21 Rare Vietnam War Photos You Never Knew Existed
 date: Mon, 23 Oct 2017 04:00:00 +0000
 thumbnailImage: ''
+specialpost: false
 tags:
 - Culture
 

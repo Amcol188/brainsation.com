@@ -2,6 +2,7 @@
 title: Semi Carrying 30 Million Bees Overturns in Texas
 date: Fri, 01 Jun 2018 19:46:57 +0000
 thumbnailImage: "/uploads/honey-bee-hive-fb-1-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

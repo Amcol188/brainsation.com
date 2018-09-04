@@ -2,6 +2,7 @@
 title: Scientists Up Their Game in Search for Intelligent Life
 date: Thu, 10 May 2018 18:39:23 +0000
 thumbnailImage: "/uploads/Planet_nine_artistic_plain-1-810x540.png"
+specialpost: false
 tags:
 - Uncategorized
 

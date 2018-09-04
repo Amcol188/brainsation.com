@@ -2,6 +2,7 @@
 title: High School Chemistry Student Makes Game Changing Scientific Discovery
 date: Thu, 24 May 2018 22:18:22 +0000
 thumbnailImage: "/uploads/taking-notes-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

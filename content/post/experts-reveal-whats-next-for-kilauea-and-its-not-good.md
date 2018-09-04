@@ -2,6 +2,7 @@
 title: Experts Reveal What's Next for Kilauea - And It's NOT Good
 date: Thu, 10 May 2018 22:06:27 +0000
 thumbnailImage: "/uploads/kilauea-lava-lake-fb-810x425.png"
+specialpost: false
 tags:
 - Science
 

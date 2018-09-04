@@ -2,6 +2,8 @@
 title: 4.5 Quake Gives Californians Early Morning Wakeup Call - What's Next?
 date: Tue, 08 May 2018 21:30:19 +0000
 thumbnailImage: "/uploads/san-andreas-fault-1-810x425-1.png"
+specialpost: false
+
 tags:
 - Uncategorized
 

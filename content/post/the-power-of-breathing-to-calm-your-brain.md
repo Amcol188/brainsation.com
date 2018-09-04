@@ -2,6 +2,7 @@
 title: The Power of Breathing to Calm Your Brain
 date: Tue, 24 Apr 2018 18:56:25 +0000
 thumbnailImage: "/uploads/relationships-810x540.jpg"
+specialpost: false
 tags:
 - Economics
 - Healthcare

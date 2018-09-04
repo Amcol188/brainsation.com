@@ -2,6 +2,7 @@
 title: Planet Hunting Telescope Does Moon Fly-by & Sends First Pictures Back to Earth
 date: Wed, 23 May 2018 22:06:30 +0000
 thumbnailImage: "/uploads/tess-drawing-fb-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

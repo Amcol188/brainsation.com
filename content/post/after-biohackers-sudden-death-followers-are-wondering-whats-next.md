@@ -2,6 +2,7 @@
 title: After Biohacker's Sudden Death, Followers are Wondering, "What's Next?"
 date: Fri, 11 May 2018 21:05:19 +0000
 thumbnailImage: "/uploads/aaron-traywick-810x425.png"
+specialpost: false
 tags:
 - Crime
 - Healthcare

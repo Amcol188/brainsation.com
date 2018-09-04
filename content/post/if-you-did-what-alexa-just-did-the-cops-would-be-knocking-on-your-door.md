@@ -2,6 +2,7 @@
 title: If You Did What Alexa Just Did, the Cops Would Be Knocking on Your Door
 date: Fri, 25 May 2018 19:45:38 +0000
 thumbnailImage: "/uploads/amazon-echo-flickr-810x540.jpg"
+specialpost: false
 tags:
 - Uncategorized
 

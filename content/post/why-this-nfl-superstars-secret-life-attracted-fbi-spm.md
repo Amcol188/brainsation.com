@@ -2,6 +2,7 @@
 title: Why This NFL Superstar's Secret Life Attracted The FBI's Attention
 date: Sun, 15 Apr 2018 03:34:57 +0000
 thumbnailImage: "/uploads/113306940-810x540.jpg"
+specialpost: false
 tags:
 - Celebs
 - FBI

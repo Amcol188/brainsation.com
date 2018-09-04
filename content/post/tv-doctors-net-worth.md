@@ -2,6 +2,7 @@
 title: How Much Does Dr. Oz Make? Net Worths Of Famous TV Doctors
 date: Fri, 21 Jul 2017 20:59:11 +0000
 thumbnailImage: "/uploads/featured-image-2-1.jpg"
+specialpost: false
 tags:
 - Celebs
 

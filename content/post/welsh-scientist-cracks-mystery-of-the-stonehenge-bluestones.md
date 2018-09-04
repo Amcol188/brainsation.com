@@ -2,6 +2,7 @@
 title: Welsh Scientist Cracks Mystery of the Stonehenge Bluestones
 date: Mon, 14 May 2018 17:34:23 +0000
 thumbnailImage: "/uploads/stonehenge-sunset-fb-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

@@ -2,6 +2,7 @@
 title: New Law in India Approves Death Penalty for Child Rapists
 date: Sat, 21 Apr 2018 17:56:49 +0000
 thumbnailImage: ''
+specialpost: false
 tags:
 - Economics
 - Healthcare

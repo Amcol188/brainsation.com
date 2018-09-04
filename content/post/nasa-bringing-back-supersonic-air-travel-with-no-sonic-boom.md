@@ -2,6 +2,7 @@
 title: NASA Bringing Back Supersonic Air Travel - With No Sonic Boom
 date: Tue, 08 May 2018 22:02:08 +0000
 thumbnailImage: "/uploads/nasa-supersonic-810x425.png"
+specialpost: false
 tags:
 - Science
 

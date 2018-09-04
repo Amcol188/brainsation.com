@@ -2,6 +2,7 @@
 title: Robot Solves Popular Puzzle in Less than a Second [Video]
 date: Wed, 25 Apr 2018 20:08:13 +0000
 thumbnailImage: "/uploads/rubiks-cube-810x540.jpg"
+specialpost: false
 tags:
 - Healthcare
 - Science

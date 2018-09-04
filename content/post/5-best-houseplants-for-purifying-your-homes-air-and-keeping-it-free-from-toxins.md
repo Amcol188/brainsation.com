@@ -2,6 +2,7 @@
 title: 5 Best Houseplants for Purifying Your Home's Air and Keeping it Free From Toxins
 date: Fri, 04 May 2018 21:42:41 +0000
 thumbnailImage: "/uploads/boston-fern.png"
+specialpost: false
 tags:
 - Uncategorized
 

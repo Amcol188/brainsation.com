@@ -2,6 +2,7 @@
 title: Deciphered Clay Tablets Reveal Whereabouts of Lost City
 date: Tue, 22 May 2018 20:58:48 +0000
 thumbnailImage: "/uploads/lost-city-clay-tablets-inset-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

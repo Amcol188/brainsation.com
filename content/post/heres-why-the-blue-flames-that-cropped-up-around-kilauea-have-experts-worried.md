@@ -2,6 +2,7 @@
 title: Here's Why The Blue Flames That Cropped Up Around Kilauea Have Experts Worried
 date: Fri, 25 May 2018 14:58:28 +0000
 thumbnailImage: "/uploads/kilauea-blue-flames-fb-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

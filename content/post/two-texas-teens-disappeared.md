@@ -2,6 +2,7 @@
 title: Two Texas Teens Disappeared 30 Years Ago. Today, Cops Got A New Lead
 date: Tue, 11 Jul 2017 17:40:35 +0000
 thumbnailImage: ''
+specialpost: false
 tags:
 - Crime
 - det

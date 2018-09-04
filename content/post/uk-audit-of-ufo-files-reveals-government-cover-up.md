@@ -2,6 +2,7 @@
 title: UK Audit of UFO Files Reveals Government Cover Up
 date: Wed, 16 May 2018 21:07:37 +0000
 thumbnailImage: "/uploads/ufo-woods-fb-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

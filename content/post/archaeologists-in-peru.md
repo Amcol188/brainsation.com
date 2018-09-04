@@ -2,6 +2,7 @@
 title: Archaeologists in Peru Make Gruesome Discovery
 date: Thu, 26 Apr 2018 16:59:57 +0000
 thumbnailImage: "/uploads/31348150_23842945685720280_7049271248160817152_n.png.jpg"
+specialpost: false
 tags:
 - Science
 

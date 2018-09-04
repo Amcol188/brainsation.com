@@ -2,6 +2,7 @@
 title: Major Hospitals Turn to "Alternative" Therapy to Heal Patients
 date: Tue, 08 May 2018 20:34:33 +0000
 thumbnailImage: "/uploads/hypnosis-fb-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

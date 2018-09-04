@@ -2,6 +2,7 @@
 title: Something's Targeting Great White Sharks - And It's NOT Humans
 date: Mon, 21 May 2018 19:22:18 +0000
 thumbnailImage: "/uploads/great-white-shark-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

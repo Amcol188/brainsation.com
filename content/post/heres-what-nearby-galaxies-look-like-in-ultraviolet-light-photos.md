@@ -2,6 +2,7 @@
 title: Here's What Nearby Galaxies Look Like in Ultraviolet Light  [Photos]
 date: Wed, 23 May 2018 22:22:13 +0000
 thumbnailImage: "/uploads/hubble-uv-galaxies-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

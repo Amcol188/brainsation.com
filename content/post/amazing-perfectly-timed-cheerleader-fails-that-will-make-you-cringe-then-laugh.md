@@ -3,6 +3,7 @@ title: Amazing, Perfectly-Timed Cheerleader Fails That Will Make You Cringe, The
   Laugh
 date: Wed, 17 Jan 2018 20:28:42 +0000
 thumbnailImage: "/uploads/1434717351_555255_1434717796_album_normal-810x655.jpg"
+specialpost: false
 tags:
 - cheerleading
 - Entertainment

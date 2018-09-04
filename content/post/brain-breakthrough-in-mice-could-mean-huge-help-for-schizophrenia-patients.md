@@ -2,6 +2,7 @@
 title: Brain Breakthrough In Mice Could Mean Huge Help for Schizophrenia Patients
 date: Wed, 09 May 2018 19:32:38 +0000
 thumbnailImage: "/uploads/lab-mouse-epic-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

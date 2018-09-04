@@ -2,6 +2,7 @@
 title: Biblical Numerologist Predicts End of the World for Monday
 date: Sat, 21 Apr 2018 20:56:00 +0000
 thumbnailImage: ''
+specialpost: false
 tags:
 - Economics
 - Healthcare

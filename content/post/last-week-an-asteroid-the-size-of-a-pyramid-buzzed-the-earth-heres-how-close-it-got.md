@@ -3,6 +3,7 @@ title: Last Week an Asteroid the Size of A Pyramid Buzzed the Earth - Here's How
   It Got
 date: Mon, 21 May 2018 21:01:13 +0000
 thumbnailImage: "/uploads/comet-1-810x456.jpg"
+specialpost: false
 tags:
 - Uncategorized
 

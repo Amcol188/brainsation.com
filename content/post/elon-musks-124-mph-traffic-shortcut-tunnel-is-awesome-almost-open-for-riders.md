@@ -2,6 +2,7 @@
 title: Elon Musk's 124 mph Traffic Shortcut Tunnel is Awesome & Almost Open for Riders
 date: Mon, 14 May 2018 21:04:02 +0000
 thumbnailImage: "/uploads/elon-musk-flickr-810x540.jpg"
+specialpost: false
 tags:
 - Uncategorized
 

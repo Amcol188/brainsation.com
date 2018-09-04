@@ -2,6 +2,7 @@
 title: How Did the Vikings Navigate on Cloudy Days?  Scientists Now Think They Know
 date: Wed, 09 May 2018 19:52:49 +0000
 thumbnailImage: "/uploads/viking-2189837_1280-810x459.jpg"
+specialpost: false
 tags:
 - Uncategorized
 

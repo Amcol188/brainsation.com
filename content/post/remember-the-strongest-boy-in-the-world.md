@@ -3,6 +3,7 @@ title: Remember the Strongest Boy in the World? -- Fifteen Years Later, He's All
   Up...
 date: Sun, 15 Jul 2018 21:07:08 +0000
 thumbnailImage: "/uploads/featured1-1-810x425.jpg"
+specialpost: false
 tags:
 - Culture
 

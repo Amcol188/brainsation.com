@@ -2,6 +2,7 @@
 title: The Life Saving Hero Nurse of the Las Vegas Shooting
 date: Sat, 02 Jun 2018 20:38:14 +0000
 thumbnailImage: "/uploads/las-vegas-hero-nurse-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

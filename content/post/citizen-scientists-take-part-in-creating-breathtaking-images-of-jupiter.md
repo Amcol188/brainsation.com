@@ -2,6 +2,7 @@
 title: Citizen Scientists Take Part in Creating Breathtaking Images of Jupiter
 date: Wed, 23 May 2018 19:52:39 +0000
 thumbnailImage: "/uploads/jupiter-juno-fb-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

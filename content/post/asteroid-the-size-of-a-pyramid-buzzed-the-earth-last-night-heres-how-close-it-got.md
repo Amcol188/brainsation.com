@@ -3,6 +3,7 @@ title: Asteroid the Size of a Pyramid Buzzed the Earth Last Night - Here's How C
   It Got
 date: Wed, 16 May 2018 17:26:32 +0000
 thumbnailImage: "/uploads/asteroid-earth-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 

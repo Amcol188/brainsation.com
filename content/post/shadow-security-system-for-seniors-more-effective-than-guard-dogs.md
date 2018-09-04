@@ -2,6 +2,7 @@
 title: Shadow Security System for Seniors - More Effective Than Guard Dogs?
 date: Wed, 25 Apr 2018 14:45:05 +0000
 thumbnailImage: "/uploads/topo-robot-1024x576-810x456.jpg"
+specialpost: false
 tags:
 - Science
 

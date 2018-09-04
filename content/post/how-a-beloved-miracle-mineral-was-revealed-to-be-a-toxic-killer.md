@@ -2,6 +2,7 @@
 title: How a Beloved Miracle Mineral was Revealed to Be a Toxic Killer
 date: Wed, 30 May 2018 18:46:20 +0000
 thumbnailImage: "/uploads/asbestos-mine-fb-810x425.png"
+specialpost: false
 tags:
 - Uncategorized
 
