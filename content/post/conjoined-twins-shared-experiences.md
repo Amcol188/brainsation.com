@@ -11,11 +11,15 @@ title = "Conjoined Twins: Shared Experiences"
 weight = 6
 
 +++
+{{< post_ad >}}
+
 ### For obvious reasons, Abby and Brittany Hensel have had to live as a team. Each girl controls one half of their body, so even the simple act of walking has to be coordinated.
 
 In fact, this is harder than it sounds because Brittany is a few inches shorter than Abby, requiring her to basically tip-toe.
 
 That's not all the girls have to deal with as a team. Using the restroom, bathing, and personal hygiene issues have to be jointly dealt with.
+
+{{< post_ad >}}
 
 [![](http://brainsation.com/wp-content/uploads/2018/07/mn-1-1.jpg)](http://brainsation.com/wp-content/uploads/2018/07/mn-1-1.jpg)
 
@@ -26,3 +30,5 @@ That's not all the girls have to deal with as a team. Using the restroom, bathin
 Conjoined twins are exceedingly rare - it is thought one in every 200,000 births - and around 40-60% of these births are delivered stillborn. Female siblings tend to have a better survival rate than male siblings, though.
 
 But the girls recently made a huge announcement that stunned their fans...
+
+{{< post_ad >}}
