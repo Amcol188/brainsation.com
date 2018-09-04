@@ -13,6 +13,8 @@ weight = 2
 +++
 Abby and Brittany have control of one arm and one leg each. They've had to overcome significant challenges in order to walk, swim, and even brush their hair.
 
+{{< post_ad >}}
+
 [![](http://brainsation.com/wp-content/uploads/2018/07/c-20-1-1-1.jpg)](http://brainsation.com/wp-content/uploads/2018/07/c-20-1-1-1.jpg)
 
 ##### [_Image Credit_](http://www.ntd.tv/inspiring/life/conjoined-twins-abigail-brittany-hensel-offer-share-glimpse-world.html)
@@ -21,6 +23,8 @@ The girls first drew the attention of mainstream media in 1996 when they appeare
 
 That's when everything began to change for the girls...
 
+{{< post_ad >}}
+
 ### When the Hensel twins turned 16, they agreed to appear in a documentary for TLC. The broadcaster eventually gave them their own show, called _Abby and Brittany_, which premiered on Aug. 28, 2012.
 
 The series followed them on many of their milestones. For example, on their 16th birthday, Abigail and Brittany passed their driving test with a mind-boggling feat of teamwork.
@@ -28,6 +32,8 @@ The series followed them on many of their milestones. For example, on their 16th
 "Yeah, learning to drive was crazy. Abby gets road rage," said Brittany, laughing at her sister.
 
 "That's not true," Abby retorted.
+
+{{< post_ad >}}
 
 [![](http://brainsation.com/wp-content/uploads/2018/07/a-3-1-1.jpg)](http://brainsation.com/wp-content/uploads/2018/07/a-3-1-1.jpg)
 
@@ -40,3 +46,5 @@ Their mother, Patty, conceded that driving could have been a problem for the gi
 That's a fair question!
 
 Although the twins have been able to surmount so many challenges in their young lives, nothing had prepared them for what came next...
+
+{{< post_ad >}}
