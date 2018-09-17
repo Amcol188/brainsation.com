@@ -66,6 +66,8 @@ It could have easily been overlooked as just another deteriorating aspect of an�
 
 After all, this wasn’t just any vacant KFC but one in San Luis, Arizona, situated some 200 yards north of the border the United States shares with Mexico.
 
+{{< post_ad >}}
+
 “From the old drive-through lane, you can see the fence separating San Luis from Mexico in your rear-view mirror,” said Williams.
 
 Back on August 13th, local police had arrested the building’s owner, Ivan Lopez, during a routine traffic stop.
