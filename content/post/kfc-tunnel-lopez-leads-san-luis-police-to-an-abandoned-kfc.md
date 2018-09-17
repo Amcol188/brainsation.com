@@ -2,7 +2,6 @@
 categories = ["KFC"]
 date = "2018-09-17T14:43:33-04:00"
 description = ""
-draft = true
 haspagination = true
 specialpost = true
 tags = []
