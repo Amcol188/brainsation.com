@@ -7,7 +7,7 @@ haspagination = true
 specialpost = true
 tags = []
 thumbnailImage = ""
-title = "KFC Tunnel:  THE HOLE IN THE TILE WAS ONLY EIGHT INCHES IN DIAMETER"
+title = "KFC Tunnel:  The Hole InThe Tile Was Only Eight Inches In Diameter"
 weight = 2
 
 +++
