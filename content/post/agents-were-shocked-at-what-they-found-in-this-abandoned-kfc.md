@@ -16,7 +16,7 @@ weight = ""
 
 ##### [_IMAGE CREDIT_](https://goo.gl/images/fnHTye)
 
-### AN ORDINARY DAY PROVES TO BE ANYTHING BUT…
+## AN ORDINARY DAY PROVES TO BE ANYTHING BUT…
 
 When San Luis Police Officer Duane Williams woke up on that September morning, nothing seemed eventful or unusual.
 
@@ -58,7 +58,7 @@ The agents knew they had hit pay dirt when they found the tiny opening conceali
 
 ##### [_IMAGE CREDIT_](https://www.scmp.com/news/world/united-states-canada/article/2161313/breaking-bad-arizona-kfc-store-concealed-drug)
 
-### THE HOLE IN THE TILE WAS ONLY EIGHT INCHES IN DIAMETER
+## THE HOLE IN THE TILE WAS ONLY EIGHT INCHES IN DIAMETER
 
 “It was barely large enough to fit a 15-piece family bucket of chicken,” said Officer Duane Williams.
 
@@ -80,7 +80,7 @@ And according to the arresting officer, it was “pretty memorable.”
 
 ###### [_IMAGE CREDIT_](https://goo.gl/images/yZcWpz)
 
-### OFFICER JACKSON SNARES A REAL DEAL KINGPIN
+## OFFICER JACKSON SNARES A REAL DEAL KINGPIN
 
 When San Luis Police Officer Sandra Jackson pulled over Ivan Lopez, 41, she knew to exercise caution.
 
@@ -100,7 +100,7 @@ But that was just the beginning of a long and twisted story of an unbelievable 
 
 ##### [_IMAGE CREDIT_](https://goo.gl/images/c4EyyC)
 
-### LOPEZ LEADS SAN LUIS POLICE TO AN ABANDONED KFC
+## LOPEZ LEADS SAN LUIS POLICE TO AN ABANDONED KFC
 
 Public records reveal that Lopez had bought the former KFC in April, paying some $390,000 in cash for the rundown restaurant.
 
@@ -120,7 +120,7 @@ Once inside, both local and federal authorities were shocked at what they found
 
 ###### [_IMAGE CREDIT_](https://www.scmp.com/news/world/united-states-canada/article/2161313/breaking-bad-arizona-kfc-store-concealed-drug)
 
-### THE HOLE WAS JUST THE BEGINNING
+## THE HOLE WAS JUST THE BEGINNING
 
 The agents’ suspicions of organized, criminal activity were confirmed with the discovery of an eight-inch opening along a wall in the restaurant’s rear kitchen area.
 
@@ -138,7 +138,7 @@ Hundreds of wooden two-by-four boards lined the walls…
 
 ###### [_IMAGE CREDIT_](https://goo.gl/images/5aNfXz)
 
-### THE SECRET TUNNEL WAS AN UNDERGROUND DRUG HIGHWAY
+## THE SECRET TUNNEL WAS AN UNDERGROUND DRUG HIGHWAY
 
 The discovery prompted the inevitable comparisons to _Breaking Bad_and _Los Pollos Hermanos_.
 
@@ -160,7 +160,7 @@ This wasn’t the first tunnel, and it certainly wasn’t the most sophisticated
 
 ##### [_IMAGE CREDIT_](https://goo.gl/images/z2f48p)
 
-### BUT THIS WASN’T THE FIRST TUNNEL IN SAN LUIS
+## BUT THIS WASN’T THE FIRST TUNNEL IN SAN LUIS
 
 The KFC tunnel was simply the latest passaged to be uncovered in an ongoing game of drug-trafficking whack-a-mole that has literally gone underground.
 
@@ -182,7 +182,7 @@ You might be surprised…
 
 ###### [_IMAGE CREDIT_](https://goo.gl/images/EDEyaC)
 
-### THE DRUG CARTELS ARE GETTING MORE SOPHISTICATED
+## THE DRUG CARTELS ARE GETTING MORE SOPHISTICATED
 
 There have been 203 tunnels discovered in the US Border Patrol’s history.
 
@@ -212,7 +212,7 @@ And according to Brown, one is a surprising no-brainer…
 
 ###### [_IMAGE CREDIT_](https://goo.gl/images/cGBoLw)
 
-### THE AUTHORITIES KNOW WHAT TO LOOK FOR
+## THE AUTHORITIES KNOW WHAT TO LOOK FOR
 
 “One thing is a big pile of dirt,” Brown said. “Again, this is a 5-foot-by-3-foot-wide hole that’s about 590-feet-long. A rough estimate is about 200 tons of dirt they had to get out of there and move surreptitiously.”
 
@@ -230,7 +230,7 @@ Sadly, there’s a whole lot more going on…
 
 ###### [_IMAGE CREDIT_](https://goo.gl/images/U7YnNH)
 
-### UNFORTUNATELY, IT’S NOT JUST DRUGS COMING THROUGH…
+## UNFORTUNATELY, IT’S NOT JUST DRUGS COMING THROUGH…
 
 Although this particular tunnel appears to have been limited to the drug trade, owing to the tiny opening on the US side, that’s not always the case.
 
@@ -252,7 +252,7 @@ And then there’s the opioid crisis…
 
 ###### [_IMAGE CREDIT_](https://goo.gl/images/k1peXT)
 
-### TRUMP’S SIGNATURE CAMPAIGN ISSUE WAS ILLEGAL IMMIGRATION
+## TRUMP’S SIGNATURE CAMPAIGN ISSUE WAS ILLEGAL IMMIGRATION
 
 Illegal immigration to the United States was a signature issue of Donald Trump’s 2016 presidential campaign, and his proposed reforms and remarks about this issue continue to generate much publicity.
 
@@ -274,7 +274,7 @@ Unfortunately, with the high volume of illegal pharmaceuticals coming through th
 
 ###### [_IMAGE CREDIT_](https://goo.gl/images/n9Fe92)
 
-### THE OPIOID EPIDEMIC AFFECTS EVERYONE
+## THE OPIOID EPIDEMIC AFFECTS EVERYONE
 
 Since the late 1990s, opioid use has skyrocketed across America.
 
