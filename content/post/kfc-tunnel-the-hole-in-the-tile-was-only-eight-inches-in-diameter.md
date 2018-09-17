@@ -2,7 +2,6 @@
 categories = []
 date = "2018-09-17T14:41:47-04:00"
 description = ""
-draft = true
 haspagination = true
 specialpost = true
 tags = []
