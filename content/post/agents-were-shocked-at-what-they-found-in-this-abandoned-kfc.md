@@ -78,7 +78,7 @@ And according to the arresting officer, it was “pretty memorable.”
 
 [![](http://sopawfect.com/wp-content/uploads/2018/08/e-10.jpg)](http://sopawfect.com/wp-content/uploads/2018/08/e-10.jpg)
 
-###### [_IMAGE CREDIT_](https://goo.gl/images/yZcWpz)
+##### [_IMAGE CREDIT_](https://goo.gl/images/yZcWpz)
 
 ## OFFICER JACKSON SNARES A REAL DEAL KINGPIN
 
@@ -116,9 +116,9 @@ Once inside, both local and federal authorities were shocked at what they found
 
 “This was no fried chicken joint any more,” said Williams. “This was the big time.”
 
-### [![](http://sopawfect.com/wp-content/uploads/2018/08/b-15.jpg)](http://sopawfect.com/wp-content/uploads/2018/08/b-15.jpg)
+[![](http://sopawfect.com/wp-content/uploads/2018/08/b-15.jpg)](http://sopawfect.com/wp-content/uploads/2018/08/b-15.jpg)
 
-###### [_IMAGE CREDIT_](https://www.scmp.com/news/world/united-states-canada/article/2161313/breaking-bad-arizona-kfc-store-concealed-drug)
+##### [_IMAGE CREDIT_](https://www.scmp.com/news/world/united-states-canada/article/2161313/breaking-bad-arizona-kfc-store-concealed-drug)
 
 ## THE HOLE WAS JUST THE BEGINNING
 
@@ -134,9 +134,9 @@ One person shimmied down into the space and turned on a flashlight, scanning the
 
 Hundreds of wooden two-by-four boards lined the walls…
 
-### [![](http://sopawfect.com/wp-content/uploads/2018/08/f-9.jpg)](http://sopawfect.com/wp-content/uploads/2018/08/f-9.jpg)
+[![](http://sopawfect.com/wp-content/uploads/2018/08/f-9.jpg)](http://sopawfect.com/wp-content/uploads/2018/08/f-9.jpg)
 
-###### [_IMAGE CREDIT_](https://goo.gl/images/5aNfXz)
+##### [_IMAGE CREDIT_](https://goo.gl/images/5aNfXz)
 
 ## THE SECRET TUNNEL WAS AN UNDERGROUND DRUG HIGHWAY
 
@@ -156,7 +156,7 @@ But the tunnel affirmed another unspoken rule on America’s southwest border.
 
 This wasn’t the first tunnel, and it certainly wasn’t the most sophisticated one to be discovered along the border…
 
-### [![](http://sopawfect.com/wp-content/uploads/2018/08/d-11.jpg)](http://sopawfect.com/wp-content/uploads/2018/08/d-11.jpg)
+[![](http://sopawfect.com/wp-content/uploads/2018/08/d-11.jpg)](http://sopawfect.com/wp-content/uploads/2018/08/d-11.jpg)
 
 ##### [_IMAGE CREDIT_](https://goo.gl/images/z2f48p)
 
@@ -178,9 +178,9 @@ But just how successful are the drug traffickers’ efforts?
 
 You might be surprised…
 
-### [![](http://sopawfect.com/wp-content/uploads/2018/08/g-5.jpg)](http://sopawfect.com/wp-content/uploads/2018/08/g-5.jpg)
+[![](http://sopawfect.com/wp-content/uploads/2018/08/g-5.jpg)](http://sopawfect.com/wp-content/uploads/2018/08/g-5.jpg)
 
-###### [_IMAGE CREDIT_](https://goo.gl/images/EDEyaC)
+##### [_IMAGE CREDIT_](https://goo.gl/images/EDEyaC)
 
 ## THE DRUG CARTELS ARE GETTING MORE SOPHISTICATED
 
@@ -206,11 +206,9 @@ However, there are a couple of dead giveaways.
 
 And according to Brown, one is a surprising no-brainer…
 
-### 
+[![](http://sopawfect.com/wp-content/uploads/2018/08/1-9.jpg)](http://sopawfect.com/wp-content/uploads/2018/08/1-9.jpg)
 
-### [![](http://sopawfect.com/wp-content/uploads/2018/08/1-9.jpg)](http://sopawfect.com/wp-content/uploads/2018/08/1-9.jpg)
-
-###### [_IMAGE CREDIT_](https://goo.gl/images/cGBoLw)
+##### [_IMAGE CREDIT_](https://goo.gl/images/cGBoLw)
 
 ## THE AUTHORITIES KNOW WHAT TO LOOK FOR
 
@@ -226,9 +224,9 @@ But it’s not just drugs that are coming through the clandestine underground sh
 
 Sadly, there’s a whole lot more going on…
 
-### [![](http://sopawfect.com/wp-content/uploads/2018/08/2-9.jpg)](http://sopawfect.com/wp-content/uploads/2018/08/2-9.jpg)
+[![](http://sopawfect.com/wp-content/uploads/2018/08/2-9.jpg)](http://sopawfect.com/wp-content/uploads/2018/08/2-9.jpg)
 
-###### [_IMAGE CREDIT_](https://goo.gl/images/U7YnNH)
+##### [_IMAGE CREDIT_](https://goo.gl/images/U7YnNH)
 
 ## UNFORTUNATELY, IT’S NOT JUST DRUGS COMING THROUGH…
 
@@ -250,7 +248,7 @@ And then there’s the opioid crisis…
 
 [![](http://sopawfect.com/wp-content/uploads/2018/08/trump.jpg)](http://sopawfect.com/wp-content/uploads/2018/08/trump.jpg)
 
-###### [_IMAGE CREDIT_](https://goo.gl/images/k1peXT)
+##### [_IMAGE CREDIT_](https://goo.gl/images/k1peXT)
 
 ## TRUMP’S SIGNATURE CAMPAIGN ISSUE WAS ILLEGAL IMMIGRATION
 
@@ -272,7 +270,7 @@ Unfortunately, with the high volume of illegal pharmaceuticals coming through th
 
 [![](http://sopawfect.com/wp-content/uploads/2018/08/opiod.jpg)](http://sopawfect.com/wp-content/uploads/2018/08/opiod.jpg)
 
-###### [_IMAGE CREDIT_](https://goo.gl/images/n9Fe92)
+##### [_IMAGE CREDIT_](https://goo.gl/images/n9Fe92)
 
 ## THE OPIOID EPIDEMIC AFFECTS EVERYONE
 
