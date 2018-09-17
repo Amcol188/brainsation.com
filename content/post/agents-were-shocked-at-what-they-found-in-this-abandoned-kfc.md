@@ -14,7 +14,7 @@ weight = ""
 
 [![](http://sopawfect.com/wp-content/uploads/2018/08/a-21.jpg)](http://sopawfect.com/wp-content/uploads/2018/08/a-21.jpg)
 
-###### [_IMAGE CREDIT_](https://goo.gl/images/fnHTye)
+##### [_IMAGE CREDIT_](https://goo.gl/images/fnHTye)
 
 ### AN ORDINARY DAY PROVES TO BE ANYTHING BUT…
 
@@ -30,7 +30,7 @@ But that particular Tuesday would be one for the record books.
 
 [![](http://sopawfect.com/wp-content/uploads/2018/08/b-21.jpg)](http://sopawfect.com/wp-content/uploads/2018/08/b-21.jpg)
 
-###### [_IMAGE CREDIT_](https://goo.gl/images/svQN6d)
+##### [_IMAGE CREDIT_](https://goo.gl/images/svQN6d)
 
 “I’ve lost friends and colleagues in the service of this community,” he said. “This isn’t always an easy job, but we take an oath to serve the public trust. My job is to protect the innocent and uphold the law to the best of my ability.”
 
@@ -46,7 +46,7 @@ The squad and Officer Williams received national media attention last year when 
 
 [![](http://sopawfect.com/wp-content/uploads/2018/08/c-21.jpg)](http://sopawfect.com/wp-content/uploads/2018/08/c-21.jpg)
 
-###### [_IMAGE CREDIT_](https://goo.gl/images/bFkHyJ)
+##### [_IMAGE CREDIT_](https://goo.gl/images/bFkHyJ)
 
 “We knew that something was up with that location,” said Williams. “All of the circumstances surrounding the property just didn’t add up.”
 
@@ -54,9 +54,9 @@ The agents knew they had hit pay dirt when they found the tiny opening conceali
 
 {{< post_ad >}}
 
-### [![](http://sopawfect.com/wp-content/uploads/2018/08/a-15.jpg)](http://sopawfect.com/wp-content/uploads/2018/08/a-15.jpg)
+[![](http://sopawfect.com/wp-content/uploads/2018/08/a-15.jpg)](http://sopawfect.com/wp-content/uploads/2018/08/a-15.jpg)
 
-###### [_IMAGE CREDIT_](https://www.scmp.com/news/world/united-states-canada/article/2161313/breaking-bad-arizona-kfc-store-concealed-drug)
+##### [_IMAGE CREDIT_](https://www.scmp.com/news/world/united-states-canada/article/2161313/breaking-bad-arizona-kfc-store-concealed-drug)
 
 ### THE HOLE IN THE TILE WAS ONLY EIGHT INCHES IN DIAMETER
 
