@@ -12,7 +12,7 @@ weight = ""
 +++
 # Agents Were Shocked at What They Found in This Abandoned KFC…
 
-### [![](http://sopawfect.com/wp-content/uploads/2018/08/a-21.jpg =600x400)](http://sopawfect.com/wp-content/uploads/2018/08/a-21.jpg)
+### [![](http://sopawfect.com/wp-content/uploads/2018/08/a-21.jpg)](http://sopawfect.com/wp-content/uploads/2018/08/a-21.jpg)
 
 ##### [_IMAGE CREDIT_](https://goo.gl/images/fnHTye)
 
@@ -26,7 +26,7 @@ Officer Williams knows that ordinary can go to extraordinary pretty quickly in t
 
 But that particular Tuesday would be one for the record books.
 
-[![](http://sopawfect.com/wp-content/uploads/2018/08/b-21.jpg =600x400)](http://sopawfect.com/wp-content/uploads/2018/08/b-21.jpg)
+[![](http://sopawfect.com/wp-content/uploads/2018/08/b-21.jpg)](http://sopawfect.com/wp-content/uploads/2018/08/b-21.jpg)
 
 ##### [_IMAGE CREDIT_](https://goo.gl/images/svQN6d)
 
@@ -40,15 +40,15 @@ The result of a federal grant in 2014, the San Luis Vice Squad has seized over t
 
 The squad and Officer Williams received national media attention last year when his team uncovered quite a surprise in an abandoned Kentucky Fried Chicken.
 
-[![](http://sopawfect.com/wp-content/uploads/2018/08/c-21.jpg =600x400)](http://sopawfect.com/wp-content/uploads/2018/08/c-21.jpg)
+[![](http://sopawfect.com/wp-content/uploads/2018/08/c-21.jpg)](http://sopawfect.com/wp-content/uploads/2018/08/c-21.jpg)
 
-##### [_IMAGE CREDIT_](https://goo.gl/images/bFkHyJ)
+###### [_IMAGE CREDIT_](https://goo.gl/images/bFkHyJ)
 
 “We knew that something was up with that location,” said Williams. “All of the circumstances surrounding the property just didn’t add up.”
 
 The agents knew they had hit pay dirt when they found the tiny opening concealing a much larger hole…
 
-### [![](http://sopawfect.com/wp-content/uploads/2018/08/a-15.jpg =600x400)](http://sopawfect.com/wp-content/uploads/2018/08/a-15.jpg)
+### [![](http://sopawfect.com/wp-content/uploads/2018/08/a-15.jpg)](http://sopawfect.com/wp-content/uploads/2018/08/a-15.jpg)
 
 ##### [_IMAGE CREDIT_](https://www.scmp.com/news/world/united-states-canada/article/2161313/breaking-bad-arizona-kfc-store-concealed-drug)
 
@@ -68,7 +68,7 @@ And according to the arresting officer, it was “pretty memorable.”
 
 “It’s not everyday you catch an honest to God kingpin,” said Officer Sandra Jackson.
 
-[![](http://sopawfect.com/wp-content/uploads/2018/08/e-10.jpg =600x400)](http://sopawfect.com/wp-content/uploads/2018/08/e-10.jpg)
+[![](http://sopawfect.com/wp-content/uploads/2018/08/e-10.jpg)](http://sopawfect.com/wp-content/uploads/2018/08/e-10.jpg)
 
 ##### [_IMAGE CREDIT_](https://goo.gl/images/yZcWpz)
 
@@ -86,7 +86,7 @@ However, once she opened the trunk, Jackson discovered over a million dollars wo
 
 But that was just the beginning of a long and twisted story of an unbelievable feat of underground construction…
 
-[![](http://sopawfect.com/wp-content/uploads/2018/08/kfc1.jpg =600x400)](http://sopawfect.com/wp-content/uploads/2018/08/kfc1.jpg)
+[![](http://sopawfect.com/wp-content/uploads/2018/08/kfc1.jpg)](http://sopawfect.com/wp-content/uploads/2018/08/kfc1.jpg)
 
 ##### [_IMAGE CREDIT_](https://goo.gl/images/c4EyyC)
 
@@ -104,7 +104,7 @@ Once inside, both local and federal authorities were shocked at what they found
 
 “This was no fried chicken joint any more,” said Williams. “This was the big time.”
 
-### [![](http://sopawfect.com/wp-content/uploads/2018/08/b-15.jpg =600x400)](http://sopawfect.com/wp-content/uploads/2018/08/b-15.jpg)
+### [![](http://sopawfect.com/wp-content/uploads/2018/08/b-15.jpg)](http://sopawfect.com/wp-content/uploads/2018/08/b-15.jpg)
 
 ##### [_IMAGE CREDIT_](https://www.scmp.com/news/world/united-states-canada/article/2161313/breaking-bad-arizona-kfc-store-concealed-drug)
 
@@ -120,7 +120,7 @@ One person shimmied down into the space and turned on a flashlight, scanning the
 
 Hundreds of wooden two-by-four boards lined the walls…
 
-### [![](http://sopawfect.com/wp-content/uploads/2018/08/f-9.jpg =600x400)](http://sopawfect.com/wp-content/uploads/2018/08/f-9.jpg)
+### [![](http://sopawfect.com/wp-content/uploads/2018/08/f-9.jpg)](http://sopawfect.com/wp-content/uploads/2018/08/f-9.jpg)
 
 ##### [_IMAGE CREDIT_](https://goo.gl/images/5aNfXz)
 
@@ -140,7 +140,7 @@ But the tunnel affirmed another unspoken rule on America’s southwest border.
 
 This wasn’t the first tunnel, and it certainly wasn’t the most sophisticated one to be discovered along the border…
 
-### [![](http://sopawfect.com/wp-content/uploads/2018/08/d-11.jpg =600x400)](http://sopawfect.com/wp-content/uploads/2018/08/d-11.jpg)
+### [![](http://sopawfect.com/wp-content/uploads/2018/08/d-11.jpg)](http://sopawfect.com/wp-content/uploads/2018/08/d-11.jpg)
 
 ##### [_IMAGE CREDIT_](https://goo.gl/images/z2f48p)
 
@@ -160,7 +160,7 @@ But just how successful are the drug traffickers’ efforts?
 
 You might be surprised…
 
-### [![](http://sopawfect.com/wp-content/uploads/2018/08/g-5.jpg =600x400)](http://sopawfect.com/wp-content/uploads/2018/08/g-5.jpg)
+### [![](http://sopawfect.com/wp-content/uploads/2018/08/g-5.jpg)](http://sopawfect.com/wp-content/uploads/2018/08/g-5.jpg)
 
 ##### [_IMAGE CREDIT_](https://goo.gl/images/EDEyaC)
 
@@ -186,7 +186,7 @@ And according to Brown, one is a surprising no-brainer…
 
 ### 
 
-### [![](http://sopawfect.com/wp-content/uploads/2018/08/1-9.jpg =600x400)](http://sopawfect.com/wp-content/uploads/2018/08/1-9.jpg)
+### [![](http://sopawfect.com/wp-content/uploads/2018/08/1-9.jpg)](http://sopawfect.com/wp-content/uploads/2018/08/1-9.jpg)
 
 ##### [_IMAGE CREDIT_](https://goo.gl/images/cGBoLw)
 
@@ -202,7 +202,7 @@ But it’s not just drugs that are coming through the clandestine underground sh
 
 Sadly, there’s a whole lot more going on…
 
-### [![](http://sopawfect.com/wp-content/uploads/2018/08/2-9.jpg =600x400)](http://sopawfect.com/wp-content/uploads/2018/08/2-9.jpg)
+### [![](http://sopawfect.com/wp-content/uploads/2018/08/2-9.jpg)](http://sopawfect.com/wp-content/uploads/2018/08/2-9.jpg)
 
 ##### [_IMAGE CREDIT_](https://goo.gl/images/U7YnNH)
 
@@ -222,7 +222,7 @@ The uncovering of these tunnels comes on the heels of a national debate about im
 
 And then there’s the opioid crisis…
 
-[![](http://sopawfect.com/wp-content/uploads/2018/08/trump.jpg =600x400)](http://sopawfect.com/wp-content/uploads/2018/08/trump.jpg)
+[![](http://sopawfect.com/wp-content/uploads/2018/08/trump.jpg)](http://sopawfect.com/wp-content/uploads/2018/08/trump.jpg)
 
 ##### [_IMAGE CREDIT_](https://goo.gl/images/k1peXT)
 
@@ -240,7 +240,7 @@ President Trump has repeatedly characterized such immigrants as criminals, altho
 
 Unfortunately, with the high volume of illegal pharmaceuticals coming through the border, San Luis has seen it’s fair share of overdose deaths…
 
-[![](http://sopawfect.com/wp-content/uploads/2018/08/opiod.jpg =600x400)](http://sopawfect.com/wp-content/uploads/2018/08/opiod.jpg)
+[![](http://sopawfect.com/wp-content/uploads/2018/08/opiod.jpg)](http://sopawfect.com/wp-content/uploads/2018/08/opiod.jpg)
 
 ##### [_IMAGE CREDIT_](https://goo.gl/images/n9Fe92)
 
