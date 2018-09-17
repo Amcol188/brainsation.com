@@ -1,13 +1,13 @@
 {{ $baseurl := .Site.BaseURL }}
 {{ partial "header.html" . }}
-	
+
 <main class="main">
 	<div class="container">
 				<div class="content-block">
 					<article class="article">
 						<div class="title-section">
 							<h1>{{ .Title }}</h1>
-						
+
 							{{ partial "tag.html" . }}
 
 						</div>
@@ -19,13 +19,13 @@
 
 
 		{{ if .Params.haspagination }}
-					
+
 
 					<div class="post-paging bypage">
 
 						{{ $page_link := .Permalink }}
 						{{ $categories := .Params.categories }}
-						
+
 						{{ range .Site.Pages }}
 							{{ $page := . }}
 							{{ $has_common_categories := intersect $categories .Params.categories | len | lt 0 }}
@@ -59,12 +59,14 @@
 
 						<a class="btn d-none d-md-block btn-prev disabled category-page {{ $.Scratch.Get "classname" | safeHTML }}"  href="{{ $page.Permalink }}" style="display:none;">{{ $page.Title }} <i class="fa fa-angle-right"></i></a>
 
-				
+
 						{{ end }}
 				</div>
 
-					
-						
+				<div class="btn-ad">
+					{{ partial "google/post_btn.html" . }}
+				</div>
+
 				{{ end }}
 					</article>
 				</div>
@@ -85,5 +87,5 @@
 
 
 </main>
-	
+
 {{ partial "footer.html" . }}
