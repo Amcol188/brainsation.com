@@ -13,8 +13,7 @@ weight = 10
 +++
 {{< ad_head >}}
 
-![](/uploads/10.jpg)
-##### [_Image Credit_](http://americanupbeat.com/kids-of-famous-parents-where-are-they-now/9/)
+![](/uploads/10.jpg)[_Image Credit_](http://americanupbeat.com/kids-of-famous-parents-where-are-they-now/9/)
 
 Whereas Clint Eastwood was known for being the ultimate badass during his heyday, his daughter has channeled that Eastwood swag into serious blonde bombshell territory.
 
