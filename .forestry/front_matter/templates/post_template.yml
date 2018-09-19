@@ -47,9 +47,9 @@ fields:
   name: weight
   description: place for page number
 pages:
-- content/post/Celeb-Kids-27.-Lucy-DeVito-–-Danny-DeVito-&-Rhea-Perlman.md
-- content/post/Celeb-Kids-26.-Joseph-Baena-–-Arnold-Schwarzenegger.md
 - content/post/Celeb-Kids-25.-Jack-Scott-Ramsay-–-Gordon-Ramsay.md
+- content/post/Celeb-Kids-26.-Joseph-Baena-–-Arnold-Schwarzenegger.md
+- content/post/Celeb-Kids-27.-Lucy-DeVito-–-Danny-DeVito-&-Rhea-Perlman.md
 - content/post/Celeb-Kids-24.-Haley-Hasselhoff-–-David-Hasselhoff.md
 - content/post/Celeb-Kids-23.-Dylan-Penn-–-Sean-Penn-&-Robin-Wright.md
 - content/post/Celeb-Kids-22.-Dominik-Cristina-Garcia-Lorido-–-Andy-Garcia.md
