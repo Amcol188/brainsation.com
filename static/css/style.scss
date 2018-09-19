@@ -27,6 +27,10 @@ h3, .h3 {
     font-size: 16px;
     font-weight: 700;
 }
+h5, .h5 {
+  font-size: 8px;
+  margin-bottom: 10px;
+}
 
 a {
     color: #222;
@@ -130,7 +134,7 @@ header{
 	.icon-bar + .icon-bar{
 		margin-top: 0;
 	}
-	
+
 }
 body.show-menu{
 	.navbar-toggler .icon-bar:nth-child(1) {
@@ -311,7 +315,7 @@ img.ico-arrow{
 .content-block{
 	max-width: 792px;
 }
-.post-entry{ 
+.post-entry{
 	.image {
 		// background: url(http://brainsation.com/wp-content/uploads/2018/07/h-300x158.jpg) no-repeat 50% 50% / cover;
 	    display: block;
@@ -349,7 +353,7 @@ img.ico-arrow{
 
 
 .owl-carousel.owl-posts{
-	.post-large{ 
+	.post-large{
 		padding: 10px 33px;
 	}
 	.owl-nav button{
@@ -538,4 +542,3 @@ article.article{
 	    border-color: #0074C7;
 	}
 }
-
