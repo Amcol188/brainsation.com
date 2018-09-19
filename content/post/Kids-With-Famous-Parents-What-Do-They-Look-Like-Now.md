@@ -67,6 +67,8 @@ Up next we’ve got the daughter of the hilarious Mr. Bean…
 
 ## 2. Lily Atkinson – Rowan Atkinson
 
+![](/uploads/1-1.jpg)
+
 Image Credit
 
 Lily Atkinson is the daughter of the legendary British actor, comedian, and writer Rowan Atkinson and his wife, Sunetra Sastry.
