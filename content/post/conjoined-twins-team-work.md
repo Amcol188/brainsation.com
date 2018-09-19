@@ -7,10 +7,12 @@ slug = ""
 specialpost = true
 tags = []
 thumbnailImage = ""
-title = "Conjoined Twins: Team Work"
+title = "5. Conjoined Twins: Team Work"
 weight = 5
 
 +++
+{{< ad_head >}}
+
 ### "We can't imagine our lives separately," said Brittany. "God made us just the way we are. We came into this world together, as a team, and we are just happy to have each other and our wonderful lives."
 
 {{< post_ad >}}

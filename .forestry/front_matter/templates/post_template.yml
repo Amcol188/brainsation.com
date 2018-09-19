@@ -47,6 +47,8 @@ fields:
   name: weight
   description: place for page number
 pages:
+- content/post/conjoined-twins-stun-fans-with-huge-announcement.md
+- content/post/conjoined-twins-romance.md
 - content/post/conjoined-twins-new-job.md
 - content/post/conjoined-twins-bethel-university.md
 - content/post/kfc-tunnel-lopez-leads-san-luis-police-to-an-abandoned-kfc.md
@@ -56,8 +58,6 @@ pages:
 - content/post/kfc-tunnel-the-secret-tunnel-was-an-underground-drug-highway.md
 - content/post/kfc-tunnel-the-hole-in-the-tile-was-only-eight-inches-in-diameter.md
 - content/post/agents-were-shocked-at-what-they-found-in-this-abandoned-kfc.md
-- content/post/conjoined-twins-romance.md
-- content/post/conjoined-twins-stun-fans-with-huge-announcement.md
 - content/post/conjoined-twins-love-lives.md
 - content/post/conjoined-twins-shared-experiences.md
 - content/post/conjoined-twins-trouble-at-the-work.md
