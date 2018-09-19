@@ -51,7 +51,7 @@ So, without further ado, here’s our list of 25 kids with famous parents and wh
 
 Image Credit
 
-Marcus Jordan – Michael Jordan
+1. Marcus Jordan – Michael Jordan
 
 Did you know that the son of NBA legend and arguably the best basketball player of all time also shoots hoops?
 
