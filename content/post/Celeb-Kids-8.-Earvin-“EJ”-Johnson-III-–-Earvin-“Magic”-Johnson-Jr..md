@@ -1,10 +1,10 @@
 +++
-categories = []
+categories = ["CelebKids"]
 date = "2018-09-19T00:45:09-04:00"
 description = ""
 haspagination = true
 specialpost = true
-tags = ["CelebKids"]
+tags = []
 thumbnailImage = ""
 title = "Celeb Kids: 8. Earvin “EJ” Johnson III – Earvin “Magic” Johnson Jr."
 weight = 9
