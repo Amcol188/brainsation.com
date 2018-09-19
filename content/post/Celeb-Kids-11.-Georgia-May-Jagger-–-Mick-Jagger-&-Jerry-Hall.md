@@ -2,7 +2,6 @@
 categories = ["CelebKids"]
 date = "2018-09-19T00:58:36-04:00"
 description = ""
-draft = true
 haspagination = true
 specialpost = true
 tags = []
@@ -13,8 +12,7 @@ weight = 12
 +++
 {{< ad_head >}}
 
-![](/uploads/11.jpg)
-##### [_Image Credit_](http://americanupbeat.com/kids-of-famous-parents-where-are-they-now/11/)
+![](/uploads/11.jpg)[_Image Credit_](http://americanupbeat.com/kids-of-famous-parents-where-are-they-now/11/)
 
 Although Jerry Hall was one of the most successful models of the 1970s, it was her marriage to Mick Jagger that catapulted her into the upper echelons of fame and fortune.
 
