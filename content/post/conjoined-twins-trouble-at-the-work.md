@@ -7,11 +7,11 @@ slug = ""
 specialpost = true
 tags = []
 thumbnailImage = ""
-title = "Conjoined Twins: Trouble At The Work"
+title = "8. Conjoined Twins: Trouble At The Work"
 weight = 8
 
 +++
-{{< post_ad >}}
+{{< ad_head >}}
 
 ### "People are not always so nice," said Abby. "Human beings, by their very nature, are curious. So it's understandable when people stare or ask to have their picture taken with us. That's fine for the most part."
 

@@ -7,11 +7,11 @@ slug = ""
 specialpost = true
 tags = []
 thumbnailImage = ""
-title = "Conjoined Twins: Romance"
+title = "9. Conjoined Twins: Romance"
 weight = 9
 
 +++
-{{< post_ad >}}
+{{< ad_head >}}
 
 ### Though both have expressed a desire to one day get married and have children, they have been reluctant to discuss this issue publicly.
 

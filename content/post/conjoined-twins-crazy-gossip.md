@@ -7,11 +7,11 @@ slug = ""
 specialpost = true
 tags = []
 thumbnailImage = ""
-title = "Conjoined Twins: Crazy Gossip!"
+title = "10. Conjoined Twins: Crazy Gossip!"
 weight = 10
 
 +++
-{{< post_ad >}}
+{{< ad_head >}}
 
 ### "If we each had a quarter for every untrue thing written about us online, believe me, we wouldn't be doing the TLC show. We'd have already retired," Abby said, laughing.
 

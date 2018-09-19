@@ -7,13 +7,13 @@ slug = ""
 specialpost = true
 tags = []
 thumbnailImage = ""
-title = "Conjoined Twins: TLC"
+title = "2. Conjoined Twins: TLC"
 weight = 2
 
 +++
-Abby and Brittany have control of one arm and one leg each. They've had to overcome significant challenges in order to walk, swim, and even brush their hair.
+{{< ad_head >}}
 
-{{< post_ad >}}
+Abby and Brittany have control of one arm and one leg each. They've had to overcome significant challenges in order to walk, swim, and even brush their hair.
 
 [![](http://brainsation.com/wp-content/uploads/2018/07/c-20-1-1-1.jpg)](http://brainsation.com/wp-content/uploads/2018/07/c-20-1-1-1.jpg)
 

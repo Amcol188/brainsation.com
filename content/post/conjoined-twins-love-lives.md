@@ -7,10 +7,12 @@ slug = ""
 specialpost = true
 tags = []
 thumbnailImage = ""
-title = "Conjoined Twins: Love Lives"
+title = "11. Conjoined Twins: Love Lives"
 weight = 11
 
 +++
+{{< ad_head >}}
+
 ### The Hensel twins have always been notoriously coy about discussing details of their love lives with the public. However, Brittany did share one detail recently that ruffled her sister Abby's feathers.
 
 "Let's just say that we've both had our fair share of kisses over the years," said Brittany. "There's no need to fight over something there's plenty of in the first place."

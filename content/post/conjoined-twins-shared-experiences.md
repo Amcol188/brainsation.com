@@ -7,11 +7,11 @@ slug = ""
 specialpost = true
 tags = []
 thumbnailImage = ""
-title = "Conjoined Twins: Shared Experiences"
+title = "6. Conjoined Twins: Shared Experiences"
 weight = 6
 
 +++
-{{< post_ad >}}
+{{< ad_head >}}
 
 ### For obvious reasons, Abby and Brittany Hensel have had to live as a team. Each girl controls one half of their body, so even the simple act of walking has to be coordinated.
 

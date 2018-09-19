@@ -11,7 +11,7 @@ title = "Conjoined Twins Stun Fans With Huge Announcement"
 weight = 1
 
 +++
-![](/uploads/Abby-and-Brittany.png){{< post_ad >}}
+![](/uploads/Abby-and-Brittany.png){{< ad_head >}}
 
 ### "Of course we've thought about this long and hard," said Abby Hensel. "We've prayed about it and we're confident that this is the right decision for us." Her sister Brittany added, "You only live once and we just feel like it's time."
 
