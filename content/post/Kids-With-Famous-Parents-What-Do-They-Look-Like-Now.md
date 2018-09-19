@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["CelebKids"]
 date = "2018-09-18T23:30:35-04:00"
 description = ""
 haspagination = true
