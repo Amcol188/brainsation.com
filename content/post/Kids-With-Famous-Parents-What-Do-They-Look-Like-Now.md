@@ -11,6 +11,8 @@ title = "Kids With Famous Parents: What Do They Look Like Now?"
 weight = ""
 
 +++
+![](/uploads/3-1.jpg)
+
 [_Image Credit_](https://goo.gl/images/XiDgfG)
 
 “Mom’s light was like a blazing sun,” said singer Liza Minelli of her mother, Judy Garland. “And that made standing in her shadow quite cold. Imagine trying to sing and dance in that darkness.”
@@ -27,6 +29,8 @@ There would be galas galore, fancy vacations, and easy access to your celebrity 
 
 But according to Willow Smith, the 17-year-old daughter of Will and Jada, growing up in the public eye was “absolutely terrible.”
 
+![](/uploads/2-1.jpg)
+
 [_Image Credit_](https://goo.gl/images/JjVB9K)
 
 In a recent interview with Girlgaze, Willow opened up about what it was like to spend her teenage years in the spotlight and she didn’t hold back.
@@ -38,6 +42,8 @@ Of course, it goes without saying that people are fascinated with the lives of c
 “Just because a child grows up in the limelight, it doesn’t mean they want to be famous,” said Sandy. “In fact, it’s just as common to have the children resent the intrusions into their privacy. They just want to be normal sometimes.”
 
 And as an homage to this “quest for normalcy,” we’ve compiled a list of 25 celebrity children and caught up with what they’re doing now. After scouring the internet, culling the best gossip blogs, and pouring over the Google image archives, we’ve put together a list that omits the most famous kids.
+
+![](/uploads/1-1.jpg)
 
 [_Image Credit_](https://goo.gl/images/upuq12)
 
@@ -139,7 +145,7 @@ Trust us when we say she’s drop dead gorgeous…
 
 ## 6. Ava Sambora – Richie Sambora & Heather Locklear
 
-Image Credit
+![](/uploads/6.jpg)[_Image Credit_](http://americanupbeat.com/kids-of-famous-parents-where-are-they-now/6/)
 
 Bon Jovi’s guitarist Richie Sambora struck glittering gold when he managed to snag Heather Locklear.
 
