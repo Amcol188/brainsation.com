@@ -161,7 +161,7 @@ Up next we’ve got the late Crocodile Hunter and his conservationist daughter, 
 
 ## 7. Bindi Irwin – Steve Irwin
 
-Image Credit
+![](/uploads/7.jpg)[_Image Credit_](http://americanupbeat.com/kids-of-famous-parents-where-are-they-now/7/)
 
 Although Steve Irwin shuffled off this mortal coil much too soon, he managed to leave a lasting mark on this world, with his gorgeous daughter intent on following in his footsteps.
 
@@ -177,7 +177,7 @@ And next we’ve got the fabulous son of basketball legend Earvin “Magic” Jo
 
 ## 8. Earvin “EJ” Johnson III – Earvin “Magic” Johnson Jr.
 
-Image Credit
+_![](/uploads/8.jpg)_[_Image Credit_](http://americanupbeat.com/kids-of-famous-parents-where-are-they-now/8/)
 
 “We are talking about people who are not afraid to live their truth,” Earvin said at a Beautycon interview. “That is what beauty is all about, because it’s in the eye of the beholder, honey.”
 
@@ -195,6 +195,8 @@ Image Credit
 
 ## 9. Francesca Eastwood – Clint Eastwood
 
+_![](/uploads/9.jpg)_[_Image Credit_](http://americanupbeat.com/kids-of-famous-parents-where-are-they-now/9/)
+
 Whereas Clint Eastwood was known for being the ultimate badass during his heyday, his daughter has channeled that Eastwood swag into serious blonde bombshell territory.
 
 The 23-year-old model and actress, who has done a fair amount of both, seems to be focused on being a socialite these days.
@@ -207,9 +209,9 @@ During one episode, Francesca and her boyfriend Tyler Shields were filmed destro
 
 Up next we’ve got the quintessential 90s grunge rocker and his artist daughter…
 
-Image Credit
-
 ## 10. Frances Bean Cobain – Kurt Cobain & Courtney Love
+
+_![](/uploads/10.jpg)_[_Image Credit_](http://americanupbeat.com/kids-of-famous-parents-where-are-they-now/10/)
 
 Frances Bean Cobain spent much of her childhood being raised by different people.
 
@@ -227,9 +229,9 @@ Frances, who has also appeared in various fashion magazines over the years, is w
 
 Up next we’ve got the daughter of legendary rocker Mick Jagger and Jerry Hall…
 
-Image Credit
-
 ## 11. Georgia May Jagger – Mick Jagger & Jerry Hall
+
+_![](/uploads/11.jpg)_[_Image Credit_](http://americanupbeat.com/kids-of-famous-parents-where-are-they-now/11/)
 
 Although Jerry Hall was one of the most successful models of the 1970s, it was her marriage to Mick Jagger that catapulted her into the upper echelons of fame and fortune.
 
@@ -241,9 +243,9 @@ Having been signed by Independent Models at age 16, Georgia May has appeared in 
 
 Click next to checkout “The Rock” and his daughter, Simone Alexandra…
 
-Image Credit
-
 ## 12. Simone Alexandra Johnson – Dwayne “The Rock” Johnson
+
+_![](/uploads/rock.jpg)_[_Image Credit_](http://americanupbeat.com/kids-of-famous-parents-where-are-they-now/12/)
 
 Simone Alexandra Johnson is the daughter of wrestler-turned-actor Dwayne “The Rock” Johnson. Although she can often be seen with her father attending award shows, Simone likes to keep a low profile.
 
@@ -256,8 +258,6 @@ Simone is fairly popular on social media and her Instagram account boasts more t
 She made headlines recently when she was signed by IMG Models, an international leader in talent acquisition and model management.
 
 And next we’ve got one of the best looking men to ever grace the silver screen and his equally handsome son…
-
-Image Credit
 
 ## 13. John Lowe – Rob Lowe
 
