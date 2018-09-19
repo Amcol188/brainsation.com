@@ -6,11 +6,11 @@ haspagination = true
 specialpost = true
 tags = []
 thumbnailImage = ""
-title = "Conjoined Twins: Differences"
+title = "4. Conjoined Twins: Differences"
 weight = 4
 
 +++
-{{< post_ad >}}
+{{< ad_head >}}
 
 ### "We definitely have different styles," says Abby. "Brittany's a lot more into neutrals and pearls, stuff like that. But I would rather have it be more fun and bright and colorful!"
 
