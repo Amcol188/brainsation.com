@@ -11,7 +11,7 @@ title = "Kids With Famous Parents: What Do They Look Like Now?"
 weight = ""
 
 +++
-Image Credit
+[_Image Credit_](https://goo.gl/images/XiDgfG)
 
 “Mom’s light was like a blazing sun,” said singer Liza Minelli of her mother, Judy Garland. “And that made standing in her shadow quite cold. Imagine trying to sing and dance in that darkness.”
 
@@ -27,7 +27,7 @@ There would be galas galore, fancy vacations, and easy access to your celebrity 
 
 But according to Willow Smith, the 17-year-old daughter of Will and Jada, growing up in the public eye was “absolutely terrible.”
 
-Image Credit
+[_Image Credit_](https://goo.gl/images/JjVB9K)
 
 In a recent interview with Girlgaze, Willow opened up about what it was like to spend her teenage years in the spotlight and she didn’t hold back.
 
@@ -39,7 +39,7 @@ Of course, it goes without saying that people are fascinated with the lives of c
 
 And as an homage to this “quest for normalcy,” we’ve compiled a list of 25 celebrity children and caught up with what they’re doing now. After scouring the internet, culling the best gossip blogs, and pouring over the Google image archives, we’ve put together a list that omits the most famous kids.
 
-Image Credit
+[_Image Credit_](https://goo.gl/images/upuq12)
 
 So if you’re looking for juicy details on ultra-famous offspring like Bryce Dallas Howard, Carrie Fisher, or Angelina Jolie, you’ve come to the wrong place.
 
@@ -51,7 +51,7 @@ So, without further ado, here’s our list of 25 kids with famous parents and wh
 
 ## 1. **Marcus Jordan – Michael Jordan**
 
-[![](http://brainsation.com/wp-content/uploads/2018/09/1.jpg =600x400)](http://brainsation.com/wp-content/uploads/2018/09/1.jpg)[_Image Credit_](http://americanupbeat.com/kids-of-famous-parents-where-are-they-now/)
+![](http://brainsation.com/wp-content/uploads/2018/09/1.jpg =600x400)[_Image Credit_](http://americanupbeat.com/kids-of-famous-parents-where-are-they-now/)
 
 Did you know that the son of NBA legend and arguably the best basketball player of all time also shoots hoops?
 
@@ -67,9 +67,7 @@ Up next we’ve got the daughter of the hilarious Mr. Bean…
 
 ## 2. Lily Atkinson – Rowan Atkinson
 
-![](/uploads/1-1.jpg)
-
-Image Credit
+![](/uploads/2.jpg)[_Image Credit_](http://americanupbeat.com/kids-of-famous-parents-where-are-they-now/2/)
 
 Lily Atkinson is the daughter of the legendary British actor, comedian, and writer Rowan Atkinson and his wife, Sunetra Sastry.
 
@@ -85,7 +83,9 @@ Up next we’ve got Reese Witherspoon’s doppleganger daughter, Ava…
 
 ## 3. Ava Phillippe – Reese Witherspoon
 
-Image Credit
+![](/uploads/3.jpg)
+
+[_Image Credit_](http://americanupbeat.com/kids-of-famous-parents-where-are-they-now/3/)
 
 No, you’re not looking at two photos of Reese Witherspoon!
 
@@ -99,13 +99,15 @@ And just recently, she starred in the lookbook for Rodarte’s 2018 Fall collect
 
 Despite her preference for privacy and a low profile, it’s obvious Ava was born to be Hollywood royalty.
 
-“When people dream of being famous, they don’t really understand what they’re wishing for,” said Ava. “It’s like what foreigners think about the United States before they move here. The thing itself and the idea of the thing are too completely different animals.”
+> “When people dream of being famous, they don’t really understand what they’re wishing for,” said Ava. “It’s like what foreigners think about the United States before they move here. The thing itself and the idea of the thing are too completely different animals.”
 
 Up next we’ve got Billy Joel’s daughter, Alexa Ray…
 
 ## 4. Alexa Ray Joel – Billy Joel & Christie Brinkley
 
-Image Credit
+![](/uploads/4-1.jpg)
+
+[_Image Credit_](http://americanupbeat.com/kids-of-famous-parents-where-are-they-now/4/)
 
 Born to Billy Joel and Christie Brinkley, it’s no wonder that Alexa Ray Joel has grown into an extremely beautiful woman.
 
@@ -121,7 +123,7 @@ Up next is Alexandra Hoffman and her famous daddy, Dustin…
 
 ## 5. Alexandra Hoffman – Dustin Hoffman
 
-Image Credit
+![](/uploads/5-1.jpg)[_Image Credit_](http://americanupbeat.com/kids-of-famous-parents-where-are-they-now/5/)
 
 “My daughter is the smartest person I know,” said the iconic actor. “When I don’t know something, that’s who I call.”
 
