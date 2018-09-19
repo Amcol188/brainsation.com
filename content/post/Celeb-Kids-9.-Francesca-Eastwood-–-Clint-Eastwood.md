@@ -2,7 +2,6 @@
 categories = ["CelebKids"]
 date = "2018-09-19T01:03:35-04:00"
 description = ""
-draft = true
 haspagination = true
 specialpost = true
 tags = []
