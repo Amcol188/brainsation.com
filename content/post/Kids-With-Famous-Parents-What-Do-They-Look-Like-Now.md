@@ -261,6 +261,8 @@ And next we’ve got one of the best looking men to ever grace the silver screen
 
 ## 13. John Lowe – Rob Lowe
 
+_![](/uploads/lowe.jpg)_[_Image Credit_](http://americanupbeat.com/kids-of-famous-parents-where-are-they-now/13/)
+
 At 53, Rob Lowe is old enough to be his son John’s grandfather, and yet, the handsome duo can frequently be seen working out together.
 
 “There comes a time in everybody’s life when they have to set off and make a name for themselves,” the 21-year-old recently told Ellen Degeneres.
@@ -277,9 +279,9 @@ Following his debut on The Grinder, John confirmed to the Sioux City Journal tha
 
 And next we’ve got a pair of gorgeous and talented redheads…
 
-Image Credit
-
 ## 14. Liv Freundlich – Julianne Moore
+
+_![](/uploads/12.jpg)_[_Image Credit_](http://americanupbeat.com/kids-of-famous-parents-where-are-they-now/14/)
 
 Julianne Moore continues to age gracefully as she approaches her late fifties, but despite the actress’ age, she could easily be mistaken for her daughter’s sister.
 
@@ -293,9 +295,9 @@ And for her part, Julianne is a hands-on mom, telling the Daily Telegraph that h
 
 And next we’ve got Brian Cranston’s daughter, Taylor…
 
-Image Credit
-
 ## 15. Taylor Dearden – Bryan Cranston
+
+_![](/uploads/13.jpg)_[_Image Credit_](http://americanupbeat.com/kids-of-famous-parents-where-are-they-now/15/)
 
 The daughter of Breaking Bad star Bryan Cranston normally goes by her stage name, Taylor Dearden.
 
@@ -313,9 +315,9 @@ Click next to checkout a Fifty Shades of Grey star and her three famous parents.
 
 Yep, there’s three of ’em…
 
-Image Credit
-
 ## 16. Dakota Johnson – Don Johnson & Melanie Griffith
+
+_![](/uploads/14.jpg)_[_Image Credit_](http://americanupbeat.com/kids-of-famous-parents-where-are-they-now/16/)
 
 You know, there was once a time when Dakota Johnson was simply known as the daughter of Melanie Griffith and Don Johnson. These days, however, she’s just as famous as her parents, if not even more so.
 
@@ -329,9 +331,9 @@ Remember rocker Lenny Kravitz and Cosby Show alum Lisa Bonet?
 
 Well, their daughter is all grown up and doing some pretty big things…
 
-Image Credit
-
 ## 17. Zoë Kravitz – Lenny Kravitz & Lisa Bonet
+
+_![](/uploads/15.jpg)_[_Image Credit_](http://americanupbeat.com/kids-of-famous-parents-where-are-they-now/17/)
 
 There’s no denying that Zoë won the genetic lottery with both of her startlingly good-looking parents. Having grown up to become a sought-after actress, she’s been burning up the silver screen in movies like X-Men: First Class and Mad Max: Fury Road.
 
@@ -345,9 +347,9 @@ The band has toured with Lily Allen, Miley Cyrus, and other big name acts.
 
 Up next it’s Sly Stallone and his model daughter, Sistine…
 
-Image Credit
-
 ## 18. Sistine Stallone – Sylvester Stallone
+
+_![](/uploads/16-1.jpg)_[_Image Credit_](http://americanupbeat.com/kids-of-famous-parents-where-are-they-now/18/)
 
 Sistine Stallone, Sylvester Stallone’s middle child, has managed to carve out a burgeoning modeling career for herself after signing with IMG.
 
@@ -361,9 +363,9 @@ And next we’ve got Kevin Bacon and Kyra Sedgwick’s daughter, Sosie.
 
 They tried their best to keep her sheltered and out of the limelight, but…
 
-Image Credit
-
 ## 19. Sosie Bacon – Kevin Bacon & Kyra Sedgwick
+
+_![](/uploads/17.jpg)_[_Image Credit_](http://americanupbeat.com/kids-of-famous-parents-where-are-they-now/19/)
 
 Kevin Bacon and Kyra Sedgwick tried their best to keep their daughter Sosie far away from the flashing lights of Hollywood while she was growing up.
 
@@ -377,9 +379,9 @@ Sosie also portrayed the character of Skye Miller in the TV series 13 Reasons Wh
 
 And next we’ve got Jude Law and his handsome son, Rafferty…
 
-Image Credit
-
 ## 20. Rafferty Law – Jude Law
+
+_![](/uploads/18.jpg)_[_Image Credit_](http://americanupbeat.com/kids-of-famous-parents-where-are-they-now/20/)
 
 Rafferty Law definitely has a lot to thank his father for when it comes to his looks, which the 20-year-old has used to kick-start a career as a singer and model.
 
@@ -395,9 +397,9 @@ According to the younger Law, he grew up listening to the Beatles, Nirvana, and 
 
 And next we’ve got two of the most famous people on the planet and their passionately private son, Connor…
 
-Image Credit
-
 ## 21. Connor Cruise – Tom Cruise & Nicole Kidman
+
+_![](/uploads/19.jpg)_[_Image Credit_](http://americanupbeat.com/kids-of-famous-parents-where-are-they-now/21/)
 
 They were the prototypical power couple of the 1990s.
 
@@ -411,9 +413,9 @@ His father, long a prominent member, has been renovating a penthouse nearby to b
 
 And next, here’s Andy Garcia’s daughter Dominik…
 
-Image Credit
-
 ## 22. Dominik Cristina Garcia-Lorido – Andy Garcia
+
+_![](/uploads/20.jpg)_[_Image Credit_](http://americanupbeat.com/kids-of-famous-parents-where-are-they-now/22/)
 
 The eldest of Andy Garcia’s four children, Dominik dreamt of being a dancer when she was a little girl. These days, however, she has been focusing on getting her acting career off the ground.
 
@@ -427,9 +429,9 @@ Wild Card was a box office bomb, making only $6.7 million internationally agains
 
 And next we’ve got Sean Penn’s daughter, Dylan…
 
-Image Credit
-
 ## 23. Dylan Penn – Sean Penn & Robin Wright
+
+_![](/uploads/21.jpg)_[_Image Credit_](http://americanupbeat.com/kids-of-famous-parents-where-are-they-now/23/)
 
 The daughter of Sean Penn and Robin Wright has created a successful modeling career, but not before going through a few hardships.
 
@@ -447,9 +449,9 @@ Uh, moving right along…
 
 Next we’ve got “The Hoff” and his daughter Haley…
 
-Image Credit
-
 ## 24. Haley Hasselhoff – David Hasselhoff
+
+_![](/uploads/22.jpg)_[_Image Credit_](http://americanupbeat.com/kids-of-famous-parents-where-are-they-now/25/)
 
 David Hasselhoff and Pamela Bach’s 7-year marriage resulted in two children, one of which was Hayley.
 
@@ -463,9 +465,9 @@ At one point, she was signed with Wilhelmina Models and as of 2014, works exclus
 
 Up next we’ve got the Hell’s Kitchen devil himself and his son, Jack…
 
-Image Credit
-
 ## 25. Jack Scott Ramsay – Gordon Ramsay
+
+_![](/uploads/23.jpg)_[_Image Credit_](http://americanupbeat.com/kids-of-famous-parents-where-are-they-now/26/)
 
 Known for his brutal, yet incredibly entertaining honesty, Gordon Ramsay has a slew of successful restaurants in the United Kingdom, several popular television shows, and “a mouth like a \[expletive\] sailor.”
 
@@ -483,9 +485,9 @@ Jack, age 17, who’s off to attend university early next year, better study har
 
 And next we’ve got the the Terminator’s illegitimate son, Joseph Baena…
 
-Image Credit
-
 ## 26. Joseph Baena – Arnold Schwarzenegger
+
+_![](/uploads/24.jpg)_[_Image Credit_](http://americanupbeat.com/kids-of-famous-parents-where-are-they-now/28/)
 
 Joseph Baena, the result of Arnold Schwarzenegger’s affair with his housekeeper Mildred Baena, was kept in the dark for many years.
 
@@ -499,9 +501,9 @@ Schwarzenegger says it took seven or eight years before he found out that he had
 
 And last but not least, we’ve got the daughter of Danny DeVito and Rhea Perlman…
 
-Image Credit
-
 ## 27. Lucy DeVito – Danny DeVito & Rhea Perlman
+
+_![](/uploads/25-1.jpg)_[_Image Credit_](http://americanupbeat.com/kids-of-famous-parents-where-are-they-now/29/)
 
 As is expected with most celebrity kids, DeVito and Perlman’s daughter Lucy followed her parents’ footsteps.
 
