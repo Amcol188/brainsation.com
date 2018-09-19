@@ -1,13 +1,13 @@
 +++
-categories = []
+categories = ["CelebKids"]
 date = "2018-09-19T00:58:27-04:00"
 description = ""
-haspagination = false
-specialpost = false
+haspagination = true
+specialpost = true
 tags = []
 thumbnailImage = ""
 title = "Celeb Kids: 10. Frances Bean Cobain – Kurt Cobain & Courtney Love"
-weight = ""
+weight = 11
 
 +++
 {{< ad_head >}}
