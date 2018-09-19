@@ -6,11 +6,11 @@ haspagination = true
 specialpost = true
 tags = []
 thumbnailImage = ""
-title = "Conjoined Twins: New Job"
+title = "7. Conjoined Twins: New Job"
 weight = 7
 
 +++
-{{< post_ad >}}
+{{< ad_head >}}
 
 ### The twins recently announced that they had found work as part-time elementary school teachers.
 
