@@ -2,12 +2,12 @@
 categories = []
 date = "2018-09-18T23:30:35-04:00"
 description = ""
-haspagination = false
+haspagination = true
 specialpost = false
 tags = []
 thumbnailImage = ""
 title = "Kids With Famous Parents: What Do They Look Like Now?"
-weight = ""
+weight = 1
 
 +++
 ![](/uploads/3-1.jpg)
