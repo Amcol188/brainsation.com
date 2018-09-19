@@ -6,25 +6,25 @@ haspagination = true
 specialpost = true
 tags = []
 thumbnailImage = ""
-title = "Celeb Kids: 19. Sosie Bacon – Kevin Bacon & Kyra Sedgwick"
-weight = 20
+title = "Celeb Kids: 22. Dominik Cristina Garcia-Lorido – Andy Garcia"
+weight = 23
 
 +++
 {{< ad_head >}}
 
-![](/uploads/17.jpg)
-##### [_Image Credit_](http://americanupbeat.com/kids-of-famous-parents-where-are-they-now/19/)
+![](/uploads/20.jpg)
+##### [_Image Credit_](http://americanupbeat.com/kids-of-famous-parents-where-are-they-now/22/)
 
-Kevin Bacon and Kyra Sedgwick tried their best to keep their daughter Sosie far away from the flashing lights of Hollywood while she was growing up.
+The eldest of Andy Garcia’s four children, Dominik dreamt of being a dancer when she was a little girl. These days, however, she has been focusing on getting her acting career off the ground.
 
-“We just know how hard this industry is,” said Kevin Bacon. “And we didn’t want her to get caught up in all the crazy stuff that goes on.”
+Unfortunately, though, she hasn’t been that successful.
 
-However, it seems like the proverbial apple didn’t fall very far from the tree.
+Dominik most recently appeared in the Simon West-directed 2015 thriller Wild Card. Starring alongside Jason Statham and Michael Angarano, Dominik’s performance was not well received.
 
-Although her parents were initially opposed to her pursing an acting career, Sosie accepted a role in The Closer and appeared in four episodes alongside her mother, who played the role of Chief Johnson.
+“Andy Garcia’s daughter was absolutely terrible,” said film critic Stephen Jameson. “There were times when it seemed like she was reading her lines off of a cue card. Her raunchy moves as Holly, the prostitute, were believable.”
 
-Sosie also portrayed the character of Skye Miller in the TV series 13 Reasons Why.
+Wild Card was a box office bomb, making only $6.7 million internationally against a $30 million budget.
 
-And next we’ve got Jude Law and his handsome son, Rafferty…
+And next we’ve got Sean Penn’s daughter, Dylan…
 
 {{< ad_atn >}}
