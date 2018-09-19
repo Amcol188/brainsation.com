@@ -51,7 +51,7 @@ So, without further ado, here’s our list of 25 kids with famous parents and wh
 
 ## 1. **Marcus Jordan – Michael Jordan**
 
-Image Credit
+[![](http://brainsation.com/wp-content/uploads/2018/09/1.jpg =600x400)](http://brainsation.com/wp-content/uploads/2018/09/1.jpg)[_Image Credit_](http://americanupbeat.com/kids-of-famous-parents-where-are-they-now/)
 
 Did you know that the son of NBA legend and arguably the best basketball player of all time also shoots hoops?
 
@@ -117,7 +117,7 @@ And while her parents divorced when she was just 8 years old, Joel said she neve
 
 Up next is Alexandra Hoffman and her famous daddy, Dustin…
 
-##  5. Alexandra Hoffman – Dustin Hoffman
+## 5. Alexandra Hoffman – Dustin Hoffman
 
 Image Credit
 
@@ -133,7 +133,7 @@ Can you imagine what Richie Sambora and Heather Locklear’s daughter Ava looks 
 
 Trust us when we say she’s drop dead gorgeous…
 
-##  6. Ava Sambora – Richie Sambora & Heather Locklear
+## 6. Ava Sambora – Richie Sambora & Heather Locklear
 
 Image Credit
 
@@ -149,7 +149,7 @@ And her modeling career, which has included stints with Tommy Hilfiger and Guess
 
 Up next we’ve got the late Crocodile Hunter and his conservationist daughter, Bindi Irwin…
 
-##  7. Bindi Irwin – Steve Irwin
+## 7. Bindi Irwin – Steve Irwin
 
 Image Credit
 
@@ -165,7 +165,7 @@ She is also known for winning season 21 of Dancing with the Stars.
 
 And next we’ve got the fabulous son of basketball legend Earvin “Magic” Johnson…
 
-##  8. Earvin “EJ” Johnson III – Earvin “Magic” Johnson Jr.
+## 8. Earvin “EJ” Johnson III – Earvin “Magic” Johnson Jr.
 
 Image Credit
 
@@ -183,7 +183,7 @@ And next we’ve got Clint Eastwood and his smoking hot daughter Francesca…
 
 Image Credit
 
-##  9. Francesca Eastwood – Clint Eastwood
+## 9. Francesca Eastwood – Clint Eastwood
 
 Whereas Clint Eastwood was known for being the ultimate badass during his heyday, his daughter has channeled that Eastwood swag into serious blonde bombshell territory.
 
@@ -199,7 +199,7 @@ Up next we’ve got the quintessential 90s grunge rocker and his artist daughter
 
 Image Credit
 
-##  10. Frances Bean Cobain – Kurt Cobain & Courtney Love
+## 10. Frances Bean Cobain – Kurt Cobain & Courtney Love
 
 Frances Bean Cobain spent much of her childhood being raised by different people.
 
@@ -219,7 +219,7 @@ Up next we’ve got the daughter of legendary rocker Mick Jagger and Jerry Hall�
 
 Image Credit
 
-##  11. Georgia May Jagger – Mick Jagger & Jerry Hall
+## 11. Georgia May Jagger – Mick Jagger & Jerry Hall
 
 Although Jerry Hall was one of the most successful models of the 1970s, it was her marriage to Mick Jagger that catapulted her into the upper echelons of fame and fortune.
 
@@ -233,7 +233,7 @@ Click next to checkout “The Rock” and his daughter, Simone Alexandra…
 
 Image Credit
 
-##  12. Simone Alexandra Johnson – Dwayne “The Rock” Johnson
+## 12. Simone Alexandra Johnson – Dwayne “The Rock” Johnson
 
 Simone Alexandra Johnson is the daughter of wrestler-turned-actor Dwayne “The Rock” Johnson. Although she can often be seen with her father attending award shows, Simone likes to keep a low profile.
 
@@ -249,7 +249,7 @@ And next we’ve got one of the best looking men to ever grace the silver screen
 
 Image Credit
 
-##  13. John Lowe – Rob Lowe
+## 13. John Lowe – Rob Lowe
 
 At 53, Rob Lowe is old enough to be his son John’s grandfather, and yet, the handsome duo can frequently be seen working out together.
 
@@ -269,7 +269,7 @@ And next we’ve got a pair of gorgeous and talented redheads…
 
 Image Credit
 
-##  14. Liv Freundlich – Julianne Moore
+## 14. Liv Freundlich – Julianne Moore
 
 Julianne Moore continues to age gracefully as she approaches her late fifties, but despite the actress’ age, she could easily be mistaken for her daughter’s sister.
 
@@ -285,7 +285,7 @@ And next we’ve got Brian Cranston’s daughter, Taylor…
 
 Image Credit
 
-##  15. Taylor Dearden – Bryan Cranston
+## 15. Taylor Dearden – Bryan Cranston
 
 The daughter of Breaking Bad star Bryan Cranston normally goes by her stage name, Taylor Dearden.
 
@@ -305,7 +305,7 @@ Yep, there’s three of ’em…
 
 Image Credit
 
-##  16. Dakota Johnson – Don Johnson & Melanie Griffith
+## 16. Dakota Johnson – Don Johnson & Melanie Griffith
 
 You know, there was once a time when Dakota Johnson was simply known as the daughter of Melanie Griffith and Don Johnson. These days, however, she’s just as famous as her parents, if not even more so.
 
@@ -321,7 +321,7 @@ Well, their daughter is all grown up and doing some pretty big things…
 
 Image Credit
 
-##  17. Zoë Kravitz – Lenny Kravitz & Lisa Bonet
+## 17. Zoë Kravitz – Lenny Kravitz & Lisa Bonet
 
 There’s no denying that Zoë won the genetic lottery with both of her startlingly good-looking parents. Having grown up to become a sought-after actress, she’s been burning up the silver screen in movies like X-Men: First Class and Mad Max: Fury Road.
 
@@ -337,7 +337,7 @@ Up next it’s Sly Stallone and his model daughter, Sistine…
 
 Image Credit
 
-##  18. Sistine Stallone – Sylvester Stallone
+## 18. Sistine Stallone – Sylvester Stallone
 
 Sistine Stallone, Sylvester Stallone’s middle child, has managed to carve out a burgeoning modeling career for herself after signing with IMG.
 
@@ -353,7 +353,7 @@ They tried their best to keep her sheltered and out of the limelight, but…
 
 Image Credit
 
-##  19. Sosie Bacon – Kevin Bacon & Kyra Sedgwick
+## 19. Sosie Bacon – Kevin Bacon & Kyra Sedgwick
 
 Kevin Bacon and Kyra Sedgwick tried their best to keep their daughter Sosie far away from the flashing lights of Hollywood while she was growing up.
 
@@ -369,7 +369,7 @@ And next we’ve got Jude Law and his handsome son, Rafferty…
 
 Image Credit
 
-##  20. Rafferty Law – Jude Law
+## 20. Rafferty Law – Jude Law
 
 Rafferty Law definitely has a lot to thank his father for when it comes to his looks, which the 20-year-old has used to kick-start a career as a singer and model.
 
@@ -387,7 +387,7 @@ And next we’ve got two of the most famous people on the planet and their passi
 
 Image Credit
 
-##  21. Connor Cruise – Tom Cruise & Nicole Kidman
+## 21. Connor Cruise – Tom Cruise & Nicole Kidman
 
 They were the prototypical power couple of the 1990s.
 
@@ -403,7 +403,7 @@ And next, here’s Andy Garcia’s daughter Dominik…
 
 Image Credit
 
-##  22. Dominik Cristina Garcia-Lorido – Andy Garcia
+## 22. Dominik Cristina Garcia-Lorido – Andy Garcia
 
 The eldest of Andy Garcia’s four children, Dominik dreamt of being a dancer when she was a little girl. These days, however, she has been focusing on getting her acting career off the ground.
 
@@ -419,7 +419,7 @@ And next we’ve got Sean Penn’s daughter, Dylan…
 
 Image Credit
 
-##  23. Dylan Penn – Sean Penn & Robin Wright
+## 23. Dylan Penn – Sean Penn & Robin Wright
 
 The daughter of Sean Penn and Robin Wright has created a successful modeling career, but not before going through a few hardships.
 
@@ -439,7 +439,7 @@ Next we’ve got “The Hoff” and his daughter Haley…
 
 Image Credit
 
-##  24. Haley Hasselhoff – David Hasselhoff
+## 24. Haley Hasselhoff – David Hasselhoff
 
 David Hasselhoff and Pamela Bach’s 7-year marriage resulted in two children, one of which was Hayley.
 
@@ -455,7 +455,7 @@ Up next we’ve got the Hell’s Kitchen devil himself and his son, Jack…
 
 Image Credit
 
-##  25. Jack Scott Ramsay – Gordon Ramsay
+## 25. Jack Scott Ramsay – Gordon Ramsay
 
 Known for his brutal, yet incredibly entertaining honesty, Gordon Ramsay has a slew of successful restaurants in the United Kingdom, several popular television shows, and “a mouth like a \[expletive\] sailor.”
 
@@ -475,7 +475,7 @@ And next we’ve got the the Terminator’s illegitimate son, Joseph Baena…
 
 Image Credit
 
-##  26. Joseph Baena – Arnold Schwarzenegger
+## 26. Joseph Baena – Arnold Schwarzenegger
 
 Joseph Baena, the result of Arnold Schwarzenegger’s affair with his housekeeper Mildred Baena, was kept in the dark for many years.
 
@@ -491,7 +491,7 @@ And last but not least, we’ve got the daughter of Danny DeVito and Rhea Perlma
 
 Image Credit
 
-##  27. Lucy DeVito – Danny DeVito & Rhea Perlman
+## 27. Lucy DeVito – Danny DeVito & Rhea Perlman
 
 As is expected with most celebrity kids, DeVito and Perlman’s daughter Lucy followed her parents’ footsteps.
 
