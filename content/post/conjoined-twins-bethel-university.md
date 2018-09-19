@@ -7,11 +7,11 @@ slug = ""
 specialpost = true
 tags = []
 thumbnailImage = ""
-title = "Conjoined Twins: Bethel University"
+title = "3. Conjoined Twins: Bethel University"
 weight = 3
 
 +++
-{{< post_ad >}}
+{{< ad_head >}}
 
 ### In 2008, Abby and Brittany began college at Bethel University, majoring in education. At first, the girls wanted to specialize in different fields, but upon learning about the additional coursework, they decided against it.
 
