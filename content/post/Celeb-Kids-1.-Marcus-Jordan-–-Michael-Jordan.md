@@ -12,8 +12,9 @@ weight = 2
 +++
 {{< ad_head >}}
 
-![](http://brainsation.com/wp-content/uploads/2018/09/1.jpg)
-##### [_Image Credit_](http://americanupbeat.com/kids-of-famous-parents-where-are-they-now/)
+![](/uploads/1.jpg)
+
+[_Image Credit_](http://americanupbeat.com/kids-of-famous-parents-where-are-they-now/)
 
 Did you know that the son of NBA legend and arguably the best basketball player of all time also shoots hoops?
 
