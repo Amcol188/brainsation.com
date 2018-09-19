@@ -5,7 +5,7 @@ description = ""
 haspagination = true
 specialpost = false
 tags = []
-thumbnailImage = ""
+thumbnailImage = "/uploads/16-1.jpg"
 title = "Kids With Famous Parents: What Do They Look Like Now?"
 weight = 1
 
