@@ -13,7 +13,7 @@ weight = 18
 {{< ad_head >}}
 
 ![](/uploads/15.jpg)
-[_Image Credit_](http://americanupbeat.com/kids-of-famous-parents-where-are-they-now/17/)
+##### [_Image Credit_](http://americanupbeat.com/kids-of-famous-parents-where-are-they-now/17/)
 
 There’s no denying that Zoë won the genetic lottery with both of her startlingly good-looking parents. Having grown up to become a sought-after actress, she’s been burning up the silver screen in movies like X-Men: First Class and Mad Max: Fury Road.
 
