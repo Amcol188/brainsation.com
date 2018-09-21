@@ -6,8 +6,8 @@ haspagination = true
 specialpost = true
 tags = []
 thumbnailImage = ""
-title = "Celeb Kids: 11. Georgia May Jagger – Mick Jagger & Jerry Hall"
-weight = 12
+title = "Celeb Kids: 22. Georgia May Jagger – Mick Jagger & Jerry Hall"
+weight = 23
 
 +++
 {{< ad_head >}}
@@ -19,9 +19,5 @@ Although Jerry Hall was one of the most successful models of the 1970s, it was h
 The couple’s daughter, Georgia May Jagger, seems to intent to follow in her mother’s Gucci-clad footsteps.
 
 Having been signed by Independent Models at age 16, Georgia May has appeared in dozens of campaigns for well-known brands, such as Miu Miu and Chanel.
-
-“I suppose I’m famous to some degree,” the 25-year-old told GQ. “But I’m really just a regular person who loves clothes.”
-
-Click next to checkout “The Rock” and his daughter, Simone Alexandra…
 
 {{< ad_atn >}}
