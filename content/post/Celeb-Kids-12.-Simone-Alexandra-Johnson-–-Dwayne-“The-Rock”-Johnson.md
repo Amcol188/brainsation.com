@@ -6,8 +6,8 @@ haspagination = true
 specialpost = true
 tags = []
 thumbnailImage = ""
-title = "Celeb Kids: 12. Simone Alexandra Johnson – Dwayne “The Rock” Johnson"
-weight = 13
+title = "Celeb Kids: 4. Simone Alexandra Johnson – Dwayne “The Rock” Johnson"
+weight = 5
 
 +++
 {{< ad_head >}}
