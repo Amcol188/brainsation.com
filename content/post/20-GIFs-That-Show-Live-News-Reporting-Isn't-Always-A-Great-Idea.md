@@ -11,11 +11,7 @@ title = "20 GIFs That Show Live News Reporting Isn't Always A Great Idea"
 weight = ""
 
 +++
-20 GIFs That Show Live News Reporting Isn’t Always A Great Idea – One Page
-
-![](http://amcolnew.wpengine.com/wp-content/uploads/2018/02/1iTIMmraWBJ1uaFG.gif =926x521)
-
-[Piximus](https://piximus.net/others/these-gifs-captured-the-most-hilarious-news-moments-ever)
+![](http://amcolnew.wpengine.com/wp-content/uploads/2018/02/1iTIMmraWBJ1uaFG.gif =926x521)[Piximus](https://piximus.net/others/these-gifs-captured-the-most-hilarious-news-moments-ever)
 
 TV reporters live glamorous lives and we’ve all envied them, just a little, when we’ve seen them reporting from a star-studded event and enjoying the limelight.  
   
@@ -25,8 +21,7 @@ That’s what happens in these 20 hilarious live TV moments. Something doesn’t
 
 ## The Surprise Of Her Life
 
-![](http://fb.americancolumn.com/wp-content/uploads/2018/02/Funny-reaction-on-live-tv.gif =836x471)  
-[Facts Empire](https://factsempire.com/20-funny-news-bloopers-gifs-will-entertain/funny-reaction-on-live-tv/)  
+![](http://fb.americancolumn.com/wp-content/uploads/2018/02/Funny-reaction-on-live-tv.gif =836x471)[Facts Empire](https://factsempire.com/20-funny-news-bloopers-gifs-will-entertain/funny-reaction-on-live-tv/)  
   
 We’re not sure what, exactly, was going on for this reporter, but whatever it was, it was clearly a huge surprise to find herself back on camera. Maybe she didn’t get the message that the commercial break was over? It’s a wonderful expression of her surprise though.
 
