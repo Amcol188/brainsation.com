@@ -6,7 +6,7 @@ draft = true
 haspagination = true
 specialpost = false
 tags = []
-thumbnailImage = ""
+thumbnailImage = "/uploads/o-NOVEMBER-NEWS-BLOOPER-facebook.jpg"
 title = "20 GIFs That Show Live News Reporting Isn't Always A Great Idea"
 weight = 1
 
