@@ -25,5 +25,3 @@ Of course, it goes without saying that people are fascinated with the lives of c
 ![](/uploads/1-1.jpg)[_Image Credit_](https://goo.gl/images/upuq12)
 
 So to help quench this curiosity, we’ve compiled a list of 25 celebrity children and caught up with what they’re doing now. After scouring the internet, culling the best gossip blogs, and pouring over the Google image archives, we’ve put together a list of some of the most famous kids on the planet.
-
-{{< ad_atn >}}
