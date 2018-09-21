@@ -3,12 +3,12 @@ categories = []
 date = "2018-09-21T16:06:19-04:00"
 description = ""
 draft = true
-haspagination = false
+haspagination = true
 specialpost = false
 tags = []
 thumbnailImage = ""
 title = "20 GIFs That Show Live News Reporting Isn't Always A Great Idea"
-weight = ""
+weight = 1
 
 +++
 ![](http://amcolnew.wpengine.com/wp-content/uploads/2018/02/1iTIMmraWBJ1uaFG.gif =926x521)[Piximus](https://piximus.net/others/these-gifs-captured-the-most-hilarious-news-moments-ever)
