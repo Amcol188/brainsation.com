@@ -12,14 +12,8 @@ weight = 2
 +++
 {{< ad_head >}}
 
-![](/uploads/1iTIMmraWBJ1uaFG-min-1.gif)
-
-[Piximus](https://piximus.net/others/these-gifs-captured-the-most-hilarious-news-moments-ever)
-
-TV reporters live glamorous lives and we’ve all envied them, just a little, when we’ve seen them reporting from a star-studded event and enjoying the limelight.
-
-What many of us haven’t considered is that live-reporting his its dark side too. Live means that you can’t redo a take or reshoot a scene. If things go wrong, the whole world is going to know it.
-
-That’s what happens in these 20 hilarious live TV moments. Something doesn’t go quite according to plan. Don’t worry, nobody got fired, but we imagine a few people were teased all the same. Enjoy.
+![](http://fb.americancolumn.com/wp-content/uploads/2018/02/Funny-reaction-on-live-tv.gif =836x471)[Facts Empire](https://factsempire.com/20-funny-news-bloopers-gifs-will-entertain/funny-reaction-on-live-tv/)  
+  
+We’re not sure what, exactly, was going on for this reporter, but whatever it was, it was clearly a huge surprise to find herself back on camera. Maybe she didn’t get the message that the commercial break was over? It’s a wonderful expression of her surprise though.
 
 {{< ad_atn >}}
