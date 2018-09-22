@@ -12,7 +12,7 @@ weight = 3
 +++
 {{< ad_head >}}
 
-![](/uploads/XinfjWE-min.gif)  
+![](/uploads/XinfjWE-min.gif =450x250)  
 [imgur](https://imgur.com/gallery/2oKVL)
 
 Very creative work by the guy who interrupts this reporter.  Seriously though, who happens to be walking around with that object and finds news cameras? Does this guy always have that object on him, just in case?
