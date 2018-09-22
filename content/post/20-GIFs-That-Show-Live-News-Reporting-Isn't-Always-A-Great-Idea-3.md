@@ -12,7 +12,7 @@ weight = 3
 +++
 {{< ad_head >}}
 
-![Image result for sexy news blooper gif](https://i.imgur.com/XinfjWE.gif=764x430)  
+![Image result for sexy news blooper gif](https://i.imgur.com/XinfjWE.gif)  
 [imgur](https://imgur.com/gallery/2oKVL)  
 
 Very creative work by the guy who interrupts this reporter.  Seriously though, who happens to be walking around with that object and finds news cameras? Does this guy always have that object on him, just in case?
