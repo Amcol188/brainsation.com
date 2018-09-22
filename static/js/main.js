@@ -48,5 +48,4 @@ $(function() {
     $('.bypost .category-page.active').next('.category-page').removeClass('category-page').addClass("btn-next").show().html("Next post");
     $('.bypost .category-page').remove();
     $( ".btn-next" ).clone().appendTo( ".next-page-btn" );
-		$( ".btn-next-top" ).clone().appendTo( ".next-page-btn-top" );
 });

@@ -569,20 +569,6 @@ article.article img {
     background-color: #0074C7;
     border-color: #0074C7; }
 
-
-.next-page-btn-top .btn-next{
-    font-size: 12px;
-    padding: 10px 8px;
-    width: 108px;
-}
-.next-page-btn-top .btn-next:before{
-    border-color: transparent transparent transparent #0174c7;
-}
-
-.next-page-btn-top{
-    margin-left: auto;
-}
-
 .next-page-btn .btn-next{
     font-size: 12px;
     padding: 10px 8px;
