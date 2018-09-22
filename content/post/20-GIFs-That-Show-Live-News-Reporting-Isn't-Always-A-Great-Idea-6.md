@@ -12,7 +12,7 @@ weight = 6
 +++
 {{< ad_head >}}
 
-![Image result for sexy news blooper gif](http://s.orzzzz.com/news/9f/67/560266b7863ef.gif =774x465)  
+![](/uploads/560266b7863ef-min.gif) 
 [orzzzz](http://orzzzz.com/tag/Spider_Man)  
 
 This Weathergirl gets excited and starts doing some jumping jacks, and letting it all hang out for the viewers at home.
