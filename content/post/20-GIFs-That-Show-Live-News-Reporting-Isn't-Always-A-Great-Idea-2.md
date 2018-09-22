@@ -3,11 +3,11 @@ categories = ["NewsReporting"]
 date = "2018-09-21T16:06:19-04:00"
 description = ""
 haspagination = true
-specialpost = false
+specialpost = true
 tags = []
 thumbnailImage = "/uploads/o-NOVEMBER-NEWS-BLOOPER-facebook.jpg"
-title = "20 GIFs That Show Live News Reporting Isn't Always A Great Idea"
-weight = 1
+title = "2. News Reporting: The Surprise Of Her Life"
+weight = 2
 
 +++
 {{< ad_head >}}

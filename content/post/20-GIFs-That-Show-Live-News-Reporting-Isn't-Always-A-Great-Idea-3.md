@@ -3,23 +3,18 @@ categories = ["NewsReporting"]
 date = "2018-09-21T16:06:19-04:00"
 description = ""
 haspagination = true
-specialpost = false
+specialpost = true
 tags = []
 thumbnailImage = "/uploads/o-NOVEMBER-NEWS-BLOOPER-facebook.jpg"
-title = "20 GIFs That Show Live News Reporting Isn't Always A Great Idea delete"
-weight = 1
+title = "3. News Reporting: Ear Job"
+weight = 3
 
 +++
 {{< ad_head >}}
 
-![](/uploads/1iTIMmraWBJ1uaFG-min-1.gif)
+![Image result for sexy news blooper gif](https://i.imgur.com/XinfjWE.gif =764x430)  
+[imgur](https://imgur.com/gallery/2oKVL)  
 
-[Piximus](https://piximus.net/others/these-gifs-captured-the-most-hilarious-news-moments-ever)
-
-TV reporters live glamorous lives and we’ve all envied them, just a little, when we’ve seen them reporting from a star-studded event and enjoying the limelight.
-
-What many of us haven’t considered is that live-reporting his its dark side too. Live means that you can’t redo a take or reshoot a scene. If things go wrong, the whole world is going to know it.
-
-That’s what happens in these 20 hilarious live TV moments. Something doesn’t go quite according to plan. Don’t worry, nobody got fired, but we imagine a few people were teased all the same. Enjoy.
+Very creative work by the guy who interrupts this reporter.  Seriously though, who happens to be walking around with that object and finds news cameras? Does this guy always have that object on him, just in case?
 
 {{< ad_atn >}}
