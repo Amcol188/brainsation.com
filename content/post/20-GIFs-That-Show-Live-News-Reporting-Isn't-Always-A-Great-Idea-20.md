@@ -6,7 +6,7 @@ haspagination = true
 specialpost = true
 tags = []
 thumbnailImage = "/uploads/o-NOVEMBER-NEWS-BLOOPER-facebook.jpg"
-title = "20. News Reporting: Maybe It’s Cold There?""
+title = "20. News Reporting: Maybe It’s Cold There?"
 weight = 20
 
 +++
