@@ -40,7 +40,7 @@ $(function() {
     $('.bypage .category-page').hide();
     $('.bypage .category-page.active').prev('.category-page').show().addClass("btn-show").html("Prev page");
     $('.bypage .category-page.active').next('.category-page').addClass("btn-next").show().html("Next page");
-   
+
 
 
     $('.bypost .category-page').hide();
@@ -48,7 +48,5 @@ $(function() {
     $('.bypost .category-page.active').next('.category-page').removeClass('category-page').addClass("btn-next").show().html("Next post");
     $('.bypost .category-page').remove();
      $( ".btn-next" ).clone().appendTo( ".next-page-btn" );
+		 $( ".btn-next-top" ).clone().appendTo( ".next-page-btn-top" );
 });
-
-
-
