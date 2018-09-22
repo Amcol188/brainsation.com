@@ -6,15 +6,15 @@ haspagination = true
 specialpost = true
 tags = []
 thumbnailImage = "/uploads/o-NOVEMBER-NEWS-BLOOPER-facebook.jpg"
-title = "10. News Reporting: The President Gets In On The Act"
+title = "16. News Reporting: Where Did The Ball Go?"
 weight = 16
 
 +++
 {{< ad_head >}}
 
-![](http://mb.americancolumn.com/wp-content/uploads/2018/02/ezgif.com-optimize-4.gif)  
-[Gyfycat](https://gfycat.com/gifs/detail/MadeupMarvelousAfricancivet)  
+![](http://fb.americancolumn.com/wp-content/uploads/2018/02/bretlook.0.0.gif)  
+[Saturday Down South](https://www.saturdaydownsouth.com/sec-football/)  
 
-If there’s one thing we can all agree on about the current Commander-in-Chief, it’s that he knows how to pull off an unusual expression. Here we see years of practice from being on _The Apprentice_ pay off with a classic “silly face” designed to distract people from what’s really going on.
+When you’re involved in professional sports, you’re going to want to keep an eye on the game no matter what. So, you have to admire the dedication that goes on here – all the time wondering, “If he knew that this GIF would exist, would he have done the same thing?”
 
 {{< ad_atn >}}
