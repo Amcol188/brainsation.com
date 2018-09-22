@@ -12,7 +12,7 @@ weight = 4
 +++
 {{< ad_head >}}
 
-![Image result for sexy news blooper gif](https://i.pinimg.com/originals/66/62/de/6662def64e6de892312d4924acc9423f.gif =846x476)  
+![](/uploads/6662def64e6de892312d4924acc9423f-min.gif)  
 [pinterest](https://www.pinterest.co.uk/pin/547891110894823840/)  
 
 I’m not even sure if this lady even notices her mistake.  This is supposed to be a family news channel!
