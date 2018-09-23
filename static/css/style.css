@@ -584,3 +584,15 @@ article.article img {
 header .navbar-toggler{
     margin-left: 10px;
 }
+
+.mob-footer {
+left:;
+background:rgba(244, 243, 243, 0.96);
+padding-top: 3px;
+position: fixed;
+text-align:center;
+bottom: 0px;
+width:100%;
+z-index:999;
+}
+}

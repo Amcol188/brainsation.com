@@ -1,7 +1,4 @@
 	<footer>
-		<div class="mob-footer">
-			{{ partial "google/mob_footer.html" . }}
-		</div>
 		<div class="container">
 			<div class="footer-holder">
 					<a class="copyright" href="">
@@ -18,8 +15,12 @@
 			</div>
 		</div>
 	</footer>
-
 </div>
+
+<div class="mob-footer">
+	{{ partial "google/mob_footer.html" . }}
+</div>
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
 <script src="/libs/infinite/jquery.waypoints.min.js"></script>
