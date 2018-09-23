@@ -6,7 +6,7 @@ haspagination = true
 specialpost = true
 tags = []
 thumbnailImage = ""
-title = "KFC Tunnel: The Secret Tunnel Was An Underground Drug Highway"
+title = "KFC Tunnel:  3. The Secret Tunnel Was An Underground Drug Highway"
 weight = 4
 
 +++
