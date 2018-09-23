@@ -10,7 +10,10 @@ title = "Celeb Kids: 18. Jack Scott Ramsay – Gordon Ramsay"
 weight = 19
 
 +++
+{{< ad_head >}}
+
 ![](/uploads/23.jpg)
+
 ##### [_Image Credit_](http://americanupbeat.com/kids-of-famous-parents-where-are-they-now/26/)
 
 {{< ad_infeed >}}
