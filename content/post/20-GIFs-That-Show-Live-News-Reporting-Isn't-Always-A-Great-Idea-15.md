@@ -15,6 +15,8 @@ weight = 15
 ![](http://fb.americancolumn.com/wp-content/uploads/2018/02/melania-trump-scowling-beea05ae-3a95-4457-bb06-1d03ad494243.gif)  
 [US Magazine](https://www.usmagazine.com/celebrity-news/news/melania-trumps-face-falls-after-talking-to-donald-trump-at-inauguration-w462697/)  
 
+{{< ad_infeed >}}
+
 We don’t think that it’s appropriate for us to comment on the relationship between the First Lady and President Trump. So, we’re going to let this GIF do the talking and let you draw your own conclusions. It is amazing how quickly a smile can disappear though, right?
 
 {{< ad_atn >}}

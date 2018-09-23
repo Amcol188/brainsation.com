@@ -15,6 +15,8 @@ weight = 7
 ![](http://mb.americancolumn.com/wp-content/uploads/2018/02/ezgif.com-optimize-2.gif)  
 [Blazepress](https://blazepress.com/2015/01/23-gifs-prove-just-funny-live-tv-can/)  
 
+{{< ad_infeed >}}
+
 Here we have one of those nice talking heads shots where a serious-looking reporter addresses the camera to describe an issue of the day. Behind him, however, is a lady who hasn’t read the script and she is calmly walking by until she pitches head over feet to the floor.
 
 {{< ad_atn >}}

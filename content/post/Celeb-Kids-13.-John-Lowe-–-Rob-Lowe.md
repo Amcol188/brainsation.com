@@ -14,7 +14,7 @@ weight = 22
 
 ![](/uploads/lowe.jpg)
 
-##### [_Image Credit_](http://americanupbeat.com/kids-of-famous-parents-where-are-they-now/13/)
+{{< ad_infeed >}}
 
 At 53, Rob Lowe is old enough to be his son John’s grandfather, and yet, the handsome duo can frequently be seen working out together.
 

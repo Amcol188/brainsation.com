@@ -15,6 +15,8 @@ weight = 16
 ![](http://fb.americancolumn.com/wp-content/uploads/2018/02/bretlook.0.0.gif)  
 [Saturday Down South](https://www.saturdaydownsouth.com/sec-football/)  
 
+{{< ad_infeed >}}
+
 When you’re involved in professional sports, you’re going to want to keep an eye on the game no matter what. So, you have to admire the dedication that goes on here – all the time wondering, “If he knew that this GIF would exist, would he have done the same thing?”
 
 {{< ad_atn >}}

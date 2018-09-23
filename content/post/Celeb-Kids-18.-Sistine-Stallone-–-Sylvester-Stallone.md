@@ -16,6 +16,8 @@ weight = 7
 
 ##### [_Image Credit_](http://americanupbeat.com/kids-of-famous-parents-where-are-they-now/18/)
 
+{{< ad_infeed >}}
+
 Sistine Stallone, Sylvester Stallone’s middle child, has managed to carve out a burgeoning modeling career for herself after signing with IMG.
 
 “To my surprise, my dad has been very supportive of my work,” she said. “He and my mom did a good job of keeping us away from the public eye. Now, he’s like, ‘This is your moment. Mine is over, and I want it to be about you.‘”

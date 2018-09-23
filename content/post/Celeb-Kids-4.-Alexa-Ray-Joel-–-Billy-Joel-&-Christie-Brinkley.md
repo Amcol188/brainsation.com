@@ -14,6 +14,8 @@ weight = 26
 
 ![](/uploads/4-1.jpg)[_Image Credit_](http://americanupbeat.com/kids-of-famous-parents-where-are-they-now/4/)
 
+{{< ad_infeed >}}
+
 Born to Billy Joel and Christie Brinkley, it’s no wonder that Alexa Ray Joel has grown into an extremely beautiful woman.
 
 She’s also taken after her parents’ career choices, having dabbled in both the music and fashion industries.

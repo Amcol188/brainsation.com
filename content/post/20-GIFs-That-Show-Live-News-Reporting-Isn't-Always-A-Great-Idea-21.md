@@ -15,6 +15,8 @@ weight = 21
 ![](http://fb.americancolumn.com/wp-content/uploads/2018/02/84224473.gif =840x473)  
 [Ebaums World](http://www.ebaumsworld.com/pictures/34-of-the-best-of-sports-and-news-videobombs/84224448/)  
 
+{{< ad_infeed >}}
+
 It’s a hard world for women and they often struggle to be taken seriously in what were traditionally male roles such as sports reporting. Despite the great strides that women’s rights have made in thi areas, there’s always somebody looking to muscle in on the action. Like this mascot.
 
 {{< ad_atn >}}

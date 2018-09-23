@@ -12,7 +12,11 @@ weight = 15
 +++
 {{< ad_head >}}
 
-![](/uploads/18.jpg)[_Image Credit_](http://americanupbeat.com/kids-of-famous-parents-where-are-they-now/20/)
+![](/uploads/18.jpg)
+
+##### [_Image Credit_](http://americanupbeat.com/kids-of-famous-parents-where-are-they-now/20/)
+
+{{< ad_infeed >}}
 
 Rafferty Law definitely has a lot to thank his father for when it comes to his looks, which the 20-year-old has used to kick-start a career as a singer and model.
 

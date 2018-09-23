@@ -16,6 +16,8 @@ weight = 2
 
 ##### [_Image Credit_](http://americanupbeat.com/kids-of-famous-parents-where-are-they-now/3/)
 
+{{< ad_infeed >}}
+
 No, you’re not looking at two photos of Reese Witherspoon!
 
 The one on the left is Miss “Legally Blonde” herself, and the cute little toddler she’s holding is none other than her daughter with Ryan Phillippe, Ava.

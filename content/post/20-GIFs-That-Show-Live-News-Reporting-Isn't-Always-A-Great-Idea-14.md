@@ -15,6 +15,8 @@ weight = 14
 ![](http://fb.americancolumn.com/wp-content/uploads/2018/02/leaders2.gif)  
 [Fox](http://insider.foxnews.com/2017/05/25/leaders-appear-snicker-trump-calls-nato-allies-pay-their-fair-share)  
 
+{{< ad_infeed >}}
+
 Can we get a round of applause for the guy at the back who appears to be sticking his tongue out as he waits for President Trump? This may actually be the best reason to shave a beard ever seen on TV. Things get stuck in it and when it gets uncomfortable, you do this and everyone thinks you’re a clown.
 
 {{< ad_atn >}}

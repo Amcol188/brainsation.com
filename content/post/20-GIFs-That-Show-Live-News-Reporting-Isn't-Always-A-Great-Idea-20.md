@@ -15,6 +15,8 @@ weight = 20
 ![](http://fb.americancolumn.com/wp-content/uploads/2018/02/these-gifs-captured-the-most-hilarious-news-moments-ever-1.gif =777x437)  
 [Piximus](https://piximus.net/others/these-gifs-captured-the-most-hilarious-news-moments-ever)  
 
+{{< ad_infeed >}}
+
 This is rough justice for a would-be photo bomber. Running on screen might seem like a good idea, but not when it’s below zero and the street is covered in ice. Then you get to learn why it’s not a good idea while millions laugh at the lesson.
 
 {{< ad_atn >}}

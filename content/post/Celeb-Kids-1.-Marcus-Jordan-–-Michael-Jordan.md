@@ -14,6 +14,8 @@ weight = 28
 
 ![](/uploads/1.jpg)[_Image Credit_](http://americanupbeat.com/kids-of-famous-parents-where-are-they-now/)
 
+{{< ad_infeed >}}
+
 Did you know that the son of NBA legend and arguably the best basketball player of all time also shoots hoops?
 
 Marcus Jordan played college ball for the UCF Knights, but never was able to carve out a career like his father.

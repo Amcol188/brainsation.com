@@ -15,6 +15,8 @@ weight = 4
 ![](/uploads/6662def64e6de892312d4924acc9423f-min.gif)  
 [pinterest](https://www.pinterest.co.uk/pin/547891110894823840/)  
 
+{{< ad_infeed >}}
+
 I’m not even sure if this lady even notices her mistake.  This is supposed to be a family news channel!
 
 {{< ad_atn >}}

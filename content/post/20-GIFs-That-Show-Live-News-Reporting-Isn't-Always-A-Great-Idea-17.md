@@ -15,6 +15,8 @@ weight = 17
 ![](http://fb.americancolumn.com/wp-content/uploads/2018/02/zIXtJzx.gif =881x467)  
 [Imgur](https://i.imgur.com/zIXtJzx)  
 
+{{< ad_infeed >}}
+
 This serious-looking news reporter is simply upstaged by the world around him. The missing 6-year old is sadly forgotten the moment that the scene is photobombed, literally. A guy comes hurtling out of a window and lands badly, hitting the ground and looking very sorry that he has. Ouch.
 
 {{< ad_atn >}}

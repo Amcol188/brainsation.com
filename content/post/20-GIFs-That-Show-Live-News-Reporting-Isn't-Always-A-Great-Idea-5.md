@@ -15,6 +15,8 @@ weight = 5
 ![](/uploads/1iTIMmraWBJ1uaFG-min.gif)
 [Blazpress](https://blazepress.com/2015/01/23-gifs-prove-just-funny-live-tv-can/)
 
+{{< ad_infeed >}}
+
 This female reporter has the camera panned over to her when she is unexpecting it.  She apparently has some type of device (looks like a dildo) and when she notices the camera she quickly covers it up with her dress.  This is definitely the most wild blooper I have ever seen!
 
 {{< ad_atn >}}

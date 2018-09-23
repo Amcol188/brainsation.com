@@ -16,6 +16,8 @@ weight = 14
 
 ##### [_Image Credit_](http://americanupbeat.com/kids-of-famous-parents-where-are-they-now/21/)
 
+{{< ad_infeed >}}
+
 They were the prototypical power couple of the 1990s.
 
 Nicole Kidman and Tom Cruise adopted two children, Isabella and Connor Anthony, during their 11-year marriage. And while Connor has managed to stay out of the spotlight and more importantly, out of the Hollywood gossip rags, much of his life has been spent in the shadow of his uber-famous parents.

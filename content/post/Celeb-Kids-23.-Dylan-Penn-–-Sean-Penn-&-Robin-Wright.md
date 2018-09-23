@@ -12,7 +12,10 @@ weight = 9
 +++
 {{< ad_head >}}
 
-![](/uploads/21.jpg)[_Image Credit_](http://americanupbeat.com/kids-of-famous-parents-where-are-they-now/23/)
+![](/uploads/21.jpg)
+[_Image Credit_](http://americanupbeat.com/kids-of-famous-parents-where-are-they-now/23/)
+
+{{< ad_infeed >}}
 
 The daughter of Sean Penn and Robin Wright has created a successful modeling career, but not before going through a few hardships.
 

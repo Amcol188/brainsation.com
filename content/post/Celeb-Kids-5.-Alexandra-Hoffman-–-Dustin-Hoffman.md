@@ -16,6 +16,8 @@ weight = 25
 
 ##### [_Image Credit_](http://americanupbeat.com/kids-of-famous-parents-where-are-they-now/5/)
 
+{{< ad_infeed >}}
+
 “My daughter is the smartest person I know,” said the iconic actor. “When I don’t know something, that’s who I call.”
 
 Dustin Hoffman’s youngest child from his marriage to Lisa Hoffman definitely prefers life outside the glare of the spotlight.

@@ -14,7 +14,7 @@ weight = 24
 
 ![](/uploads/8.jpg)
 
-##### [_Image Credit_](http://americanupbeat.com/kids-of-famous-parents-where-are-they-now/8/)
+{{< ad_infeed >}}
 
 “We are talking about people who are not afraid to live their truth,” Earvin said at a Beautycon interview. “That is what beauty is all about, because it’s in the eye of the beholder, honey.”
 

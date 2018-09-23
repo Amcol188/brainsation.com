@@ -12,7 +12,10 @@ weight = 10
 +++
 {{< ad_head >}}
 
-![](/uploads/17.jpg)[_Image Credit_](http://americanupbeat.com/kids-of-famous-parents-where-are-they-now/19/)
+![](/uploads/17.jpg)
+##### [_Image Credit_](http://americanupbeat.com/kids-of-famous-parents-where-are-they-now/19/)
+
+{{< ad_infeed >}}
 
 Kevin Bacon and Kyra Sedgwick tried their best to keep their daughter Sosie far away from the flashing lights of Hollywood while she was growing up.
 

@@ -10,7 +10,10 @@ title = "Celeb Kids: 18. Jack Scott Ramsay – Gordon Ramsay"
 weight = 19
 
 +++
-![](/uploads/23.jpg)[_Image Credit_](http://americanupbeat.com/kids-of-famous-parents-where-are-they-now/26/)
+![](/uploads/23.jpg)
+##### [_Image Credit_](http://americanupbeat.com/kids-of-famous-parents-where-are-they-now/26/)
+
+{{< ad_infeed >}}
 
 Known for his brutal, yet incredibly entertaining honesty, Gordon Ramsay has a slew of successful restaurants in the United Kingdom, several popular television shows, and “a mouth like a \[expletive\] sailor.”
 

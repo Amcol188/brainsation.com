@@ -16,6 +16,8 @@ weight = 1
 
 [Piximus](https://piximus.net/others/these-gifs-captured-the-most-hilarious-news-moments-ever)
 
+{{< ad_infeed >}}
+
 TV reporters live glamorous lives and we’ve all envied them, just a little, when we’ve seen them reporting from a star-studded event and enjoying the limelight.
 
 What many of us haven’t considered is that live-reporting his its dark side too. Live means that you can’t redo a take or reshoot a scene. If things go wrong, the whole world is going to know it.

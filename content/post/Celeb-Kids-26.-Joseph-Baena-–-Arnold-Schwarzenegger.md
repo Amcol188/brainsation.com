@@ -16,6 +16,8 @@ weight = 11
 
 ##### [_Image Credit_](http://americanupbeat.com/kids-of-famous-parents-where-are-they-now/28/)
 
+{{< ad_infeed >}}
+
 Joseph Baena, the result of Arnold Schwarzenegger’s affair with his housekeeper Mildred Baena, was kept in the dark for many years.
 
 However, since the dissolution of the action star’s marriage to Maria Shriver, Arnold has been more public and open about his son.

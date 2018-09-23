@@ -16,6 +16,8 @@ weight = 18
 
 ##### [_Image Credit_](http://americanupbeat.com/kids-of-famous-parents-where-are-they-now/29/)
 
+{{< ad_infeed >}}
+
 As is expected with most celebrity kids, DeVito and Perlman’s daughter Lucy followed her parents’ footsteps.
 
 But unlike many untalented celeb offspring, Lucy DeVito has some serious acting chops and a real flair for comedy.

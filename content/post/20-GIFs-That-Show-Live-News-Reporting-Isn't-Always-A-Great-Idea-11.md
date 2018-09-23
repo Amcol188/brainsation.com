@@ -15,6 +15,8 @@ weight = 11
 ![](http://fb.americancolumn.com/wp-content/uploads/2018/02/Paul-Ryan.gif)  
 [IJR](https://ijr.com/2017/05/880982-paul-ryan-just-discovered-gifs-result-absolutely-amazing/)  
 
+{{< ad_infeed >}}
+
 We could debate Paul Ryan’s job performance all day, but we’re not going to because it won’t change anyone’s mind. We will say, however, that he appears to have learned about the Animated GIF and then thrown himself into a performance begging for one on CNN. Good work.
 
 {{< ad_atn >}}

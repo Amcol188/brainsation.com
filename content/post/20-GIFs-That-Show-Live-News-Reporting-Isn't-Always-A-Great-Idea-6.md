@@ -12,8 +12,10 @@ weight = 6
 +++
 {{< ad_head >}}
 
-![](/uploads/560266b7863ef-min.gif) 
+![](/uploads/560266b7863ef-min.gif)
 [orzzzz](http://orzzzz.com/tag/Spider_Man)  
+
+{{< ad_infeed >}}
 
 This Weathergirl gets excited and starts doing some jumping jacks, and letting it all hang out for the viewers at home.
 

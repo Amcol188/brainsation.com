@@ -12,7 +12,10 @@ weight = 23
 +++
 {{< ad_head >}}
 
-![](/uploads/11.jpg)[_Image Credit_](http://americanupbeat.com/kids-of-famous-parents-where-are-they-now/11/)
+![](/uploads/11.jpg)
+[_Image Credit_](http://americanupbeat.com/kids-of-famous-parents-where-are-they-now/11/)
+
+{{< ad_infeed >}}
 
 Although Jerry Hall was one of the most successful models of the 1970s, it was her marriage to Mick Jagger that catapulted her into the upper echelons of fame and fortune.
 

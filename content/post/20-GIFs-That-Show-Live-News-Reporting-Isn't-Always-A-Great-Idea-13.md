@@ -15,6 +15,8 @@ weight = 13
 ![](http://fb.americancolumn.com/wp-content/uploads/2018/02/funny-live-tv-moments-3.gif)  
 [Blazpress](https://blazepress.com/2015/01/23-gifs-prove-just-funny-live-tv-can/)  
 
+{{< ad_infeed >}}
+
 We turn to Chinese television to bring you this wonderful moment when a stern-looking man faces down the camera only to be accidentally upstaged by a young woman. We particularly like the look of horror when she realizes followed by the rapid retreat. We hope she didn’t get fired for this.
 
 {{< ad_atn >}}

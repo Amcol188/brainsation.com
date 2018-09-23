@@ -14,6 +14,8 @@ weight = 8
 
 ![](/uploads/6.jpg)[_Image Credit_](http://americanupbeat.com/kids-of-famous-parents-where-are-they-now/6/)
 
+{{< ad_infeed >}}
+
 Bon Jovi’s guitarist, Richie Sambora, struck glittering gold when he managed to snag Heather Locklear. While their marriage only lasted for 13 years, it resulted in the precious gem that is known as Ava Sambora.
 
 Having recently turned 19, Ava definitely takes after her mother in the looks department.

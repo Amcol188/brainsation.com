@@ -12,7 +12,10 @@ weight = 21
 +++
 {{< ad_head >}}
 
-![](/uploads/13.jpg)[_Image Credit_](http://americanupbeat.com/kids-of-famous-parents-where-are-they-now/15/)
+![](/uploads/13.jpg)
+##### [_Image Credit_](http://americanupbeat.com/kids-of-famous-parents-where-are-they-now/15/)
+
+{{< ad_infeed >}}
 
 The daughter of Breaking Bad star Bryan Cranston normally goes by her stage name, Taylor Dearden.
 

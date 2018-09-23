@@ -16,6 +16,8 @@ weight = 12
 
 ##### [_Image Credit_](http://americanupbeat.com/kids-of-famous-parents-where-are-they-now/14/)
 
+{{< ad_infeed >}}
+
 Julianne Moore continues to age gracefully as she approaches her late fifties, but despite the actress’ age, she could easily be mistaken for her daughter’s sister.
 
 And while Liv has her mother to thank for her good looks, she clearly has her father Bart Freundlich to thank for her height.

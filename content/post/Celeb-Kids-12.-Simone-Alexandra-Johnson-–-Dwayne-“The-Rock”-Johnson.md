@@ -12,7 +12,9 @@ weight = 5
 +++
 {{< ad_head >}}
 
-![](/uploads/rock.jpg)[_Image Credit_](http://americanupbeat.com/kids-of-famous-parents-where-are-they-now/12/)
+![](/uploads/rock.jpg)
+
+{{< ad_infeed >}}
 
 Simone Alexandra Johnson is the daughter of wrestler-turned-actor Dwayne “The Rock” Johnson. Although she can often be seen with her father attending award shows, Simone likes to keep a low profile.
 

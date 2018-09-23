@@ -16,6 +16,8 @@ weight = 20
 
 ##### [_Image Credit_](http://americanupbeat.com/kids-of-famous-parents-where-are-they-now/25/)
 
+{{< ad_infeed >}}
+
 David Hasselhoff and Pamela Bach’s 7-year marriage resulted in two children, one of which was Hayley.
 
 The youngest Hasselhoff daughter gained public notoriety when she appeared in the 2010 reality series The Hasselhoffs, but Haley was no stranger to the small screen even then.

@@ -14,6 +14,8 @@ weight = 6
 
 ![](/uploads/fgnghjkhjg.jpg)
 
+{{< ad_infeed >}}
+
 After her father, the famous grunge rocker, Kurt Cobain, died, Frances spent years bouncing between her mother, aunts, and her paternal grandmother.
 
 But despite her “less than ideal” childhood, she grew up to be a fine woman and a talented artist.
