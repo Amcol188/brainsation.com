@@ -5,7 +5,7 @@
 @media only screen and (max-width: 768px) {
   .owl-carousel.owl-posts .post-large .post-title {
     font-size: 14px;
-    line-height: 18px; } 
+    line-height: 18px; }
 
   }
 @media only screen and (max-width: 360px) {
@@ -120,13 +120,13 @@
     padding: 20px 33px; }
 
   .btn-show {
-    display: inline!important; } 
+    display: inline!important; }
 
   .btn-prev:before {
     left: auto;
     right: -1px;
     border-width: 31px 10px 31px 0;
-    border-color: transparent #fff transparent transparent; 
+    border-color: transparent #fff transparent transparent;
   }
   .btn-next:before {
       border-width: 31px 0 31px 10px!important;
@@ -141,6 +141,20 @@
   header .navbar-toggler{
     margin-left: auto;
 }
+
+.mob-footer {
+left:;
+background:rgba(244, 243, 243, 0.96);
+padding-top: 3px;
+position: fixed;
+text-align:center;
+bottom: 0px;
+width:100%;
+z-index:999;
+}
+}
+
+
 }
 
 /* Medium Devices, Desktops */
@@ -181,7 +195,7 @@
     font-size: 30px;
     line-height: 34px; }
   .title-section {
-    margin-bottom: 15px; } 
+    margin-bottom: 15px; }
   .content-block{
     min-width: 792px;
   }
