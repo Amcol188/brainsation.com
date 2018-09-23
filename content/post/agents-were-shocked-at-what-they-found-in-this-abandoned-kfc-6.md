@@ -5,12 +5,8 @@ description = ""
 haspagination = true
 specialpost = true
 tags = []
-thumbnailImage = ""
-<<<<<<< HEAD:content/post/agents-were-shocked-at-what-they-found-in-this-abandoned-kfc-6.md
+thumbnailImage = "/uploads/b-15.jpg"
 title = "The Authorities Know What To Look For"
-=======
-title = "KFC Tunnel: 5. The Authorities Know What To Look For"
->>>>>>> 7bdc3f21777e47135b7758f271a81d6998b86064:content/post/kfc-tunnel-the-authorities-know-what-to-look-for.md
 weight = 6
 
 +++

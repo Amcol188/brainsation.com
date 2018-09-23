@@ -5,7 +5,7 @@ description = ""
 haspagination = true
 specialpost = true
 tags = []
-thumbnailImage = ""
+thumbnailImage = "/uploads/b-15.jpg"
 title = "Lopez Leads San Luis Police To An Abandoned KFC"
 weight = 3
 

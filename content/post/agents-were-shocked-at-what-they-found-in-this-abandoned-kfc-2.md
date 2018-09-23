@@ -5,7 +5,7 @@ description = ""
 haspagination = true
 specialpost = true
 tags = []
-thumbnailImage = ""
+thumbnailImage = "/uploads/b-15.jpg"
 title = "The Hole InThe Tile Was Only Eight Inches In Diameter"
 weight = 2
 
