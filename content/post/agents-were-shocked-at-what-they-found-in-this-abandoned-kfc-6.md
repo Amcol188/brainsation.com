@@ -6,15 +6,17 @@ haspagination = true
 specialpost = true
 tags = []
 thumbnailImage = ""
-title = "KFC Tunnel: The Authorities Know What To Look For"
+title = "The Authorities Know What To Look For"
 weight = 6
 
 +++
-{{< post_ad >}}
+{{< ad_head >}}
 
 [![](http://sopawfect.com/wp-content/uploads/2018/08/1-9.jpg)](http://sopawfect.com/wp-content/uploads/2018/08/1-9.jpg)
 
 ##### [_IMAGE CREDIT_](https://goo.gl/images/cGBoLw)
+
+{{< ad_infeed >}}
 
 “One thing is a big pile of dirt,” Brown said. “Again, this is a 5-foot-by-3-foot-wide hole that’s about 590-feet-long. A rough estimate is about 200 tons of dirt they had to get out of there and move surreptitiously.”
 
@@ -31,6 +33,8 @@ Sadly, there’s a whole lot more going on…
 [![](http://sopawfect.com/wp-content/uploads/2018/08/2-9.jpg)](http://sopawfect.com/wp-content/uploads/2018/08/2-9.jpg)
 
 ##### [_IMAGE CREDIT_](https://goo.gl/images/U7YnNH)
+
+{{< ad_infeed >}}
 
 ## UNFORTUNATELY, IT’S NOT JUST DRUGS COMING THROUGH…
 
@@ -50,4 +54,4 @@ The uncovering of these tunnels comes on the heels of a national debate about im
 
 And then there’s the opioid crisis…
 
-{{< post_ad >}}
+{{< ad_atn >}}

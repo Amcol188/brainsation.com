@@ -6,11 +6,11 @@ haspagination = true
 specialpost = true
 tags = []
 thumbnailImage = ""
-title = "KFC Tunnel:  3. The Secret Tunnel Was An Underground Drug Highway"
+title = "The Secret Tunnel Was An Underground Drug Highway"
 weight = 4
 
 +++
-{{< post_ad >}}
+{{< ad_head >}}
 
 [![](http://sopawfect.com/wp-content/uploads/2018/08/f-9.jpg)](http://sopawfect.com/wp-content/uploads/2018/08/f-9.jpg)
 
@@ -38,6 +38,8 @@ This wasn’t the first tunnel, and it certainly wasn’t the most sophisticated
 
 ## BUT THIS WASN’T THE FIRST TUNNEL IN SAN LUIS
 
+{{< ad_infeed >}}
+
 The KFC tunnel was simply the latest passaged to be uncovered in an ongoing game of drug-trafficking whack-a-mole that has literally gone underground.
 
 “Unusual? Yes. But surprising? No,” said Police Chief Richard Jessup.
@@ -54,4 +56,4 @@ But just how successful are the drug traffickers’ efforts?
 
 You might be surprised…
 
-{{< post_ad >}}
+{{< ad_atn >}}

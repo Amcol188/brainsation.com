@@ -6,15 +6,17 @@ haspagination = true
 specialpost = true
 tags = []
 thumbnailImage = ""
-title = "KFC Tunnel: Trump's Signature Campaign Issue Was Illegal Immigration"
+title = "Trump's Signature Campaign Issue Was Illegal Immigration"
 weight = 7
 
 +++
-{{< post_ad >}}
- 
+{{< ad_head >}}
+
 [![](http://sopawfect.com/wp-content/uploads/2018/08/trump.jpg)](http://sopawfect.com/wp-content/uploads/2018/08/trump.jpg)
 
 ##### [_IMAGE CREDIT_](https://goo.gl/images/k1peXT)
+
+{{< ad_infeed >}}
 
 Illegal immigration to the United States was a signature issue of Donald Trump’s 2016 presidential campaign, and his proposed reforms and remarks about this issue continue to generate much publicity.
 
@@ -36,6 +38,8 @@ Unfortunately, with the high volume of illegal pharmaceuticals coming through th
 
 ##### [_IMAGE CREDIT_](https://goo.gl/images/n9Fe92)
 
+{{< ad_infeed >}}
+
 ## THE OPIOID EPIDEMIC AFFECTS EVERYONE
 
 Since the late 1990s, opioid use has skyrocketed across America.
@@ -56,4 +60,4 @@ It presents a grim challenge to health care providers, to law enforcement, and t
 
 **Do you support a federal zero-tolerance drug policy? Why or why not?**
 
-{{< post_ad >}}
+{{< ad_atn >}}

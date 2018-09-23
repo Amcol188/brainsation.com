@@ -6,11 +6,11 @@ haspagination = true
 specialpost = true
 tags = []
 thumbnailImage = ""
-title = "KFC Tunnel: Lopez Leads San Luis Police To An Abandoned KFC"
+title = "Lopez Leads San Luis Police To An Abandoned KFC"
 weight = 3
 
 +++
-{{< post_ad >}}
+{{< ad_head >}}
 
 [![](http://sopawfect.com/wp-content/uploads/2018/08/kfc1.jpg)](http://sopawfect.com/wp-content/uploads/2018/08/kfc1.jpg)
 
@@ -34,6 +34,8 @@ Once inside, both local and federal authorities were shocked at what they found
 
 ##### [_IMAGE CREDIT_](https://www.scmp.com/news/world/united-states-canada/article/2161313/breaking-bad-arizona-kfc-store-concealed-drug)
 
+{{< ad_infeed >}}
+
 ## THE HOLE WAS JUST THE BEGINNING
 
 The agents’ suspicions of organized, criminal activity were confirmed with the discovery of an eight-inch opening along a wall in the restaurant’s rear kitchen area.
@@ -48,4 +50,4 @@ One person shimmied down into the space and turned on a flashlight, scanning the
 
 Hundreds of wooden two-by-four boards lined the walls…
 
-{{< post_ad >}}
+{{< ad_atn >}}

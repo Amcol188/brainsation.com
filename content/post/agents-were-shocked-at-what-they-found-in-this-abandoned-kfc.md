@@ -10,7 +10,7 @@ title = "Agents Were Shocked at What They Found in This Abandoned KFC"
 weight = 1
 
 +++
-{{< post_ad >}}
+{{< ad_head >}}
 
 [![](http://sopawfect.com/wp-content/uploads/2018/08/a-21.jpg)](http://sopawfect.com/wp-content/uploads/2018/08/a-21.jpg)
 
@@ -26,11 +26,11 @@ Officer Williams knows that ordinary can go to extraordinary pretty quickly in t
 
 But that particular Tuesday would be one for the record books.
 
-{{< post_ad >}}
-
 [![](http://sopawfect.com/wp-content/uploads/2018/08/b-21.jpg)](http://sopawfect.com/wp-content/uploads/2018/08/b-21.jpg)
 
 ##### [_IMAGE CREDIT_](https://goo.gl/images/svQN6d)
+
+{{< ad_infeed >}}
 
 “I’ve lost friends and colleagues in the service of this community,” he said. “This isn’t always an easy job, but we take an oath to serve the public trust. My job is to protect the innocent and uphold the law to the best of my ability.”
 
@@ -42,14 +42,14 @@ The result of a federal grant in 2014, the San Luis Vice Squad has seized over t
 
 The squad and Officer Williams received national media attention last year when his team uncovered quite a surprise in an abandoned Kentucky Fried Chicken.
 
-{{< post_ad >}}
-
 [![](http://sopawfect.com/wp-content/uploads/2018/08/c-21.jpg)](http://sopawfect.com/wp-content/uploads/2018/08/c-21.jpg)
 
 ##### [_IMAGE CREDIT_](https://goo.gl/images/bFkHyJ)
+
+{{< post_ad >}}
 
 “We knew that something was up with that location,” said Williams. “All of the circumstances surrounding the property just didn’t add up.”
 
 The agents knew they had hit pay dirt when they found the tiny opening concealing a much larger hole…
 
-{{< post_ad >}}
+{{< ad_atn >}}

@@ -6,15 +6,17 @@ haspagination = true
 specialpost = true
 tags = []
 thumbnailImage = ""
-title = "KFC Tunnel: The Drug Cartels Are Getting More Sophisticated"
+title = "The Drug Cartels Are Getting More Sophisticated"
 weight = 5
 
 +++
-{{< post_ad >}}
+{{< ad_head >}}
 
 [![](http://sopawfect.com/wp-content/uploads/2018/08/g-5.jpg)](http://sopawfect.com/wp-content/uploads/2018/08/g-5.jpg)
 
 ##### [_IMAGE CREDIT_](https://goo.gl/images/EDEyaC)
+
+{{< ad_infeed >}}
 
 There have been 203 tunnels discovered in the US Border Patrol’s history.
 
@@ -38,4 +40,4 @@ However, there are a couple of dead giveaways.
 
 And according to Brown, one is a surprising no-brainer…
 
-{{< post_ad >}}
+{{< ad_atn >}}

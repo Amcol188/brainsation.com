@@ -6,15 +6,17 @@ haspagination = true
 specialpost = true
 tags = []
 thumbnailImage = ""
-title = "KFC Tunnel:  1. The Hole InThe Tile Was Only Eight Inches In Diameter"
+title = "The Hole InThe Tile Was Only Eight Inches In Diameter"
 weight = 2
 
 +++
-{{< post_ad >}}
+{{< ad_head >}}
 
 [![](http://sopawfect.com/wp-content/uploads/2018/08/a-15.jpg)](http://sopawfect.com/wp-content/uploads/2018/08/a-15.jpg)
 
 ##### [_IMAGE CREDIT_](https://www.scmp.com/news/world/united-states-canada/article/2161313/breaking-bad-arizona-kfc-store-concealed-drug)
+
+{{< ad_infeed >}}
 
 “It was barely large enough to fit a 15-piece family bucket of chicken,” said Officer Duane Williams.
 
@@ -32,11 +34,11 @@ And according to the arresting officer, it was “pretty memorable.”
 
 “It’s not everyday you catch an honest to God kingpin,” said Officer Sandra Jackson.
 
-{{< post_ad >}}
-
 [![](http://sopawfect.com/wp-content/uploads/2018/08/e-10.jpg)](http://sopawfect.com/wp-content/uploads/2018/08/e-10.jpg)
 
 ##### [_IMAGE CREDIT_](https://goo.gl/images/yZcWpz)
+
+{{< post_ad >}}
 
 ## OFFICER JACKSON SNARES A REAL DEAL KINGPIN
 
@@ -54,4 +56,4 @@ However, once she opened the trunk, Jackson discovered over a million dollars wo
 
 But that was just the beginning of a long and twisted story of an unbelievable feat of underground construction…
 
-{{< post_ad >}}
+{{< ad_atn >}}
