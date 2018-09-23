@@ -6,7 +6,7 @@ haspagination = true
 specialpost = true
 tags = []
 thumbnailImage = ""
-title = "KFC Tunnel: Lopez Leads San Luis Police To An Abandoned KFC"
+title = "KFC Tunnel: 2. Lopez Leads San Luis Police To An Abandoned KFC"
 weight = 3
 
 +++
