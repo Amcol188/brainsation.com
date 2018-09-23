@@ -5,7 +5,7 @@ description = ""
 haspagination = true
 specialpost = true
 tags = []
-thumbnailImage = ""
+thumbnailImage = "/uploads/b-15.jpg"
 title = "The Secret Tunnel Was An Underground Drug Highway"
 weight = 4
 
@@ -15,6 +15,8 @@ weight = 4
 [![](http://sopawfect.com/wp-content/uploads/2018/08/f-9.jpg)](http://sopawfect.com/wp-content/uploads/2018/08/f-9.jpg)
 
 ##### [_IMAGE CREDIT_](https://goo.gl/images/5aNfXz)
+
+{{< ad_infeed >}}
 
 The discovery prompted the inevitable comparisons to _Breaking Bad_and _Los Pollos Hermanos_.
 

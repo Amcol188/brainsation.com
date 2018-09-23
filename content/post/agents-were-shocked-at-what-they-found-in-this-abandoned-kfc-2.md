@@ -38,7 +38,7 @@ And according to the arresting officer, it was “pretty memorable.”
 
 ##### [_IMAGE CREDIT_](https://goo.gl/images/yZcWpz)
 
-{{< post_ad >}}
+{{< ad_infeed >}}
 
 ## OFFICER JACKSON SNARES A REAL DEAL KINGPIN
 

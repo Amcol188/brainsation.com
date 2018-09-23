@@ -16,6 +16,8 @@ weight = 3
 
 ##### [_IMAGE CREDIT_](https://goo.gl/images/c4EyyC)
 
+{{< ad_infeed >}}
+
 Public records reveal that Lopez had bought the former KFC in April, paying some $390,000 in cash for the rundown restaurant.
 
 “The vice squad had been watching Lopez since the Spring,” said Officer Duane Williams. “A tip alerted us to the cash purchase of the property, which obviously, was pretty suspicious. We had been waiting to arrest the suspect on related charges, but the traffic stop brought things to a head a little sooner than we expected.”
