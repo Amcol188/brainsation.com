@@ -6,7 +6,11 @@ haspagination = true
 specialpost = true
 tags = []
 thumbnailImage = ""
+<<<<<<< HEAD:content/post/agents-were-shocked-at-what-they-found-in-this-abandoned-kfc-7.md
 title = "Trump's Signature Campaign Issue Was Illegal Immigration"
+=======
+title = "KFC Tunnel:  6. Trump's Signature Campaign Issue Was Illegal Immigration"
+>>>>>>> 7bdc3f21777e47135b7758f271a81d6998b86064:content/post/kfc-tunnel-trump-s-signature-campaign-issue-was-illegal-immigration.md
 weight = 7
 
 +++

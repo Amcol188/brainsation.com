@@ -6,7 +6,11 @@ haspagination = true
 specialpost = true
 tags = []
 thumbnailImage = ""
+<<<<<<< HEAD:content/post/agents-were-shocked-at-what-they-found-in-this-abandoned-kfc-5.md
 title = "The Drug Cartels Are Getting More Sophisticated"
+=======
+title = "KFC Tunnel: 4. The Drug Cartels Are Getting More Sophisticated"
+>>>>>>> 7bdc3f21777e47135b7758f271a81d6998b86064:content/post/kfc-tunnel-the-drug-cartels-are-getting-more-sophisticated.md
 weight = 5
 
 +++
