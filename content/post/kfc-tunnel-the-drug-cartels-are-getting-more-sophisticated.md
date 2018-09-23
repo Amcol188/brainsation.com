@@ -6,7 +6,7 @@ haspagination = true
 specialpost = true
 tags = []
 thumbnailImage = ""
-title = "KFC Tunnel: The Drug Cartels Are Getting More Sophisticated"
+title = "KFC Tunnel: 4. The Drug Cartels Are Getting More Sophisticated"
 weight = 5
 
 +++
