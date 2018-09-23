@@ -6,7 +6,7 @@ haspagination = true
 specialpost = true
 tags = []
 thumbnailImage = ""
-title = "KFC Tunnel: Trump's Signature Campaign Issue Was Illegal Immigration"
+title = "KFC Tunnel:  6. Trump's Signature Campaign Issue Was Illegal Immigration"
 weight = 7
 
 +++
