@@ -33,8 +33,6 @@ Incredibly, the program takes issue with the masculine traits of aiding people a
 
 The university is currently in the process of hiring more counselors to push the message that men suffer from a disease called manhood.
 
-{{< twitter 990818715431264256 >}}
-
 **Backwalking** Om April 29, the University of Texas issued the following statement: _“The MasculinUT program does not treat masculinity as a ‘mental health issue,’ and any such statements are simply not accurate. It was established to bring more men to the table to address interpersonal violence, sexual assault and other issues._
 
 [![](http://newsattorneys.staging.wpengine.com/wp-content/uploads/2018/04/toxic-masculinity-gi-joe.jpg)](http://newsattorneys.staging.wpengine.com/wp-content/uploads/2018/04/toxic-masculinity-gi-joe.jpg)
