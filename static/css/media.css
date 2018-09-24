@@ -6,7 +6,10 @@
   .owl-carousel.owl-posts .post-large .post-title {
     font-size: 14px;
     line-height: 18px; }
-
+  .article .btn-prev, .article .btn-next{
+    height: 70px;
+    padding: 25px 24px;
+  }
   }
 @media only screen and (max-width: 360px) {
     header .logo{
