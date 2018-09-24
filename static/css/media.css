@@ -9,6 +9,12 @@
   .article .btn-prev, .article .btn-next{
     height: 70px;
     padding: 25px 24px;
+    font-size: 18px;
+  }
+  .article .btn-prev:before, .article .btn-next:before{
+    border-style: solid;
+    border-width: 33px 0 33px 15px;
+    border-color: transparent transparent transparent #fff;
   }
   }
 @media only screen and (max-width: 360px) {
