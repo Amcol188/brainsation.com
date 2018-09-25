@@ -1,11 +1,11 @@
-baseURL = "http://st.brainsation.com"
+baseURL = "https://st.brainsation.com"
 canonifyURLs = true
 languageCode = "en-us"
 publishDir = "docs"
 title = "Brainsation"
 
 
- 
+
 [Params]
 	description = "Brainsation"
 	infinite_scroll = true
