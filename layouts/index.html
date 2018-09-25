@@ -13,7 +13,7 @@
 		 		<div class="content-block">
 		 			<div class="news-list">
 		 					<div class="grid">
-		 				
+
 		 						{{ range first 6 (where (where .Pages "Section" "post") ".Params.specialpost" "==" false).ByDate.Reverse  }}
 		 							 <div class="post">
 								        <article class="post-entry">
@@ -29,7 +29,7 @@
 								            </div>
 								        </article>
 								    </div>
-		 				
+
 							{{ end }}
 			 				</div>
 		 			</div>
@@ -47,10 +47,10 @@
 						</div>
 
 		 				{{ partial "posts-infinite.html" . }}
-								
-			 				
+
+
 		 		</div>
-		 		
+
 	 		</div>
 	 	</div>
 	 </div>
