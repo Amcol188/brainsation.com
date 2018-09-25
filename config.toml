@@ -1,4 +1,4 @@
-baseURL = "//st.brainsation.com"
+baseURL = "http://st.brainsation.com"
 canonifyURLs = true
 languageCode = "en-us"
 publishDir = "docs"
