@@ -9,7 +9,7 @@
   .article .btn-prev, .article .btn-next{
     height: 70px;
     padding: 25px 24px;
-    font-size: 18px;
+    font-size: 30px;
   }
   .article .btn-prev:before, .article .btn-next:before{
     border-style: solid;
