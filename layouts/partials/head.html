@@ -20,7 +20,7 @@
 	<meta itemprop="name" content="{{ if .Title }}{{ .Title }}{{ else }}{{ .Site.Title }}{{ end }}">
 	<meta itemprop="headline" content="{{ if .Title }}{{ .Title }}{{ else }}{{ .Site.Title }}{{ end }}">
 	<meta itemprop="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.Description }}{{ end }}">
-	<meta itemprop="image" content="{{ if .Params.thumbnailImage }}{{.Site.BaseURL}}/{{.Params.thumbnailImage}}{{ else }}{{.Site.BaseURL}}/images/site-logo.png{{ end }}">	
+	<meta itemprop="image" content="{{ if .Params.thumbnailImage }}{{.Site.BaseURL}}/{{.Params.thumbnailImage}}{{ else }}{{.Site.BaseURL}}/images/site-logo.png{{ end }}">
 	<meta itemprop="datePublished" content="{{ .Params.date }}">
 	<!-- Twitter Cards -->
 	<meta name="twitter:title" content="{{ if .Title }}{{ .Title }}{{ else }}{{ .Site.Title }}{{ end }}">
@@ -38,6 +38,21 @@
 	<link rel="stylesheet" href="/css/style.css">
 	<link rel="stylesheet" href="/css/media.css">
 
+	<script type="text/javascript" src="//d2wbme9o9qrwly.cloudfront.net/script.js"></script>
 
+	<script>
+	var propertag = propertag || {};
+	propertag.cmd = propertag.cmd || [];
+	(function() {
+	var pm = document.createElement('script');
+	pm.async = true; pm.type = 'text/javascript';
+	var is_ssl = 'https:' == document.location.protocol;
+	pm.src = (is_ssl ? 'https:' : 'http:') + '//global.proper.io/brainsation.min.js';
+	var node = document.getElementsByTagName('script')[0];
+	node.parentNode.insertBefore(pm, node);
+	})();
+	</script>
+	</head>
+	<body>
 
 </head>
